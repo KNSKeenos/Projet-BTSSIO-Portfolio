@@ -1,0 +1,184 @@
+{
+    "IT-Connect": [
+        {
+            "titre": "À partir du 3 août 2026, Google va utiliser votre adresse IP pour le ciblage publicitaire !",
+            "lien": "https://www.it-connect.fr/a-partir-du-3-aout-2026-google-va-utiliser-votre-adresse-ip-pour-le-ciblage-publicitaire/",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "FortiBleed : une fuite expose les identifiants VPN de 73 000 pare-feu Fortinet",
+            "lien": "https://www.it-connect.fr/fortibleed-une-fuite-expose-les-identifiants-vpn-de-73-000-pare-feu-fortinet/",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Maintenant : monitoring de conteneurs, d’endpoints et de certificats sans empiler les outils",
+            "lien": "https://www.it-connect.fr/maintenant-supervision-open-source/",
+            "date": "17/06/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "AUR : plus de 1 500 paquets compromis, Arch Linux ferme les inscriptions",
+            "lien": "https://www.it-connect.fr/aur-plus-de-1-500-paquets-compromis-arch-linux-ferme-les-inscriptions/",
+            "date": "17/06/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        }
+    ],
+    "Journal du Hacker": [
+        {
+            "titre": "Organiser ses worktrees dans Antigravity 2.0",
+            "lien": "https://jeanphi-baconnais.gitlab.io/post/2026-antigravity-worktrees/",
+            "date": "17/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Maintenant : monitoring de conteneurs, d’endpoints et de certificats sans empiler les outils",
+            "lien": "https://www.it-connect.fr/maintenant-supervision-open-source/",
+            "date": "17/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Les impacts sur l’infrastructure d’une revente de l’activité d’une entreprise",
+            "lien": "https://carlchenet.com/2026/06/17/les-impacts-sur-linfrastructure-dune-revente-de-lactivite-dune-entreprise/",
+            "date": "17/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Quoi de neuf les devs? #180 - Avec Alex, on y parle Vue, Cut IA, Let’s Encrypt, Sécurité, Angular, etc",
+            "lien": "https://go.itanea.fr/nl180",
+            "date": "16/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        }
+    ],
+    "Korben": [
+        {
+            "titre": "Tapo C675D KIT - 2 objectifs 4K et zéro angle mort",
+            "lien": "https://korben.info/tapo-c675d-kit-camera-solaire-dual-4k.html",
+            "date": "18/06/2026",
+            "image": "https://korben.info/tapo-c675d-kit-camera-solaire-dual-4k/tapo-c675d-kit-camera-solaire-dual-4k-1.jpg"
+        },
+        {
+            "titre": "75 000 pare-feu Fortinet siphonnés : l'attaque FortiBleed touche la moitié du parc mondial",
+            "lien": "https://korben.info/75-000-pare-feu-fortinet-siphonnes-lattaque-fortibleed-touche-la-moitie-du-parc-mondial.html",
+            "date": "18/06/2026",
+            "image": "https://korben.info/75-000-pare-feu-fortinet-siphonnes-lattaque-fortibleed-touche-la-moitie-du-parc-mondial/75-000-pare-feu-fortinet-siphonnes-lattaque-fortibleed-touche-la-moitie-du-parc-mondial-1.webp"
+        },
+        {
+            "titre": "Qwen-Robot Suite - Alibaba donne un corps à son IA",
+            "lien": "https://korben.info/qwen-robot-suite-ia-robotique.html",
+            "date": "18/06/2026",
+            "image": "https://korben.info/qwen-robot-suite-ia-robotique/qwen-robot-suite-ia-robotique-1.jpg"
+        },
+        {
+            "titre": "Le X-59 de la NASA vole plus vite que le son, mais sans le bang qui va avec",
+            "lien": "https://korben.info/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec.html",
+            "date": "17/06/2026",
+            "image": "https://korben.info/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec-1.jpeg"
+        }
+    ],
+    "CERT-FR": [
+        {
+            "titre": "[MàJ] Vulnérabilité dans Zimbra Collaboration Suite (17 juillet 2023)",
+            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-007/",
+            "date": "17/07/2023",
+            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
+        },
+        {
+            "titre": "[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (19 juillet 2023)",
+            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/",
+            "date": "19/07/2023",
+            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
+        },
+        {
+            "titre": "Multiples vulnérabilités dans Exim (02 octobre 2023)",
+            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-010/",
+            "date": "02/10/2023",
+            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
+        },
+        {
+            "titre": "[MàJ] Multiples vulnérabilités dans Cisco IOS XE (17 octobre 2023)",
+            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-011/",
+            "date": "17/10/2023",
+            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
+        }
+    ],
+    "ZDNET": [
+        {
+            "titre": "Les grands groupes flèchent 2Mds€ vers la French Tech",
+            "lien": "https://www.zdnet.fr/actualites/les-grands-groupes-flechent-2mdse-vers-la-french-tech-497188.htm#xtor=RSS-1",
+            "date": "18/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/20230829_tableronde_frenchtech_1-bercyphoto-sebastien-muylaert2.webp"
+        },
+        {
+            "titre": "Pénurie de puces : même Apple annonce des hausses de prix",
+            "lien": "https://www.zdnet.fr/actualites/penurie-de-puces-meme-apple-annonce-des-hausses-de-prix-497191.htm#xtor=RSS-1",
+            "date": "18/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/06/tim-cook-apple.gif"
+        },
+        {
+            "titre": "ZDNET Morning 18/06/2026 : Métro parisien : pourquoi le paiement par CB sera plus cher, L’ordinateur quantique commercial d'ici 5 ans, Premier repli boursier pour SpaceX,...",
+            "lien": "https://www.zdnet.fr/actualites/zdnet-morning-18-06-2026-metro-parisien-pourquoi-le-paiement-par-cb-sera-plus-cher-lordinateur-quantique-commercial-dici-5-ans-premier-repli-boursier-pour-spacex-497186.htm#xtor=RSS-1",
+            "date": "18/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/10/zdnet_1280.jpg"
+        },
+        {
+            "titre": "Amazon anticipe l’arrivée des premiers ordinateurs quantiques commerciaux d’ici 5 à 7 ans",
+            "lien": "https://www.zdnet.fr/actualites/amazon-anticipe-larrivee-des-premiers-ordinateurs-quantiques-commerciaux-dici-5-a-7-ans-497178.htm#xtor=RSS-1",
+            "date": "18/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/Quantique.jpg"
+        }
+    ],
+    "Blog Officiel Zabbix": [
+        {
+            "titre": "Exploring AI Integration in Zabbix with Gemini and WebMCP",
+            "lien": "https://blog.zabbix.com/exploring-ai-integration-in-zabbix-with-gemini-and-webmcp/33050/",
+            "date": "09/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Upgrading Fedora with Zabbix and Ansible",
+            "lien": "https://blog.zabbix.com/upgrading-fedora-with-zabbix-and-ansible/32915/",
+            "date": "20/05/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Zabbix and the Docker API, Part 3: Control",
+            "lien": "https://blog.zabbix.com/zabbix-and-the-docker-api-part-3-control/32961/",
+            "date": "06/05/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Zabbix and the Docker API, Part 2: Adapt",
+            "lien": "https://blog.zabbix.com/zabbix-and-the-docker-api-part-2-adapt/32912/",
+            "date": "29/04/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        }
+    ],
+    "Actualités Dolibarr": [
+        {
+            "titre": "Statistique des tiers - prospects clos affichés",
+            "lien": "https://www.dolibarr.fr/forum/t/statistique-des-tiers-prospects-clos-affiches/51510",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Pb d'envoi de mails",
+            "lien": "https://www.dolibarr.fr/forum/t/pb-denvoi-de-mails/51509",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Gestion projet avancée - gantt avancé - gestion ressources \"critiques\"",
+            "lien": "https://www.dolibarr.fr/forum/t/gestion-projet-avancee-gantt-avance-gestion-ressources-critiques/51506",
+            "date": "17/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Module einvoicing et déploiement git",
+            "lien": "https://www.dolibarr.fr/forum/t/module-einvoicing-et-deploiement-git/51502",
+            "date": "17/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        }
+    ]
+}
