@@ -1,0 +1,31 @@
+name: Mise à jour Veille 7h00
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+
+jobs:
+  update-veille:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Préparer Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Installer Feedparser
+        run: pip install feedparser
+        
+      - name: Exécuter ton script
+        # Assure-toi que ton script python s'appelle bien "Veille_tech_json.py"
+        run: python Veille_tech_json.py
+        
+      - name: Sauvegarder le nouveau veille.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Bot Veille"
+          git add veille.json
+          git commit -m "MAJ Automatique de la veille (7h00)" || echo "Rien à mettre à jour"
+          git push
