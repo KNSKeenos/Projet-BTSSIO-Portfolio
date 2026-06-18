@@ -5,26 +5,25 @@
     <title>Veille Informatique - Portfolio</title>
     <style>
         /* --- THÈME ESPACE & ÉTOILES --- */
-        body {
-            margin: 0;
-            padding: 20px; /* Un peu d'espace autour de tes cartes */
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    body {
+        margin: 0;
+        padding: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
-    /* 1. La couleur de fond principale : un noir très profond */
-            background-color: #050505; 
+        /* Couleur de fond de secours */
+        background-color: #090c15; 
     
-    /* 2. Le dégradé nuit et les étoiles */
-            background-image: 
-                radial-gradient(ellipse at bottom, #10151c 0%, #020203 100%),
-                radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 4px),
-                radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 3px),
-                radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 4px);
-            background-size: 100% 100%, 550px 550px, 350px 350px, 250px 250px;
-            background-position: 0 0, 0 0, 40px 60px, 130px 270px;
+        /* 1. Le dégradé noir bleuté (façon interface moderne) + 2. Les étoiles */
+        background-image: 
+            radial-gradient(ellipse at center, #1a243d 0%, #090c15 100%),
+            radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 4px),
+            radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 3px),
+            radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 4px);
+        background-size: 100% 100%, 550px 550px, 350px 350px, 250px 250px;
+        background-position: 0 0, 0 0, 40px 60px, 130px 270px;
     
-    /* 3. On force la couleur par défaut du texte en blanc */
-            color: #ffffff;
-            min-height: 100vh;
+        color: #ffffff;
+        min-height: 100vh;
 }
 
         .container {
