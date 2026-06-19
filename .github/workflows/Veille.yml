@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: Préparer Python
         uses: actions/setup-python@v5
@@ -26,7 +28,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Bot Veille"
+          git pull origin main --no-edit
           git add veille.json
           git commit -m "MAJ Automatique de la veille" || echo "Rien à mettre à jour"
-          git pull --rebase origin main
-          git push
+          git push origin main
