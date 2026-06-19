@@ -31,7 +31,8 @@ def generer_json_veille():
         "CERT-FR": "https://www.cert.ssi.gouv.fr/alerte/feed/",
         "ZDNET": "https://www.zdnet.fr/feeds/rss/actualites/",
         "Sécurité Debian": "https://www.debian.org/security/dsa-long.fr.rdf", 
-        "Blog Officiel Zabbix": "https://blog.zabbix.com/feed/"
+        "Blog Officiel Zabbix": "https://blog.zabbix.com/feed/",
+        "CVE Feed": "https://cvefeed.io/rssfeed/latest.xml"
     }
     
     donnees_site_web = {}
