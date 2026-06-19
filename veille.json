@@ -1,6 +1,30 @@
 {
     "IT-Connect": [
         {
+            "titre": "Cette faille de Firefox transformait l’IA en complice du vol de vos e-mails",
+            "lien": "https://www.it-connect.fr/cette-faille-de-firefox-transformait-lia-en-complice-du-vol-de-vos-e-mails/",
+            "date": "19/06/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "En France, la DGSI mise sur ChapsVision pour tourner la page Palantir !",
+            "lien": "https://www.it-connect.fr/en-france-la-dgsi-mise-sur-chapsvision-pour-tourner-la-page-palantir/",
+            "date": "19/06/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Microsoft Office et Windows à prix cassés sur GoDeal24 : profitez-en !",
+            "lien": "https://www.it-connect.fr/bon-plan-les-licences-office-2021-et-windows-11-en-promotion/",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Guide ClamAV : installer et configurer un antivirus sur Linux",
+            "lien": "https://www.it-connect.fr/guide-clamav-installer-et-configurer-un-antivirus-sur-linux/",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
             "titre": "À partir du 3 août 2026, Google va utiliser votre adresse IP pour le ciblage publicitaire !",
             "lien": "https://www.it-connect.fr/a-partir-du-3-aout-2026-google-va-utiliser-votre-adresse-ip-pour-le-ciblage-publicitaire/",
             "date": "18/06/2026",
@@ -23,9 +47,39 @@
             "lien": "https://www.it-connect.fr/aur-plus-de-1-500-paquets-compromis-arch-linux-ferme-les-inscriptions/",
             "date": "17/06/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Fête des Pères 2026 : offrez une serrure connectée WELOCK à prix réduit",
+            "lien": "https://www.it-connect.fr/fete-des-peres-2026-offrez-une-serrure-connectee-welock-a-prix-reduit/",
+            "date": "17/06/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "La touche Copilot vous agace ? Microsoft reconnaît le problème et vous laissera la réaffecter",
+            "lien": "https://www.it-connect.fr/la-touche-copilot-vous-agace-microsoft-reconnait-le-probleme-et-vous-laissera-la-reaffecter/",
+            "date": "17/06/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         }
     ],
     "Journal du Hacker": [
+        {
+            "titre": "Actualité Cyber de la semaine du 15/06/2026",
+            "lien": "https://newsletter.erreur403.fr/p/erreur-403-81-fortibleed-expose-les-identifiants-vpn-de-74-000-equipements-fortinet",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "La French Tech joue-t-elle contre la France ?",
+            "lien": "https://grenoble.ninja/la-french-tech-joue-t-elle-contre-la-france/",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Loi RIPOST, quand Nuñez attaque : les « LAPI » ou la surveillance massive des déplacements",
+            "lien": "https://www.laquadrature.net/2026/06/17/loi-ripost-quand-nunez-attaque-les-lapi-ou-la-surveillance-massive-des-deplacements/",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Organiser ses worktrees dans Antigravity 2.0",
             "lien": "https://jeanphi-baconnais.gitlab.io/post/2026-antigravity-worktrees/",
@@ -49,9 +103,39 @@
             "lien": "https://go.itanea.fr/nl180",
             "date": "16/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Cartes v1 (beta)",
+            "lien": "https://cartes.app/blog/v1",
+            "date": "16/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "LaV #278 du 09/06/2026 - La Fondation pour le progrès humain et le libre",
+            "lien": "https://www.libreavous.org/278",
+            "date": "16/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Stockage persistant sur un Kubernetes on Premise",
+            "lien": "https://www.aukfood.fr/stockage-persistant-sur-un-kubernetes-on-premise/",
+            "date": "16/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
+        {
+            "titre": "Super Mario 64 enfin sur Nintendo DS avec un mode coop",
+            "lien": "https://korben.info/nintendo-ds-port-super-mario-64-multijoueur.html",
+            "date": "19/06/2026",
+            "image": "https://korben.info/nintendo-ds-port-super-mario-64-multijoueur/nintendo-ds-port-super-mario-64-multijoueur-1.jpg"
+        },
+        {
+            "titre": "Linux tire un trait sur AppleTalk",
+            "lien": "https://korben.info/linux-tire-un-trait-sur-appletalk.html",
+            "date": "18/06/2026",
+            "image": "https://korben.info/linux-tire-un-trait-sur-appletalk/linux-tire-un-trait-sur-appletalk-1.jpg"
+        },
         {
             "titre": "Tapo C675D KIT - 2 objectifs 4K et zéro angle mort",
             "lien": "https://korben.info/tapo-c675d-kit-camera-solaire-dual-4k.html",
@@ -75,6 +159,30 @@
             "lien": "https://korben.info/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec.html",
             "date": "17/06/2026",
             "image": "https://korben.info/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec-1.jpeg"
+        },
+        {
+            "titre": "Un Yoshi tout n'œuf",
+            "lien": "https://korben.info/avis-yoshi-et-le-livre-mysterieux-test.html",
+            "date": "17/06/2026",
+            "image": "https://korben.info/avis-yoshi-et-le-livre-mysterieux-test/avis-yoshi-et-le-livre-mysterieux-test-1.webp"
+        },
+        {
+            "titre": "Le vieux Pixel de votre tiroir vaut peut-être mieux qu'un serveur",
+            "lien": "https://korben.info/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur.html",
+            "date": "17/06/2026",
+            "image": "https://korben.info/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur-1.jpg"
+        },
+        {
+            "titre": "Commodore Callback 8020 - Le flip phone anti-réseaux sociaux",
+            "lien": "https://korben.info/commodore-callback-8020.html",
+            "date": "16/06/2026",
+            "image": "https://korben.info/commodore-callback-8020/commodore-callback-8020-1.avif"
+        },
+        {
+            "titre": "Le FBI a bâti une fausse ville entière dans un hangar, juste pour la pirater",
+            "lien": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater.html",
+            "date": "16/06/2026",
+            "image": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater-1.jpg"
         }
     ],
     "CERT-FR": [
@@ -101,32 +209,104 @@
             "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-011/",
             "date": "17/10/2023",
             "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
+        },
+        {
+            "titre": "[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (23 octobre 2023)",
+            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-012/",
+            "date": "23/10/2023",
+            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
+        },
+        {
+            "titre": "Vulnérabilité dans Apache Struts 2 (13 décembre 2023)",
+            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/",
+            "date": "13/12/2023",
+            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
+        },
+        {
+            "titre": "[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways (11 janvier 2024)",
+            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/",
+            "date": "11/01/2024",
+            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
+        },
+        {
+            "titre": "[MàJ] Multiples Vulnérabilités dans GitLab (12 janvier 2024)",
+            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/",
+            "date": "12/01/2024",
+            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
+        },
+        {
+            "titre": "[MàJ] Incident affectant les solutions AnyDesk (05 février 2024)",
+            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-003/",
+            "date": "05/02/2024",
+            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
+        },
+        {
+            "titre": "[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
+            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/",
+            "date": "09/02/2024",
+            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
         }
     ],
     "ZDNET": [
         {
-            "titre": "Les grands groupes flèchent 2Mds€ vers la French Tech",
-            "lien": "https://www.zdnet.fr/actualites/les-grands-groupes-flechent-2mdse-vers-la-french-tech-497188.htm#xtor=RSS-1",
-            "date": "18/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/20230829_tableronde_frenchtech_1-bercyphoto-sebastien-muylaert2.webp"
+            "titre": "Une fusée chinoise explose en orbite et génère des dizaines de débris spatiaux",
+            "lien": "https://www.zdnet.fr/actualites/une-fusee-chinoise-se-desintegre-en-orbite-liss-et-les-satellites-starlink-sous-surveillance-497279.htm#xtor=RSS-1",
+            "date": "19/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/fusee-chine.jpg"
         },
         {
-            "titre": "Pénurie de puces : même Apple annonce des hausses de prix",
-            "lien": "https://www.zdnet.fr/actualites/penurie-de-puces-meme-apple-annonce-des-hausses-de-prix-497191.htm#xtor=RSS-1",
-            "date": "18/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/06/tim-cook-apple.gif"
+            "titre": "Rendus, spécifications et prix : tout ce qu’on sait déjà du Galaxy A27 de Samsung",
+            "lien": "https://www.zdnet.fr/actualites/rendus-specifications-et-prix-tout-ce-quon-sait-deja-du-galaxy-a27-de-samsung-497289.htm#xtor=RSS-1",
+            "date": "19/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/galaxy-a27_renders.jpg"
         },
         {
-            "titre": "ZDNET Morning 18/06/2026 : Métro parisien : pourquoi le paiement par CB sera plus cher, L’ordinateur quantique commercial d'ici 5 ans, Premier repli boursier pour SpaceX,...",
-            "lien": "https://www.zdnet.fr/actualites/zdnet-morning-18-06-2026-metro-parisien-pourquoi-le-paiement-par-cb-sera-plus-cher-lordinateur-quantique-commercial-dici-5-ans-premier-repli-boursier-pour-spacex-497186.htm#xtor=RSS-1",
-            "date": "18/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/10/zdnet_1280.jpg"
+            "titre": "Tim Cook le confirme : les prix des iPhone et Mac vont augmenter",
+            "lien": "https://www.zdnet.fr/actualites/tim-cook-le-confirme-les-prix-des-iphone-et-mac-vont-augmenter-497275.htm#xtor=RSS-1",
+            "date": "19/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/apple-iphone.jpg"
         },
         {
-            "titre": "Amazon anticipe l’arrivée des premiers ordinateurs quantiques commerciaux d’ici 5 à 7 ans",
-            "lien": "https://www.zdnet.fr/actualites/amazon-anticipe-larrivee-des-premiers-ordinateurs-quantiques-commerciaux-dici-5-a-7-ans-497178.htm#xtor=RSS-1",
+            "titre": "ZD Tech : L'application du Crédit Agricole mise à genoux par la notification \"test cedric\"",
+            "lien": "https://www.zdnet.fr/actualites/zd-tech-lapplication-du-credit-agricole-mise-a-genoux-par-la-notification-test-cedric-497077.htm#xtor=RSS-1",
+            "date": "19/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/09/zdnet-podcast-bo.jpg"
+        },
+        {
+            "titre": "Comment doper le son des voix et des commentaires sans réveiller toute la maison lors des matchs tardifs",
+            "lien": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-comment-doper-le-son-des-voix-et-des-commentaires-sans-reveiller-toute-la-maison-lors-des-matchs-tardifs-496812.htm#xtor=RSS-1",
             "date": "18/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/Quantique.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/gemini_generated_image_14.jpg"
+        },
+        {
+            "titre": "Test Ugreen FineTrack 2 : ce traqueur Bluetooth très original est parfois supérieur à l'AirTag",
+            "lien": "https://www.zdnet.fr/guide-achat/test-ugreen-finetrack-2-ce-traqueur-bluetooth-tres-original-est-parfois-superieur-a-lairtag-496954.htm#xtor=RSS-1",
+            "date": "18/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/ugreen-finetrack-2-test.jpg"
+        },
+        {
+            "titre": "Qu'est ce que Docker, et pourquoi l'utiliser pour créer des conteneurs",
+            "lien": "https://www.zdnet.fr/pratique/quest-ce-que-docker-et-pourquoi-lutiliser-pour-creer-des-conteneurs-497165.htm#xtor=RSS-1",
+            "date": "18/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/docker-conteneurs-linux-pratique.png"
+        },
+        {
+            "titre": "Un Open Source Week : IONOS offre un socle solide aux projets web construits avec l’open source",
+            "lien": "https://www.zdnet.fr/publicite/un-open-source-week-ionos-offre-un-socle-solide-aux-projets-web-construits-avec-lopen-source-496676.htm#xtor=RSS-1",
+            "date": "18/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/african-american-software-developer-does-visual-coding-creating-software-1.jpg"
+        },
+        {
+            "titre": "OVHcloud annonce le développement de ses propres LLM",
+            "lien": "https://www.zdnet.fr/actualites/ovhcloud-annonce-le-developpement-de-ses-propres-llm-497229.htm#xtor=RSS-1",
+            "date": "18/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/04/ovhcloud_1300.jpg"
+        },
+        {
+            "titre": "Surveillance ou outil collaboratif ? Comment fonctionne le nouveau check-in automatique de Teams",
+            "lien": "https://www.zdnet.fr/actualites/surveillance-ou-outil-collaboratif-comment-fonctionne-le-nouveau-check-in-automatique-de-teams-497225.htm#xtor=RSS-1",
+            "date": "18/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/MSTeamsApp.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -153,31 +333,41 @@
             "lien": "https://blog.zabbix.com/zabbix-and-the-docker-api-part-2-adapt/32912/",
             "date": "29/04/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        }
-    ],
-    "Actualités Dolibarr": [
+        },
         {
-            "titre": "Statistique des tiers - prospects clos affichés",
-            "lien": "https://www.dolibarr.fr/forum/t/statistique-des-tiers-prospects-clos-affiches/51510",
-            "date": "18/06/2026",
+            "titre": "Zabbix and the Docker API, Part 1: Inspect",
+            "lien": "https://blog.zabbix.com/zabbix-and-the-docker-api-part-1-inspect/32860/",
+            "date": "22/04/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Pb d'envoi de mails",
-            "lien": "https://www.dolibarr.fr/forum/t/pb-denvoi-de-mails/51509",
-            "date": "18/06/2026",
+            "titre": "Optimized Monitoring for Hybrid Environments with ICT Solutions",
+            "lien": "https://blog.zabbix.com/optimized-monitoring-for-hybrid-environments-with-ict-solutions/32839/",
+            "date": "15/04/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Gestion projet avancée - gantt avancé - gestion ressources \"critiques\"",
-            "lien": "https://www.dolibarr.fr/forum/t/gestion-projet-avancee-gantt-avance-gestion-ressources-critiques/51506",
-            "date": "17/06/2026",
+            "titre": "Staying Secure: An Inside Look at Zabbix Security Advisories",
+            "lien": "https://blog.zabbix.com/staying-secure-an-inside-look-at-zabbix-security-advisories/32831/",
+            "date": "08/04/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Module einvoicing et déploiement git",
-            "lien": "https://www.dolibarr.fr/forum/t/module-einvoicing-et-deploiement-git/51502",
-            "date": "17/06/2026",
+            "titre": "Highway Monitoring with Zabbix and Nova Rota Oeste",
+            "lien": "https://blog.zabbix.com/highway-monitoring-with-zabbix-and-nova-rota-oeste/32810/",
+            "date": "01/04/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Detect Issues in Your Zabbix Instance Before It’s Too Late",
+            "lien": "https://blog.zabbix.com/detect-issues-in-your-zabbix-instance-before-its-too-late/32741/",
+            "date": "25/03/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Port Monitoring with the Zabbix Widget Switch",
+            "lien": "https://blog.zabbix.com/port-monitoring-with-the-zabbix-widget-switch/32603/",
+            "date": "18/03/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
