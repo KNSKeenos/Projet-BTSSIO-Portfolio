@@ -5,7 +5,6 @@ on:
     - cron: '0 5 * * *'
   workflow_dispatch:
 
-# On force les droits d'écriture pour être sûr à 100%
 permissions:
   contents: write
 
@@ -28,7 +27,7 @@ jobs:
       - name: Exécuter le script
         run: python Veille_tech_json.py
         
-      # On remplace tes commandes Git manuelles par ce plugin "bulldozer"
+      # Git manuelle fait des siennes donc buldozer time !
       - name: Sauvegarder le résultat
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
