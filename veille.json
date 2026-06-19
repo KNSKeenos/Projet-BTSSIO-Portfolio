@@ -35,30 +35,6 @@
             "lien": "https://www.it-connect.fr/fortibleed-une-fuite-expose-les-identifiants-vpn-de-73-000-pare-feu-fortinet/",
             "date": "18/06/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Maintenant : monitoring de conteneurs, d’endpoints et de certificats sans empiler les outils",
-            "lien": "https://www.it-connect.fr/maintenant-supervision-open-source/",
-            "date": "17/06/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "AUR : plus de 1 500 paquets compromis, Arch Linux ferme les inscriptions",
-            "lien": "https://www.it-connect.fr/aur-plus-de-1-500-paquets-compromis-arch-linux-ferme-les-inscriptions/",
-            "date": "17/06/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Fête des Pères 2026 : offrez une serrure connectée WELOCK à prix réduit",
-            "lien": "https://www.it-connect.fr/fete-des-peres-2026-offrez-une-serrure-connectee-welock-a-prix-reduit/",
-            "date": "17/06/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "La touche Copilot vous agace ? Microsoft reconnaît le problème et vous laissera la réaffecter",
-            "lien": "https://www.it-connect.fr/la-touche-copilot-vous-agace-microsoft-reconnait-le-probleme-et-vous-laissera-la-reaffecter/",
-            "date": "17/06/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         }
     ],
     "Journal du Hacker": [
@@ -97,33 +73,15 @@
             "lien": "https://carlchenet.com/2026/06/17/les-impacts-sur-linfrastructure-dune-revente-de-lactivite-dune-entreprise/",
             "date": "17/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Quoi de neuf les devs? #180 - Avec Alex, on y parle Vue, Cut IA, Let’s Encrypt, Sécurité, Angular, etc",
-            "lien": "https://go.itanea.fr/nl180",
-            "date": "16/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Cartes v1 (beta)",
-            "lien": "https://cartes.app/blog/v1",
-            "date": "16/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "LaV #278 du 09/06/2026 - La Fondation pour le progrès humain et le libre",
-            "lien": "https://www.libreavous.org/278",
-            "date": "16/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Stockage persistant sur un Kubernetes on Premise",
-            "lien": "https://www.aukfood.fr/stockage-persistant-sur-un-kubernetes-on-premise/",
-            "date": "16/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
+        {
+            "titre": "Windows NT sur GameCube - Parce que pourquoi pas",
+            "lien": "https://korben.info/windows-nt-nintendo-gamecube.html",
+            "date": "19/06/2026",
+            "image": "https://korben.info/windows-nt-nintendo-gamecube/windows-nt-nintendo-gamecube-1.jpeg"
+        },
         {
             "titre": "Super Mario 64 enfin sur Nintendo DS avec un mode coop",
             "lien": "https://korben.info/nintendo-ds-port-super-mario-64-multijoueur.html",
@@ -153,36 +111,6 @@
             "lien": "https://korben.info/qwen-robot-suite-ia-robotique.html",
             "date": "18/06/2026",
             "image": "https://korben.info/qwen-robot-suite-ia-robotique/qwen-robot-suite-ia-robotique-1.jpg"
-        },
-        {
-            "titre": "Le X-59 de la NASA vole plus vite que le son, mais sans le bang qui va avec",
-            "lien": "https://korben.info/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec.html",
-            "date": "17/06/2026",
-            "image": "https://korben.info/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec-1.jpeg"
-        },
-        {
-            "titre": "Un Yoshi tout n'œuf",
-            "lien": "https://korben.info/avis-yoshi-et-le-livre-mysterieux-test.html",
-            "date": "17/06/2026",
-            "image": "https://korben.info/avis-yoshi-et-le-livre-mysterieux-test/avis-yoshi-et-le-livre-mysterieux-test-1.webp"
-        },
-        {
-            "titre": "Le vieux Pixel de votre tiroir vaut peut-être mieux qu'un serveur",
-            "lien": "https://korben.info/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur.html",
-            "date": "17/06/2026",
-            "image": "https://korben.info/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur-1.jpg"
-        },
-        {
-            "titre": "Commodore Callback 8020 - Le flip phone anti-réseaux sociaux",
-            "lien": "https://korben.info/commodore-callback-8020.html",
-            "date": "16/06/2026",
-            "image": "https://korben.info/commodore-callback-8020/commodore-callback-8020-1.avif"
-        },
-        {
-            "titre": "Le FBI a bâti une fausse ville entière dans un hangar, juste pour la pirater",
-            "lien": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater.html",
-            "date": "16/06/2026",
-            "image": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater-1.jpg"
         }
     ],
     "CERT-FR": [
@@ -220,30 +148,6 @@
             "titre": "Vulnérabilité dans Apache Struts 2 (13 décembre 2023)",
             "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/",
             "date": "13/12/2023",
-            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
-        },
-        {
-            "titre": "[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways (11 janvier 2024)",
-            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/",
-            "date": "11/01/2024",
-            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
-        },
-        {
-            "titre": "[MàJ] Multiples Vulnérabilités dans GitLab (12 janvier 2024)",
-            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/",
-            "date": "12/01/2024",
-            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
-        },
-        {
-            "titre": "[MàJ] Incident affectant les solutions AnyDesk (05 février 2024)",
-            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-003/",
-            "date": "05/02/2024",
-            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
-        },
-        {
-            "titre": "[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
-            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/",
-            "date": "09/02/2024",
             "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
         }
     ],
@@ -283,30 +187,6 @@
             "lien": "https://www.zdnet.fr/guide-achat/test-ugreen-finetrack-2-ce-traqueur-bluetooth-tres-original-est-parfois-superieur-a-lairtag-496954.htm#xtor=RSS-1",
             "date": "18/06/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/ugreen-finetrack-2-test.jpg"
-        },
-        {
-            "titre": "Qu'est ce que Docker, et pourquoi l'utiliser pour créer des conteneurs",
-            "lien": "https://www.zdnet.fr/pratique/quest-ce-que-docker-et-pourquoi-lutiliser-pour-creer-des-conteneurs-497165.htm#xtor=RSS-1",
-            "date": "18/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/docker-conteneurs-linux-pratique.png"
-        },
-        {
-            "titre": "Un Open Source Week : IONOS offre un socle solide aux projets web construits avec l’open source",
-            "lien": "https://www.zdnet.fr/publicite/un-open-source-week-ionos-offre-un-socle-solide-aux-projets-web-construits-avec-lopen-source-496676.htm#xtor=RSS-1",
-            "date": "18/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/african-american-software-developer-does-visual-coding-creating-software-1.jpg"
-        },
-        {
-            "titre": "OVHcloud annonce le développement de ses propres LLM",
-            "lien": "https://www.zdnet.fr/actualites/ovhcloud-annonce-le-developpement-de-ses-propres-llm-497229.htm#xtor=RSS-1",
-            "date": "18/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/04/ovhcloud_1300.jpg"
-        },
-        {
-            "titre": "Surveillance ou outil collaboratif ? Comment fonctionne le nouveau check-in automatique de Teams",
-            "lien": "https://www.zdnet.fr/actualites/surveillance-ou-outil-collaboratif-comment-fonctionne-le-nouveau-check-in-automatique-de-teams-497225.htm#xtor=RSS-1",
-            "date": "18/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/MSTeamsApp.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -345,29 +225,81 @@
             "lien": "https://blog.zabbix.com/optimized-monitoring-for-hybrid-environments-with-ict-solutions/32839/",
             "date": "15/04/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
+        }
+    ],
+    "CVE Feed": [
         {
-            "titre": "Staying Secure: An Inside Look at Zabbix Security Advisories",
-            "lien": "https://blog.zabbix.com/staying-secure-an-inside-look-at-zabbix-security-advisories/32831/",
-            "date": "08/04/2026",
+            "titre": "CVE-2026-54414 - FileRise shared-folder upload path traversal allows arbitrary file write and admin takeover",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-54414",
+            "date": "19/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Highway Monitoring with Zabbix and Nova Rota Oeste",
-            "lien": "https://blog.zabbix.com/highway-monitoring-with-zabbix-and-nova-rota-oeste/32810/",
-            "date": "01/04/2026",
+            "titre": "CVE-2025-7737 - DoS Vulnerability in 10G iSCSI Interface of Hitachi Virtual Storage Platform",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-7737",
+            "date": "19/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Detect Issues in Your Zabbix Instance Before It’s Too Late",
-            "lien": "https://blog.zabbix.com/detect-issues-in-your-zabbix-instance-before-its-too-late/32741/",
-            "date": "25/03/2026",
+            "titre": "CVE-2026-8806 - Denial-of-service (DoS) vulnerability in MELSEC iQ-F Series FX5-ENET/IP Ethernet module",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-8806",
+            "date": "19/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Port Monitoring with the Zabbix Widget Switch",
-            "lien": "https://blog.zabbix.com/port-monitoring-with-the-zabbix-widget-switch/32603/",
-            "date": "18/03/2026",
+            "titre": "CVE-2026-8805 - Denial-of-service (DoS) vulnerability in MELSEC iQ-F Series EtherNet/IP module",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-8805",
+            "date": "19/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-40624 - AVer PTC cameras Files or Directories Accessible to External Parties",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-40624",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-12048 - pgAdmin 4: Stored XSS via untrusted error and plan-node text rendered through html-react-parser",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-12048",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        }
+    ],
+    "Bleeping": [
+        {
+            "titre": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+            "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+            "date": "19/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+            "lien": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+            "lien": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+            "lien": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
+            "lien": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+            "date": "18/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
+            "lien": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
+            "date": "18/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
