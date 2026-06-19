@@ -32,7 +32,7 @@ def generer_json_veille():
         "ZDNET": "https://www.zdnet.fr/feeds/rss/actualites/",
         "Sécurité Debian": "https://www.debian.org/security/dsa-long.fr.rdf", 
         "Blog Officiel Zabbix": "https://blog.zabbix.com/feed/",
-        "CVE Feed": "https://cvefeed.io/rssfeed/latest.xml",
+        "CVE Feed": "https://cvefeed.io/rssfeed/severity/high.xml",
         "Bleeping": "https://www.bleepingcomputer.com/feed/"
     }
     
@@ -45,7 +45,7 @@ def generer_json_veille():
 
         donnees_site_web[nom_site] = []
 
-        for article in flux.entries[:10]:
+        for article in flux.entries[:6]:
             date_brute = article.get('published_parsed') or article.get('updated_parsed')
             date_pub = datetime(*date_brute[:6]).strftime("%d/%m/%Y") if date_brute else "Date inconnue"
             
