@@ -32,7 +32,8 @@ def generer_json_veille():
         "ZDNET": "https://www.zdnet.fr/feeds/rss/actualites/",
         "Sécurité Debian": "https://www.debian.org/security/dsa-long.fr.rdf", 
         "Blog Officiel Zabbix": "https://blog.zabbix.com/feed/",
-        "CVE Feed": "https://cvefeed.io/rssfeed/latest.xml"
+        "CVE Feed": "https://cvefeed.io/rssfeed/latest.xml",
+        "Bleeping": "https://www.bleepingcomputer.com/feed/"
     }
     
     donnees_site_web = {}
