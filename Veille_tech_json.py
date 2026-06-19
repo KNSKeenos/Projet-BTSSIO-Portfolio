@@ -18,7 +18,7 @@ def extraire_image(article, nom_site):
     images_secours = {
         "CERT-FR": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400", 
         "Sécurité Debian": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=400", 
-        "IT-Connect": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400", 
+        "IT-Connect": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400",
     }
     # Renvoie image secours si image site non trouvé
     return images_secours.get(nom_site, "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400")
