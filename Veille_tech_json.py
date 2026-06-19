@@ -4,7 +4,7 @@ import json
 
 def extraire_image(article, nom_site):
     """Tente de trouver une image dans l'article, sinon renvoie une image par défaut."""
-    # balises média de feedparser
+    # récup balises média via feedparser (flux rss)
     if 'media_content' in article and len(article.media_content) > 0:
         return article.media_content[0].get('url')
         
