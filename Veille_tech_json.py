@@ -45,7 +45,7 @@ def generer_json_veille():
 
         donnees_site_web[nom_site] = []
 
-        for article in flux.entries[:6]:
+        for article in flux.entries[:10]:
             date_brute = article.get('published_parsed') or article.get('updated_parsed')
             date_pub = datetime(*date_brute[:6]).strftime("%d/%m/%Y") if date_brute else "Date inconnue"
             
