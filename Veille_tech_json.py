@@ -14,13 +14,13 @@ def extraire_image(article, nom_site):
             if enc.get('type', '').startswith('image/'):
                 return enc.get('url')
                 
-    # Image de secours si image du site non trouvé
+    #Image de secours si image du site non trouvé
     images_secours = {
         "CERT-FR": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400", 
         "Sécurité Debian": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=400", 
         "IT-Connect": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400",
     }
-    # Renvoie image secours si image site non trouvé
+    #Renvoie image secours si image site non trouvé
     return images_secours.get(nom_site, "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400")
     #flux rss des sites (peut être ajouté, ne pas oublié , : et ""
 def generer_json_veille():
@@ -37,28 +37,29 @@ def generer_json_veille():
     }
     
     donnees_site_web = {}
-
+    #récupère les flux rss
     for nom_site, url_flux in sources_rss.items():
         flux = feedparser.parse(url_flux)
+        #Anti bug
         if not flux.entries:
             continue
 
         donnees_site_web[nom_site] = []
-
+        #Récupère les 10 derniers articles, et les met sous format fr (JJ/MM/AAAA)
         for article in flux.entries[:10]:
             date_brute = article.get('published_parsed') or article.get('updated_parsed')
             date_pub = datetime(*date_brute[:6]).strftime("%d/%m/%Y") if date_brute else "Date inconnue"
             
-            # Extraction de l'image de l'article si trouvé
+            #extraction de l'image de l'article si trouvé
             image_url = extraire_image(article, nom_site)
-                
+            #recupère titre article, lien, date, et image
             donnees_site_web[nom_site].append({
                 "titre": article.title,
                 "lien": article.link,
                 "date": date_pub,
-                "image": image_url # <-- Ajout de l'image dans le JSON
+                "image": image_url # <-- ajout de l'image dans le JSON
             })
-
+    #ouvre le .json avec les droits écriture, et efface pour réécrire les nouveau article. indent pour que ce soit lisible
     with open("veille.json", "w", encoding="utf-8") as fichier_json:
         json.dump(donnees_site_web, fichier_json, ensure_ascii=False, indent=4)
         
