@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 5 * * *'
   workflow_dispatch:
-
+  
 permissions:
   contents: write
 
@@ -27,11 +27,9 @@ jobs:
       - name: Exécuter le script
         run: python Veille_tech_json.py
         
+      # Git fait fais des siennes alors bah buldozer hein
       - name: Sauvegarder le résultat
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "Bot Veille"
-          git pull origin main --no-edit
-          git add veille.json
-          git commit -m "MAJ Automatique de la veille" || echo "Rien à mettre à jour"
-          git push origin main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "MAJ Automatique de la veille"
+          file_pattern: 'veille.json'
