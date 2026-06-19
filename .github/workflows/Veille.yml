@@ -28,4 +28,5 @@ jobs:
           git config --local user.name "Bot Veille"
           git add veille.json
           git commit -m "MAJ Automatique de la veille" || echo "Rien à mettre à jour"
+          git pull --rebase origin main
           git push
