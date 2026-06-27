@@ -63,8 +63,20 @@
     ],
     "Journal du Hacker": [
         {
+            "titre": "Veille #62 - 25 actus qu’il ne fallait pas rater cette semaine",
+            "lien": "https://www.camilleroux.com/mistral-ocr-4-ia-locale-accessible-maptoposter-en-python-veille-62/",
+            "date": "26/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Actualité Cybersécurité de la semaine du 22/06/2026",
             "lien": "https://newsletter.erreur403.fr/p/erreur-403-82-lastpass-touche-par-l-attaque-contre-klue",
+            "date": "25/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Prix d'un site WordPress en 2026 : guide complet et simulateur",
+            "lien": "https://www.seomix.fr/prix-site-wordpress/",
             "date": "25/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
@@ -109,80 +121,68 @@
             "lien": "https://cryptolab.re/posts/2026/arretez-latest-docker-compose/",
             "date": "24/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Projet tablette, alternative à Sweepy pour les tâches ménagères",
-            "lien": "https://olivier.dossmann.net/2026/06/alternative_a_sweepy_pour_taches_menageres/",
-            "date": "23/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Top 15 outils open-source d'IA locale (Mac & PC) en 2026",
-            "lien": "https://www.camilleroux.com/top-outils-ia-en-local-2026/",
-            "date": "23/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
         {
-            "titre": "EmuDevz - Le jeu où vous codez votre émulateur NES",
-            "lien": "https://korben.info/emudevz-jeu-coder-emulateur-nes.html",
+            "titre": "Steam Machine - Il passe à 64 Go de RAM et 4 To de SSD avec un simple tournevis",
+            "lien": "https://korben.info/steam-machine-teardown-ram-64go-ssd-4to.html",
             "date": "26/06/2026",
-            "image": "https://korben.info/emudevz-jeu-coder-emulateur-nes/emudevz-jeu-coder-emulateur-nes-1.png"
+            "image": "https://korben.info/steam-machine-teardown-ram-64go-ssd-4to/steam-machine-teardown-ram-64go-ssd-4to-1.jpg"
         },
         {
-            "titre": "Le Casio VL-1 de 1981 modernisée pour quelques euros",
-            "lien": "https://korben.info/le-casio-vl-1-de-1981-modernisee-pour-quelques-euros.html",
+            "titre": "Dropbox se branche à Claude Code et lui permet de lire vos fichiers",
+            "lien": "https://korben.info/dropbox-plugin-claude-code.html",
             "date": "26/06/2026",
-            "image": "https://korben.info/le-casio-vl-1-de-1981-modernisee-pour-quelques-euros/le-casio-vl-1-de-1981-modernisee-pour-quelques-euros-1.jpg"
+            "image": "https://korben.info/dropbox-plugin-claude-code/dropbox-plugin-claude-code-1.png"
         },
         {
-            "titre": "GB-Link USB - Faites jouer vos vraies Game Boy en ligne",
-            "lien": "https://korben.info/gb-link-usb-game-boy-online-multijoueur.html",
+            "titre": "Dolphin - Le Game Boy Player émulé, et c'était pas une blague",
+            "lien": "https://korben.info/dolphin-emulator-2606-game-boy-player.html",
             "date": "26/06/2026",
-            "image": "https://korben.info/gb-link-usb-game-boy-online-multijoueur/gb-link-usb-game-boy-online-multijoueur-1.jpg"
+            "image": "https://korben.info/dolphin-emulator-2606-game-boy-player/dolphin-emulator-2606-game-boy-player-1.png"
         },
         {
-            "titre": "OS9Map - OpenStreetMap sur votre Mac de 1999",
-            "lien": "https://korben.info/os9map-openstreetmap-mac-os-9.html",
+            "titre": "Dream Server - Un serveur IA complet chez vous en une commande",
+            "lien": "https://korben.info/dream-server-ia-locale-auto-hebergee.html",
             "date": "26/06/2026",
-            "image": "https://korben.info/os9map-openstreetmap-mac-os-9/os9map-openstreetmap-mac-os-9-1.png"
+            "image": "https://korben.info/dream-server-ia-locale-auto-hebergee/dream-server-ia-locale-auto-hebergee-1.png"
         },
         {
-            "titre": "Half-Life 2 dans le navigateur - Le hack d'un lycéen",
-            "lien": "https://korben.info/half-life-2-navigateur-webassembly-slqnt.html",
-            "date": "25/06/2026",
-            "image": "https://korben.info/half-life-2-navigateur-webassembly-slqnt/half-life-2-navigateur-webassembly-slqnt-1.jpg"
+            "titre": "Communautés tech toxiques, faudrait en parler à un moment",
+            "lien": "https://korben.info/communautes-tech-toxiques-boys-club.html",
+            "date": "26/06/2026",
+            "image": "https://korben.info/communautes-tech-toxiques-boys-club/communautes-tech-toxiques-boys-club-1.png"
         },
         {
-            "titre": "Adblock for YouTube - 10 millions d'installs et un piège dormant",
-            "lien": "https://korben.info/adblock-youtube-extension-injection-script.html",
-            "date": "25/06/2026",
-            "image": "https://korben.info/adblock-youtube-extension-injection-script/adblock-youtube-extension-injection-script-1.png"
+            "titre": "Game Porting Toolkit 4 - Les jeux Windows enfin fluides sur Mac",
+            "lien": "https://korben.info/game-porting-toolkit-4-jeux-windows-mac.html",
+            "date": "26/06/2026",
+            "image": "https://korben.info/game-porting-toolkit-4-jeux-windows-mac/game-porting-toolkit-4-jeux-windows-mac-1.png"
         },
         {
-            "titre": "Pannes d'IA - Les coupures ont été multipliées par 8 en un an",
-            "lien": "https://korben.info/fiabilite-ia-pannes-downdetector-2026.html",
-            "date": "25/06/2026",
-            "image": "https://korben.info/fiabilite-ia-pannes-downdetector-2026/fiabilite-ia-pannes-downdetector-2026-1.png"
+            "titre": "ANES - Il greffe une seconde puce graphique dans sa NES",
+            "lien": "https://korben.info/anes-nes-double-ppu.html",
+            "date": "26/06/2026",
+            "image": "https://korben.info/anes-nes-double-ppu/anes-nes-double-ppu-1.png"
         },
         {
-            "titre": "Cache-aware scheduling - Le patch Linux qui vise +360% de perf sur MySQL",
-            "lien": "https://korben.info/cache-aware-scheduling-linux-hygon.html",
-            "date": "25/06/2026",
-            "image": "https://korben.info/cache-aware-scheduling-linux-hygon/cache-aware-scheduling-linux-hygon-1.png"
+            "titre": "BioPass - Déverrouiller son Linux avec sa tronche et son doigt",
+            "lien": "https://korben.info/biopass-login-biometrique-linux.html",
+            "date": "26/06/2026",
+            "image": "https://korben.info/biopass-login-biometrique-linux/biopass-login-biometrique-linux-1.png"
         },
         {
-            "titre": "Clash of Clans 2012 - La version disparue est rejouable en ligne",
-            "lien": "https://korben.info/clash-of-clans-2012-navigateur.html",
-            "date": "25/06/2026",
-            "image": "https://korben.info/clash-of-clans-2012-navigateur/clash-of-clans-2012-navigateur-1.png"
+            "titre": "macUSB - Créer une clé USB macOS sans toucher au Terminal",
+            "lien": "https://korben.info/macusb-cle-usb-bootable-macos.html",
+            "date": "26/06/2026",
+            "image": "https://korben.info/macusb-cle-usb-bootable-macos/macusb-cle-usb-bootable-macos-1.jpeg"
         },
         {
-            "titre": "Snake sur un switch Ubiquiti - Parfaitement inutile, donc génial",
-            "lien": "https://korben.info/snake-switch-ubiquiti-etherlighting.html",
-            "date": "25/06/2026",
-            "image": "https://korben.info/snake-switch-ubiquiti-etherlighting/snake-switch-ubiquiti-etherlighting-1.png"
+            "titre": "Une IA a lu un rouleau carbonisé par le Vésuve il y a près de 2 000 ans",
+            "lien": "https://korben.info/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans.html",
+            "date": "26/06/2026",
+            "image": "https://korben.info/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans-1.jpg"
         }
     ],
     "CERT-FR": [
@@ -249,64 +249,64 @@
     ],
     "ZDNET": [
         {
-            "titre": "Filtre anti arnaque : la Commission européenne demande à la France de revoir sa copie",
-            "lien": "https://www.zdnet.fr/actualites/filtre-anti-arnaque-la-commission-europeenne-demande-a-la-france-de-revoir-sa-copie-497640.htm#xtor=RSS-1",
-            "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/gettyimages-1437761046-1.jpg"
+            "titre": "Quick Cursor : l'appli Android gratuite qui révolutionne l'utilisation du téléphone d'une seule main",
+            "lien": "https://www.zdnet.fr/pratique/quick-cursor-lappli-android-gratuite-qui-revolutionne-lutilisation-du-telephone-dune-seule-main-497642.htm#xtor=RSS-1",
+            "date": "27/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/quick-cursor_une.jpg"
         },
         {
-            "titre": "DeepSeek change d’échelle : après une levée de fonds record, le champion chinois de l’IA double ses effectifs",
-            "lien": "https://www.zdnet.fr/actualites/deepseek-change-dechelle-apres-une-levee-de-fonds-record-le-champion-chinois-de-lia-double-ses-effectifs-497746.htm#xtor=RSS-1",
-            "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/09/deepseek.jpg"
+            "titre": "Pourquoi l'image de vos matchs paraît moins éclatante chez vous qu'en magasin (et comment régler votre TV)",
+            "lien": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-pourquoi-limage-de-vos-matchs-parait-moins-eclatante-chez-vous-quen-magasin-et-comment-regler-votre-tv-496841.htm#xtor=RSS-1",
+            "date": "27/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/gemini_generated_image_10.jpg"
         },
         {
-            "titre": "Chrome 150 va désactiver votre bloqueur de pub, et c'est un vrai problème de sécurité",
-            "lien": "https://www.zdnet.fr/actualites/chrome-150-va-desactiver-votre-bloqueur-de-pub-et-cest-un-vrai-probleme-de-securite-497745.htm#xtor=RSS-1",
+            "titre": "PC pratique : l’outil Windows gratuit AppControl montre exactement pourquoi votre ordinateur ralentit",
+            "lien": "https://www.zdnet.fr/pratique/pc-pratique-loutil-windows-gratuit-appcontrol-montre-exactement-pourquoi-votre-ordinateur-ralentit-497734.htm#xtor=RSS-1",
             "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/google-chrome-1.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/appcontrol-test.jpg"
         },
         {
-            "titre": "Le poids de votre PC portable ne freine plus la mobilité professionnelle",
-            "lien": "https://www.zdnet.fr/publicite/le-poids-de-votre-pc-portable-ne-freine-plus-la-mobilite-professionnelle-497695.htm#xtor=RSS-1",
+            "titre": "Windows 11 et 8 Go de RAM : Le grand rétropédalage de Microsoft",
+            "lien": "https://www.zdnet.fr/actualites/windows-11-et-8-go-de-ram-le-grand-retropedalage-de-microsoft-497807.htm#xtor=RSS-1",
             "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/adobestock-1708855284-dell-dx13260-gy.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/05/microsoft-surface-laptop-13-inch-2024-silver-amazon-big-spring-sale-2025.webp"
         },
         {
-            "titre": "Apple augmente les prix de tous ses MacBook et iPad : même le MacBook Neo n'y échappe pas",
-            "lien": "https://www.zdnet.fr/actualites/apple-augmente-les-prix-de-tous-ses-macbook-et-ipad-meme-le-macbook-neo-ny-echappe-pas-497741.htm#xtor=RSS-1",
+            "titre": "Pourquoi Bercy a débranché l'IA d'Alibaba du Trésor",
+            "lien": "https://www.zdnet.fr/actualites/pourquoi-bercy-a-debranche-lia-dalibaba-du-tresor-497805.htm#xtor=RSS-1",
             "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/macbook.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/01/ia-au-bureau-cette-habitude-anodine-met-votre-entreprise-en-danger-sans-que-vous-le-sachiez-selon-la-dgsi.jpeg"
         },
         {
-            "titre": "Cartes.gouv.fr : le nouveau portail carto souverain qui veut séduire les pros face à Google Maps",
-            "lien": "https://www.zdnet.fr/actualites/cartes-gouv-fr-le-nouveau-portail-carto-souverain-qui-veut-seduire-les-pros-face-a-google-maps-497716.htm#xtor=RSS-1",
+            "titre": "Web pratique : remplacez Google Search par DuckDuckGo et Perplexity pour de meilleurs résultats",
+            "lien": "https://www.zdnet.fr/pratique/web-pratique-remplacez-google-search-par-duckduckgo-et-perplexity-pour-des-resultats-nettement-ameliores-497650.htm#xtor=RSS-1",
             "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/ign.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/remplacer-google-par-duckduckgo-et-perplexity-pratique.webp"
         },
         {
-            "titre": "Comment l’IA a permis de mettre en lumière les liens entre Amadey et StealC",
-            "lien": "https://www.zdnet.fr/actualites/comment-lia-a-permis-de-mettre-en-lumiere-les-liens-entre-amadey-et-stealc-497667.htm#xtor=RSS-1",
+            "titre": "Norton - France-Norvège : protéger les identifiants pros quand les salariés suivent le match sur plusieurs écrans",
+            "lien": "https://www.zdnet.fr/publicite/norton-france-norvege-proteger-les-identifiants-pros-quand-les-salaries-suivent-le-match-sur-plusieurs-ecrans-497445.htm#xtor=RSS-1",
             "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/06/muha-ajjan-sl2brr1cuvm-unsplash-scaled.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/2148894774.jpg"
         },
         {
-            "titre": "AssurTech : Alan atteint une valorisation de 5,5 milliards d'euros",
-            "lien": "https://www.zdnet.fr/actualites/assurtech-alan-atteint-une-valorisation-de-55-milliards-deuros-497719.htm#xtor=RSS-1",
+            "titre": "Votre PC sous Windows 10 vient de bénéficier discrètement d'une année supplémentaire de support gratuit – mais pourquoi ?",
+            "lien": "https://www.zdnet.fr/actualites/votre-pc-sous-windows-10-vient-de-beneficier-discretement-dune-annee-supplementaire-de-support-gratuit-mais-pourquoi-497795.htm#xtor=RSS-1",
             "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/alan_play1280.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/gettyimages-1237969321.webp"
         },
         {
-            "titre": "ZD Tech : Une IA valide par erreur une offre de rachat à 16 000 euros chez BMW",
-            "lien": "https://www.zdnet.fr/actualites/zd-tech-une-ia-valide-par-erreur-une-offre-de-rachat-a-16-000-euros-chez-bmw-497584.htm#xtor=RSS-1",
+            "titre": "Hébergement e-commerce : comment choisir la bonne solution pour sa boutique en ligne ?",
+            "lien": "https://www.zdnet.fr/guide-achat/hebergement-e-commerce-comment-choisir-la-bonne-solution-pour-sa-boutique-en-ligne-497413.htm#xtor=RSS-1",
             "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/09/zdnet-podcast-bo.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/hebergement-e-commerce-1.png"
         },
         {
-            "titre": "Binance éjecté de France au 1er juillet",
-            "lien": "https://www.zdnet.fr/actualites/binance-ejecte-de-france-au-1er-juillet-497732.htm#xtor=RSS-1",
+            "titre": "Voici comment l'IA rend de plus en plus floues les frontières entre designers et développeurs",
+            "lien": "https://www.zdnet.fr/actualites/voici-comment-lia-rend-de-plus-en-plus-floues-les-frontieres-entre-designers-et-developpeurs-497670.htm#xtor=RSS-1",
             "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/Binance.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/04/intelligence-artificielle-1.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,97 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-2053 - Unauthenticated Server-Side Request Forgery via WS-Addressing in WSO2 API Manager",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-2053",
+            "titre": "CVE-2026-56414 - H.VIEW HV-500S6 IP Camera Unrestricted Upload of File with Dangerous Type",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-56414",
             "date": "26/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-57881 - GV-LPC2011/LPC2211 - unauthorized stack-based buffer overflow vulnerability (vlsvr)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-57881",
+            "titre": "CVE-2026-55975 - H.VIEW HV-500S6 IP Camera OS Command Injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55975",
             "date": "26/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-57880 - GV-LPC2011/LPC2211 - unauthorized buffer overflow via RTSP Digest username (ssvr)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-57880",
+            "titre": "CVE-2026-31928 - Daktronics Controller Firmware Use of Hard-coded Credentials",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-31928",
             "date": "26/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-57879 - GV-LPC2011/LPC2211 - unauthorized buffer overflow via AuthMode/AuthValue path (ssvr)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-57879",
+            "titre": "CVE-2026-33560 - Daktronics Controller Firmware Unrestricted Upload of File with Dangerous Type",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-33560",
             "date": "26/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-57878 - GV-LPC2011/LPC2211 - unauthorized buffer overflow vulnerability (thttpd)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-57878",
+            "titre": "CVE-2026-28701 - Daktronics Controller Firmware Path Traversal",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-28701",
             "date": "26/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-57877 - GV-LPC2011/LPC2211 - unauthorized format string vulnerability (vlsvr)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-57877",
+            "titre": "CVE-2026-49869 - Kestra: Unauthenticated Remote Code Execution via Authentication Bypass in `AuthenticationFilter`",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-49869",
             "date": "26/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-8797 - An access control deficiency vulnerability exists",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-8797",
+            "titre": "CVE-2026-53576 - Kestra: Unauthenticated RCE via /configs path-suffix auth-filter bypass",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-53576",
             "date": "26/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-50741 - Nuxeo XML-RPC Bypass for CVE-2026-34916",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-50741",
+            "titre": "CVE-2026-55069 - Kestra BasicAuth Password Stored as SHA-512 Enables Offline Brute-Force Attack",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55069",
             "date": "26/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-9222 - Setracker2 Children's Smartwatch Ecosystem Use of password hash instead of password for authentication",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-9222",
-            "date": "25/06/2026",
+            "titre": "CVE-2026-54351 - Budibase: Mass Assignment in Webhook Trigger Allows Cross-Workspace Automation Execution via appId Override",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-54351",
+            "date": "26/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-9221 - Setracker2 Children's Smartwatch Ecosystem Use of a Broken or Risky Cryptographic Algorithm",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-9221",
-            "date": "25/06/2026",
+            "titre": "CVE-2026-54353 - Budibase: Potential SSRF DNS rebinding bypass in outbound fetch validation",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-54353",
+            "date": "26/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "FBI: Russian hackers now target Signal backup recovery keys",
+            "lien": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+            "date": "26/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+            "lien": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+            "date": "26/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Polymarket customers lose $3 million in supply-chain attack",
+            "lien": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+            "date": "26/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+            "lien": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
+            "date": "26/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Your First GRC Agent: A Red Teamer's Walkthrough",
+            "lien": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+            "date": "26/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Anthropic is testing desktop-like Claude Cowork for mobile",
             "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
@@ -462,36 +492,6 @@
             "titre": "New macOS malware embeds fake errors to confuse AI analysis tools",
             "lien": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
             "date": "25/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "PirloTV sports piracy network disrupted as 44 domains seized",
-            "lien": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
-            "date": "25/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
-            "lien": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
-            "date": "25/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "The Four Elevations of Effective Fraud Prevention",
-            "lien": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
-            "date": "25/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Webinar: Why account takeovers remain one of the hardest threats to stop",
-            "lien": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
-            "date": "25/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Google releases new privacy controls for activity history, personalization",
-            "lien": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
-            "date": "24/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
