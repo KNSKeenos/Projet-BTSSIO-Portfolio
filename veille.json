@@ -63,6 +63,12 @@
     ],
     "Journal du Hacker": [
         {
+            "titre": "Terminal.com : un shell web complet avec un LLM qui tourne dans votre navigateur",
+            "lien": "https://www.geeek.org/terminal-com-shell-web-llm-local/",
+            "date": "27/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Veille #62 - 25 actus qu’il ne fallait pas rater cette semaine",
             "lien": "https://www.camilleroux.com/mistral-ocr-4-ia-locale-accessible-maptoposter-en-python-veille-62/",
             "date": "26/06/2026",
@@ -81,14 +87,14 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Plane : une alternative agile à Jira ?",
-            "lien": "https://blog.stephane-robert.info/post/plane-jira-alernative/",
+            "titre": "Jean-Loup Gailly : l'homme derrière gzip et zlib",
+            "lien": "https://blog.shevarezo.fr/post/2026/06/24/jean-loup-gailly-homme-derriere-gzip-zlib",
             "date": "24/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Jean-Loup Gailly : l'homme derrière gzip et zlib",
-            "lien": "https://blog.shevarezo.fr/post/2026/06/24/jean-loup-gailly-homme-derriere-gzip-zlib",
+            "titre": "Plane : une alternative agile à Jira ?",
+            "lien": "https://blog.stephane-robert.info/post/plane-jira-alernative/",
             "date": "24/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
@@ -115,15 +121,45 @@
             "lien": "https://tazmenworld.com/2026/06/11/quel-materiel-et-pour-quel-prix-en-2026-pour-faire-de-lia-en-local/",
             "date": "24/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Docker Compose : arrêtez de mettre latest dans vos fichiers",
-            "lien": "https://cryptolab.re/posts/2026/arretez-latest-docker-compose/",
-            "date": "24/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
+        {
+            "titre": "JaiLIP - L'image piégée qui débride les IA qui voient",
+            "lien": "https://korben.info/image-piegee-jailbreak-ia-vision-langage.html",
+            "date": "28/06/2026",
+            "image": "https://korben.info/image-piegee-jailbreak-ia-vision-langage/image-piegee-jailbreak-ia-vision-langage-1.png"
+        },
+        {
+            "titre": "GBCYouTube - YouTube en direct sur une Game Boy Color",
+            "lien": "https://korben.info/youtube-game-boy-color-cartouche.html",
+            "date": "28/06/2026",
+            "image": "https://korben.info/youtube-game-boy-color-cartouche/youtube-game-boy-color-cartouche-1.jpg"
+        },
+        {
+            "titre": "Steam Controller - elle rampe toute seule vers son chargeur",
+            "lien": "https://korben.info/steam-controller-retour-chargeur-autonome.html",
+            "date": "28/06/2026",
+            "image": "https://korben.info/steam-controller-retour-chargeur-autonome/steam-controller-retour-chargeur-autonome-1.jpg"
+        },
+        {
+            "titre": "Beam Universe Splitter - Le hasard quantique fait maison",
+            "lien": "https://korben.info/beam-universe-splitter-hasard-quantique.html",
+            "date": "28/06/2026",
+            "image": "https://korben.info/beam-universe-splitter-hasard-quantique/beam-universe-splitter-hasard-quantique-1.png"
+        },
+        {
+            "titre": "DNS4EU refuse de bloquer les sites pirates de la BREIN",
+            "lien": "https://korben.info/dns4eu-blocklist-sites-pirates.html",
+            "date": "27/06/2026",
+            "image": "https://korben.info/dns4eu-blocklist-sites-pirates/dns4eu-blocklist-sites-pirates-1.jpg"
+        },
+        {
+            "titre": "La faille d'Amazon Q : ouvrir un projet suffisait à se faire voler ses accès au cloud",
+            "lien": "https://korben.info/la-faille-damazon-q-ouvrir-un-projet-suffisait-a-se-faire-voler-ses-acces-au-cloud.html",
+            "date": "27/06/2026",
+            "image": "https://korben.info/la-faille-damazon-q-ouvrir-un-projet-suffisait-a-se-faire-voler-ses-acces-au-cloud/la-faille-damazon-q-ouvrir-un-projet-suffisait-a-se-faire-voler-ses-acces-au-cloud-1.jpg"
+        },
         {
             "titre": "Steam Machine - Il passe à 64 Go de RAM et 4 To de SSD avec un simple tournevis",
             "lien": "https://korben.info/steam-machine-teardown-ram-64go-ssd-4to.html",
@@ -147,42 +183,6 @@
             "lien": "https://korben.info/dream-server-ia-locale-auto-hebergee.html",
             "date": "26/06/2026",
             "image": "https://korben.info/dream-server-ia-locale-auto-hebergee/dream-server-ia-locale-auto-hebergee-1.png"
-        },
-        {
-            "titre": "Communautés tech toxiques, faudrait en parler à un moment",
-            "lien": "https://korben.info/communautes-tech-toxiques-boys-club.html",
-            "date": "26/06/2026",
-            "image": "https://korben.info/communautes-tech-toxiques-boys-club/communautes-tech-toxiques-boys-club-1.png"
-        },
-        {
-            "titre": "Game Porting Toolkit 4 - Les jeux Windows enfin fluides sur Mac",
-            "lien": "https://korben.info/game-porting-toolkit-4-jeux-windows-mac.html",
-            "date": "26/06/2026",
-            "image": "https://korben.info/game-porting-toolkit-4-jeux-windows-mac/game-porting-toolkit-4-jeux-windows-mac-1.png"
-        },
-        {
-            "titre": "ANES - Il greffe une seconde puce graphique dans sa NES",
-            "lien": "https://korben.info/anes-nes-double-ppu.html",
-            "date": "26/06/2026",
-            "image": "https://korben.info/anes-nes-double-ppu/anes-nes-double-ppu-1.png"
-        },
-        {
-            "titre": "BioPass - Déverrouiller son Linux avec sa tronche et son doigt",
-            "lien": "https://korben.info/biopass-login-biometrique-linux.html",
-            "date": "26/06/2026",
-            "image": "https://korben.info/biopass-login-biometrique-linux/biopass-login-biometrique-linux-1.png"
-        },
-        {
-            "titre": "macUSB - Créer une clé USB macOS sans toucher au Terminal",
-            "lien": "https://korben.info/macusb-cle-usb-bootable-macos.html",
-            "date": "26/06/2026",
-            "image": "https://korben.info/macusb-cle-usb-bootable-macos/macusb-cle-usb-bootable-macos-1.jpeg"
-        },
-        {
-            "titre": "Une IA a lu un rouleau carbonisé par le Vésuve il y a près de 2 000 ans",
-            "lien": "https://korben.info/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans.html",
-            "date": "26/06/2026",
-            "image": "https://korben.info/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans-1.jpg"
         }
     ],
     "CERT-FR": [
@@ -249,6 +249,30 @@
     ],
     "ZDNET": [
         {
+            "titre": "Couleurs, contraste, luminosité : les bons réglages pour une image réaliste",
+            "lien": "https://www.zdnet.fr/guide-achat/couleurs-contraste-luminosite-les-bons-reglages-pour-une-image-realiste-497709.htm#xtor=RSS-1",
+            "date": "28/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/tv-1.jpg"
+        },
+        {
+            "titre": "Le guide ultime des ports HDMI pour ne rater aucune action (ni aucun but) des Bleus",
+            "lien": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-le-guide-ultime-des-ports-hdmi-pour-ne-rater-aucune-action-ni-aucun-but-des-bleus-496843.htm#xtor=RSS-1",
+            "date": "27/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/gemini_generated_image_16.jpg"
+        },
+        {
+            "titre": "Vous avez un PC qui ne sert plus ? Comment créer une maison connectée open source… gratuitement",
+            "lien": "https://www.zdnet.fr/pratique/vous-avez-un-pc-qui-ne-sert-plus-comment-creer-une-maison-connectee-open-source-gratuitement-497798.htm#xtor=RSS-1",
+            "date": "27/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/hohero.webp"
+        },
+        {
+            "titre": "Pourquoi votre barre de son sonne mal pendant les matchs et comment y remédier en 4 étapes",
+            "lien": "https://www.zdnet.fr/pratique/pourquoi-votre-barre-de-son-sonne-mal-pendant-les-matchs-et-comment-y-remedier-en-4-etapes-497659.htm#xtor=RSS-1",
+            "date": "27/06/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/barre-de-son.jpg"
+        },
+        {
             "titre": "Quick Cursor : l'appli Android gratuite qui révolutionne l'utilisation du téléphone d'une seule main",
             "lien": "https://www.zdnet.fr/pratique/quick-cursor-lappli-android-gratuite-qui-revolutionne-lutilisation-du-telephone-dune-seule-main-497642.htm#xtor=RSS-1",
             "date": "27/06/2026",
@@ -283,30 +307,6 @@
             "lien": "https://www.zdnet.fr/pratique/web-pratique-remplacez-google-search-par-duckduckgo-et-perplexity-pour-des-resultats-nettement-ameliores-497650.htm#xtor=RSS-1",
             "date": "26/06/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/remplacer-google-par-duckduckgo-et-perplexity-pratique.webp"
-        },
-        {
-            "titre": "Norton - France-Norvège : protéger les identifiants pros quand les salariés suivent le match sur plusieurs écrans",
-            "lien": "https://www.zdnet.fr/publicite/norton-france-norvege-proteger-les-identifiants-pros-quand-les-salaries-suivent-le-match-sur-plusieurs-ecrans-497445.htm#xtor=RSS-1",
-            "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/2148894774.jpg"
-        },
-        {
-            "titre": "Votre PC sous Windows 10 vient de bénéficier discrètement d'une année supplémentaire de support gratuit – mais pourquoi ?",
-            "lien": "https://www.zdnet.fr/actualites/votre-pc-sous-windows-10-vient-de-beneficier-discretement-dune-annee-supplementaire-de-support-gratuit-mais-pourquoi-497795.htm#xtor=RSS-1",
-            "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/gettyimages-1237969321.webp"
-        },
-        {
-            "titre": "Hébergement e-commerce : comment choisir la bonne solution pour sa boutique en ligne ?",
-            "lien": "https://www.zdnet.fr/guide-achat/hebergement-e-commerce-comment-choisir-la-bonne-solution-pour-sa-boutique-en-ligne-497413.htm#xtor=RSS-1",
-            "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/hebergement-e-commerce-1.png"
-        },
-        {
-            "titre": "Voici comment l'IA rend de plus en plus floues les frontières entre designers et développeurs",
-            "lien": "https://www.zdnet.fr/actualites/voici-comment-lia-rend-de-plus-en-plus-floues-les-frontieres-entre-designers-et-developpeurs-497670.htm#xtor=RSS-1",
-            "date": "26/06/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/04/intelligence-artificielle-1.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,6 +373,54 @@
     ],
     "CVE Feed": [
         {
+            "titre": "CVE-2026-58054 - MyBB - Privilege Escalation from Limited ACP User Management to Administrator",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-58054",
+            "date": "28/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-58053 - Gitea act_runner - Container Hardening Bypass via Workflow Container Options",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-58053",
+            "date": "28/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-58051 - libssh2 - Free of Uninitialized Pointer in publickey List Cleanup",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-58051",
+            "date": "28/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-58050 - libssh2 - Integer Overflow in publickey Subsystem Attribute Allocation",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-58050",
+            "date": "28/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-58049 - FFmpeg - Out-of-Bounds Write in RASC Decoder decode_dlta()",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-58049",
+            "date": "28/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-8095 - Frontend File Manager Plugin <= 23.6 - Authenticated (Subscriber+) Arbitrary File Deletion",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-8095",
+            "date": "27/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-10643 - Out-of-bounds heap write in Zephyr `recvmsg()` ancillary-data path (`insert_pktinfo` undersizes the control-buffer capacity check)",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-10643",
+            "date": "27/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-12415 - Invoice Generator <= 1.0.0 - Unauthenticated Privilege Escalation via Account Takeover via 'user_id' Parameter",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-12415",
+            "date": "27/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "CVE-2026-56414 - H.VIEW HV-500S6 IP Camera Unrestricted Upload of File with Dangerous Type",
             "lien": "https://cvefeed.io/vuln/detail/CVE-2026-56414",
             "date": "26/06/2026",
@@ -383,57 +431,15 @@
             "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55975",
             "date": "26/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-31928 - Daktronics Controller Firmware Use of Hard-coded Credentials",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-31928",
-            "date": "26/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-33560 - Daktronics Controller Firmware Unrestricted Upload of File with Dangerous Type",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-33560",
-            "date": "26/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-28701 - Daktronics Controller Firmware Path Traversal",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-28701",
-            "date": "26/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-49869 - Kestra: Unauthenticated Remote Code Execution via Authentication Bypass in `AuthenticationFilter`",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-49869",
-            "date": "26/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-53576 - Kestra: Unauthenticated RCE via /configs path-suffix auth-filter bypass",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-53576",
-            "date": "26/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-55069 - Kestra BasicAuth Password Stored as SHA-512 Enables Offline Brute-Force Attack",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55069",
-            "date": "26/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-54351 - Budibase: Mass Assignment in Webhook Trigger Allows Cross-Workspace Automation Execution via appId Override",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-54351",
-            "date": "26/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-54353 - Budibase: Potential SSRF DNS rebinding bypass in outbound fetch validation",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-54353",
-            "date": "26/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Clean GitHub repo tricks AI coding agents into running malware",
+            "lien": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+            "date": "27/06/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "FBI: Russian hackers now target Signal backup recovery keys",
             "lien": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
@@ -485,12 +491,6 @@
         {
             "titre": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
             "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
-            "date": "25/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "New macOS malware embeds fake errors to confuse AI analysis tools",
-            "lien": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
             "date": "25/06/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
