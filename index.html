@@ -2,139 +2,147 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Lucas OMAN</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio | Accueil</title>
     <style>
-        /* --- THÈME ESPACE & ÉTOILES --- */
-    body {
-        margin: 0;
-        padding: 20px;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
-        /* Couleur de fond de secours */
-        background-color: #090c15; 
-    
-        /* 1. Le dégradé noir bleuté (façon interface moderne) + 2. Les étoiles */
-        background-image: 
-            radial-gradient(ellipse at center, #1a243d 0%, #090c15 100%),
-            radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 4px),
-            radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 3px),
-            radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 4px);
-        background-size: 100% 100%, 550px 550px, 350px 350px, 250px 250px;
-        background-position: 0 0, 0 0, 40px 60px, 130px 270px;
-    
-        color: #ffffff;
-        min-height: 100vh;
-}
+        /* Base du thème sombre (compatible avec un fond étoilé) */
+        body {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: #0d1117; /* Fond sombre type GitHub */
+            color: #c9d1d9;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 40px 20px;
+        header {
+            text-align: center;
+            padding: 4rem 2rem;
+            background: linear-gradient(180deg, #161b22 0%, #0d1117 100%);
+            border-bottom: 1px solid #30363d;
         }
 
         h1 {
-            text-align: center;
-            font-size: 2.5em;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-            text-shadow: 0 0 20px rgba(0, 191, 255, 0.8);
-            margin-bottom: 40px;
+            color: #58a6ff;
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
         }
 
-        /* --- MENU DÉROULANT --- */
-        .filtre-container {
-            text-align: center;
-            margin-bottom: 40px;
+        h2 {
+            color: #8b949e;
+            font-size: 1.2rem;
+            font-weight: 400;
         }
 
-        select {
-            padding: 12px 24px;
-            font-size: 16px;
-            background: rgba(255, 255, 255, 0.1);
-            color: #fff;
-            border: 1px solid rgba(255, 255, 255, 0.3);
-            border-radius: 30px;
-            backdrop-filter: blur(10px); /* Effet verre */
-            outline: none;
-            cursor: pointer;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
-            transition: 0.3s;
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
         }
 
-        select:hover {
-            border-color: #00bfff;
-            box-shadow: 0 0 15px rgba(0, 191, 255, 0.5);
+        .section-title {
+            color: #58a6ff;
+            border-bottom: 2px solid #238636;
+            padding-bottom: 0.5rem;
+            margin-top: 2.5rem;
         }
 
-        select option {
-            background: #1b2735;
-            color: #fff;
-        }
-
-        /* --- GRILLE & CARTES (GLASSMORPHISM) --- */
-        .grille-veille {
+        .grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 25px;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1.5rem;
         }
 
-        .carte-article {
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: 15px;
-            overflow: hidden;
-            backdrop-filter: blur(10px); /* Effet verre poli */
-            text-decoration: none;
-            color: #FFFFFF;
-            display: flex;
-            flex-direction: column;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        .card {
+            background-color: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 1.5rem;
+            transition: transform 0.2s;
         }
 
-        .carte-article:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 10px 30px rgba(0, 191, 255, 0.3);
-            border-color: rgba(0, 191, 255, 0.5);
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: #58a6ff;
         }
 
-        .carte-image {
-            width: 100%;
-            height: 180px;
-            object-fit: cover;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-        }
-
-        .carte-corps {
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            flex-grow: 1;
-        }
-
-        .badge-source {
-            background: linear-gradient(45deg, #00bfff, #005f99);
+        .btn {
+            display: inline-block;
+            background-color: #238636;
             color: white;
-            padding: 5px 10px;
-            border-radius: 20px;
-            font-size: 12px;
+            text-decoration: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 6px;
             font-weight: bold;
-            width: fit-content;
-            margin-bottom: 15px;
-            box-shadow: 0 2px 10px rgba(0, 191, 255, 0.4);
+            margin-top: 1rem;
         }
 
-        .carte-titre {
-            font-size: 16px;
-            margin: 0 0 15px 0;
-            line-height: 1.5;
-            color: #FFFFFF;
-            font-weight: bold;
+        .btn:hover {
+            background-color: #2ea043;
         }
 
-        .carte-date {
-            font-size: 13px;
-            color: #FFFFFF;
-            margin-top: auto;
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+
+        .tag {
+            background-color: #1f6feb;
+            color: white;
+            padding: 0.2rem 0.6rem;
+            border-radius: 12px;
+            font-size: 0.85rem;
         }
     </style>
 </head>
+<body>
+
+    <header>
+        <h1>[Ton Prénom] [Ton Nom]</h1>
+        <h2>Apprenti en Informatique (BTS SIO) & Étudiant en Sociologie</h2>
+    </header>
+
+    <div class="container">
+        <!-- Présentation -->
+        <h3 class="section-title">À propos de moi</h3>
+        <p>
+            Actuellement en alternance au sein d'une entreprise à taille humaine, je combine une approche technique approfondie avec une réflexion axée sur les usages grâce à mon double cursus en sociologie. Passionné par l'automatisation, la gestion d'infrastructure et l'optimisation des performances, j'aime construire des solutions fiables et documentées.
+        </p>
+
+        <!-- Compétences -->
+        <h3 class="section-title">Mes Compétences</h3>
+        <div class="tags">
+            <span class="tag">Linux / Debian</span>
+            <span class="tag">VMware vSphere</span>
+            <span class="tag">Samba4 (AD)</span>
+            <span class="tag">Python</span>
+            <span class="tag">GitHub Actions (CI/CD)</span>
+            <span class="tag">Réseau & Sécurité</span>
+        </div>
+
+        <!-- Projets -->
+        <h3 class="section-title">Mes Projets</h3>
+        <div class="grid">
+            
+            <!-- Carte Projet Veille -->
+            <div class="card">
+                <h3>📡 Veille Technologique Automatisée</h3>
+                <p>Mise en place d'un script Python couplé à GitHub Actions pour agréger et mettre en forme automatiquement les dernières alertes cyber et actualités IT.</p>
+                <a href="Veille.html" class="btn">Voir ma veille</a>
+            </div>
+
+            <!-- Carte Projet Infrastructure (À compléter) -->
+            <div class="card">
+                <h3>🏗️ Infrastructure d'Entreprise</h3>
+                <p>Déploiement et gestion de services internes. Implémentation de reverse proxy, gestion de certificats SSL/TLS et intégration continue.</p>
+                <a href="#" class="btn">Lire le rapport</a>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
