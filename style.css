@@ -91,6 +91,7 @@ h2 {
 .card:hover {
     transform: translateY(-5px);
     border-color: #58a6ff;
+    box-shadow: 0 0 15px rgba(88, 166, 255, 0.4); 
 }
 
 .btn {
