@@ -4,60 +4,43 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio | Accueil</title>
+    <!-- Lien vers notre fameux fichier CSS commun -->
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+    <!-- LA NOUVELLE BARRE DE NAVIGATION (Multi-pages) -->
     <nav class="navbar">
         <a href="index.html" class="nav-link active">Accueil</a>
-        <a href="certifications.html" class="nav-link">Certifications</a>
+        <a href="competences.html" class="nav-link">Compétences & Certifications</a>
         <a href="projets.html" class="nav-link">Projets</a>
         <a href="Veille.html" class="nav-link">Veille</a>
     </nav>
+
     <header>
-        <h1>Lucas OMAN</h1>
-        <h2>Apprenti en Informatique (BTS SIO)</h2>
+        <h1>[Ton Prénom] [Ton Nom]</h1>
+        <h2>Portfolio - BTS Services Informatiques aux Organisations</h2>
     </header>
 
     <div class="container">
-        <!-- Présentation -->
-        <h3 class="section-title">À propos de moi</h3>
+        <!-- Présentation globale -->
+        <h3 class="section-title">À propos de mon profil</h3>
         <p>
-            Actuellement en alternance au sein d'une entreprise à taille humaine, je combine une approche technique approfondie avec une réflexion axée sur les usages grâce à mon double cursus en sociologie. Passionné par l'automatisation, la gestion d'infrastructure et l'optimisation des performances, j'aime construire des solutions fiables et documentées.
+            Bienvenue sur mon portfolio professionnel. Actuellement en formation BTS SIO, mon parcours se distingue par une double casquette : je poursuis simultanément un cursus en sociologie. Cette approche hybride me permet de ne pas concevoir l'informatique uniquement comme une somme de technologies, mais d'intégrer une véritable réflexion sur les usages, l'impact humain et les besoins réels des utilisateurs finaux.
         </p>
 
-        <!-- Compétences -->
-        <h3 class="section-title">Mes Compétences</h3>
-        <div class="tags">
-            <span class="tag">Linux / Debian</span>
-            <span class="tag">VMware vSphere</span>
-            <span class="tag">Samba4 (AD)</span>
-            <span class="tag">Python</span>
-            <span class="tag">GitHub Actions (CI/CD)</span>
-            <span class="tag">Réseau & Sécurité</span>
-            <span class="tag">Rubrik</span>
-            <span class="tag">Scale Computing</span>
-            <span class="tag">Solution Serveur Web (LAMP & WAMP)</span>
-            <span class="tag">Supervision (Beszel/Zabbix/Centreon)</span>
-        </div>
+        <!-- Contexte d'alternance et école -->
+        <h3 class="section-title">Mon Alternance & Mon École</h3>
+        <p>
+            J'effectue mon apprentissage au sein d'une entreprise à taille humaine de cinq collaborateurs. Cet environnement privilégié me pousse à être particulièrement polyvalent, autonome et à comprendre les enjeux globaux d'une infrastructure informatique, de sa conception à sa maintenance quotidienne. 
+        </p>
+        <p>
+            Vous découvrirez sur ce site l'ensemble des compétences techniques acquises lors de ma formation, ainsi que les projets d'infrastructure et d'automatisation que j'ai pu mener à bien.
+        </p>
 
-        <!-- Projets -->
-        <h3 class="section-title">Mes Projets</h3>
-        <div class="grid">
-            
-            <!-- Carte Projet Veille -->
-            <div class="card">
-                <h3>📡 Veille Technologique Automatisée</h3>
-                <p>Mise en place d'un script Python couplé à GitHub Actions pour agréger et mettre en forme automatiquement les dernières alertes cyber et actualités IT.</p>
-                <a href="Veille.html" class="btn">Voir ma veille</a>
-            </div>
-
-            <!-- Carte Projet Infrastructure (À compléter) -->
-            <div class="card">
-                <h3>🏗️ Infrastructure d'Entreprise</h3>
-                <p>Déploiement et gestion de services internes. Implémentation de reverse proxy, gestion de certificats SSL/TLS et intégration continue.</p>
-                <a href="#" class="btn">Lire le rapport</a>
-            </div>
-
+        <!-- Bouton d'appel à l'action pour guider le visiteur -->
+        <div style="text-align: center; margin-top: 3rem;">
+            <a href="competences.html" class="btn">Découvrir mes compétences</a>
         </div>
     </div>
 
