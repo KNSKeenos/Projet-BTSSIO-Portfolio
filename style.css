@@ -134,3 +134,10 @@ h2 {
     border-radius: 12px;
     font-size: 0.85rem;
 }
+.certif-img {
+    width: 100%; /* Prend toute la largeur de la carte */
+    height: auto; /* Garde les bonnes proportions */
+    border-radius: 6px; /* Coins légèrement arrondis */
+    margin-bottom: 1rem; /* Espace sous l'image */
+    border: 1px solid #30363d; /* Petite bordure discrète */
+}
