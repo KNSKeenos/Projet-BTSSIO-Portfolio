@@ -136,6 +136,37 @@
             color: #FFFFFF;
             margin-top: auto;
         }
+        .navbar {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 2.5rem;
+            padding: 1.5rem 2rem;
+            background-color: #161b22;
+            border-bottom: 1px solid #30363d;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .nav-link {
+            color: #8b949e;
+            text-decoration: none;
+            font-size: 1.1rem;
+            font-weight: 500;
+            padding-bottom: 0.4rem;
+            border-bottom: 2px solid transparent;
+            transition: color 0.2s, border-bottom 0.2s;
+        }
+
+        .nav-link:hover {
+            color: #c9d1d9;
+        }
+        
+        .nav-link.active {
+            color: #58a6ff;
+            border-bottom: 2px solid #58a6ff;
+        }
     </style>
     <nav class="navbar">
         <a href="index.html" class="nav-link active">Accueil</a>
