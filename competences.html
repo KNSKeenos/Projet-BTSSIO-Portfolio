@@ -3,16 +3,76 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio | Compétences & Certifications</title>
-    <!-- Lien vers notre fameux fichier CSS commun -->
+    <title>Portfolio | Compétences</title>
+    <!-- Lien vers ton fichier CSS commun -->
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <!-- LA NOUVELLE BARRE DE NAVIGATION (Multi-pages) -->
+    <!-- BARRE DE NAVIGATION (Le 'active' est bien sur Compétences) -->
     <nav class="navbar">
         <a href="index.html" class="nav-link">Accueil</a>
         <a href="competences.html" class="nav-link active">Compétences & Certifications</a>
         <a href="projets.html" class="nav-link">Projets</a>
         <a href="Veille.html" class="nav-link">Veille</a>
     </nav>
+
+    <header>
+        <h1>Mes Compétences</h1>
+        <h2>Cartographie de mon expertise technique</h2>
+    </header>
+
+    <div class="container">
+        <p style="text-align: center; color: #8b949e; margin-bottom: 3rem;">
+            Mon profil s'articule autour de l'administration système, du maintien en condition opérationnelle (MCO) et de l'automatisation.
+        </p>
+
+        <div class="grid">
+            
+            <!-- Pôle 1 : Système & Annuaire -->
+            <div class="card">
+                <h3>🖥️ Système & Architecture</h3>
+                <p>Déploiement in-place directement sur l'OS, administration et gestion des droits d'accès sur des environnements hétérogènes.</p>
+                <div class="tags">
+                    <span class="tag">Linux / Debian</span>
+                    <span class="tag">Samba4 (AD)</span>
+                </div>
+            </div>
+
+            <!-- Pôle 2 : Virtualisation & Backup -->
+            <div class="card">
+                <h3>☁️ Hyperconvergence & Sauvegarde</h3>
+                <p>Gestion des infrastructures virtuelles, haute disponibilité et stratégies de PRA/PCA.</p>
+                <div class="tags">
+                    <span class="tag">VMware vSphere</span>
+                    <span class="tag">Scale Computing</span>
+                    <span class="tag">Rubrik</span>
+                </div>
+            </div>
+
+            <!-- Pôle 3 : Automatisation -->
+            <div class="card">
+                <h3>⚙️ Dev/Ops & Automatisation</h3>
+                <p>Développement de scripts et mise en place d'outils d'intégration continue pour automatiser les tâches chronophages.</p>
+                <div class="tags">
+                    <span class="tag">Python</span>
+                    <span class="tag">GitHub Actions (CI/CD)</span>
+                </div>
+            </div>
+
+            <!-- Pôle 4 : Services Web & Supervision -->
+            <div class="card">
+                <h3>📊 Supervision & Services Web</h3>
+                <p>Configuration de serveurs applicatifs, sécurisation réseau et monitoring proactif avec envois d'alertes centralisées via webhooks sur Microsoft Teams.</p>
+                <div class="tags">
+                    <span class="tag">Supervision (Beszel/Zabbix/Centreon)</span>
+                    <span class="tag">Solution Serveur Web (LAMP & WAMP)</span>
+                    <span class="tag">Réseau & Sécurité</span>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
