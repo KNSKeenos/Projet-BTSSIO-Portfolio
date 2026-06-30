@@ -3,16 +3,124 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio | Projet</title>
-    <!-- Lien vers notre fameux fichier CSS commun -->
+    <title>Portfolio | Projets</title>
+    <!-- Lien vers ton fichier CSS commun -->
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <!-- LA NOUVELLE BARRE DE NAVIGATION (Multi-pages) -->
+    <!-- BARRE DE NAVIGATION (Le 'active' est bien sur Projets) -->
     <nav class="navbar">
         <a href="index.html" class="nav-link">Accueil</a>
         <a href="competences.html" class="nav-link">Compétences & Certifications</a>
         <a href="projets.html" class="nav-link active">Projets</a>
         <a href="Veille.html" class="nav-link">Veille</a>
     </nav>
+
+    <header>
+        <h1>Mes Projets</h1>
+        <h2>Réalisations techniques, architectures et documentations</h2>
+    </header>
+
+    <div class="container">
+        <p style="text-align: center; color: #8b949e; margin-bottom: 3rem;">
+            Découvrez ci-dessous l'évolution de mes déploiements, illustrant ma capacité à concevoir, superviser et sécuriser des infrastructures.
+        </p>
+
+        <div class="grid">
+            
+            <!-- Projet 1 : Samba AD -->
+            <div class="card">
+                <h3 style="color: #238636; border-bottom: 1px solid #30363d; padding-bottom: 0.5rem;">🔐 Déploiement Annuaire (Samba4)</h3>
+                <p><strong>Contexte :</strong> Mise en place d'un contrôleur de domaine Active Directory sous Linux pour centraliser l'authentification.</p>
+                <p><strong>Réalisation :</strong> Configuration d'un annuaire avec Samba4. Intégration des machines, gestion des unités d'organisation (OU) et paramétrage DNS pour le domaine de production <code>exemple.lan</code>. [Ajouter ici une phrase sur la redondance si applicable].</p>
+                <div class="tags">
+                    <span class="tag">Debian</span>
+                    <span class="tag">Samba4 (AD)</span>
+                    <span class="tag">DNS</span>
+                    <span class="tag">Gestion des droits</span>
+                </div>
+            </div>
+
+            <!-- Projet 2 : Beszel (Docker) -->
+            <div class="card">
+                <h3 style="color: #238636; border-bottom: 1px solid #30363d; padding-bottom: 0.5rem;">📊 Supervision d'Infrastructure</h3>
+                <p><strong>Contexte :</strong> Besoin d'une visibilité en temps réel sur l'état et les performances des serveurs avec un système d'alerte réactif.</p>
+                <p><strong>Réalisation :</strong> Déploiement de la solution de monitoring Beszel via des conteneurs Docker. Paramétrage des métriques matérielles et configuration d'alertes ciblées directement relayées via des Webhooks sur Microsoft Teams.</p>
+                <div class="tags">
+                    <span class="tag">Docker</span>
+                    <span class="tag">Beszel</span>
+                    <span class="tag">Microsoft Teams</span>
+                    <span class="tag">Monitoring</span>
+                </div>
+            </div>
+
+            <!-- Projet 3 : Serveur Web -->
+            <div class="card">
+                <h3 style="color: #238636; border-bottom: 1px solid #30363d; padding-bottom: 0.5rem;">🌐 Serveur Web & Reverse Proxy</h3>
+                <p><strong>Contexte :</strong> [Expliquer ici le but du serveur web, ex: Hébergement des services internes et sécurisation des accès extérieurs].</p>
+                <p><strong>Réalisation :</strong> Déploiement <em>in-place</em> strict sur l'OS (sans conteneurisation) d'un serveur web Nginx agissant comme reverse proxy. Sécurisation complète des flux via la génération et le renouvellement de certificats SSL/TLS Let's Encrypt.</p>
+                <div class="tags">
+                    <span class="tag">Nginx</span>
+                    <span class="tag">Let's Encrypt</span>
+                    <span class="tag">Linux</span>
+                    <span class="tag">Déploiement in-place</span>
+                </div>
+            </div>
+
+            <!-- Projet 4 : Hyperviseur -->
+            <div class="card">
+                <h3 style="color: #238636; border-bottom: 1px solid #30363d; padding-bottom: 0.5rem;">☁️ Cluster de Virtualisation</h3>
+                <p><strong>Contexte :</strong> [Expliquer ici le besoin matériel, ex: Consolidation des serveurs physiques et optimisation des ressources].</p>
+                <p><strong>Réalisation :</strong> Gestion et administration d'un hyperviseur [Préciser la technologie : VMware vSphere / ESXi]. Création des datastores, allocation des ressources aux VMs et paramétrage du réseau virtuel pour assurer l'isolation des services.</p>
+                <div class="tags">
+                    <span class="tag">VMware vSphere</span>
+                    <span class="tag">Virtualisation</span>
+                    <span class="tag">Réseau Virtuel</span>
+                </div>
+            </div>
+
+        </div> <!-- Fin de la première grille de 4 projets -->
+
+        <!-- Projet 5 : Le projet illustré mis en évidence (Prend toute la largeur) -->
+        <h3 class="section-title" style="margin-top: 4rem;">Projet Détaillé & Rapport d'Intervention</h3>
+        
+        <div class="card" style="margin-top: 1.5rem;">
+            <h3 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 0.5rem; margin-top: 0;">🛠️ [Titre du 5ème Projet - ex: Déploiement Infrastructure Simplivity]</h3>
+            
+            <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 1.5rem;">
+                <!-- Colonne Texte -->
+                <div style="flex: 1; min-width: 300px;">
+                    <p><strong>Contexte initial :</strong> [Décrire le point de départ du projet, par exemple les attentes de l'entreprise ou le cahier des charges de l'école].</p>
+                    <p><strong>Déroulé de l'intervention :</strong> [Lister les grandes étapes. Ex: 1. Audit de l'existant. 2. Installation de l'OS. 3. Déploiement des certificats de sécurité. 4. Tests de charge et validation].</p>
+                    <p><strong>Bilan & Difficultés rencontrées :</strong> [C'est très valorisé par les jurys. Explique un problème technique que tu as rencontré et comment tu l'as résolu].</p>
+                    
+                    <div class="tags" style="margin-bottom: 1.5rem;">
+                        <span class="tag">Technologie 1</span>
+                        <span class="tag">Technologie 2</span>
+                        <span class="tag">Travail en équipe</span>
+                    </div>
+
+                    <!-- Bouton vers le rapport PDF -->
+                    <!-- Remplace 'rapport.pdf' par le nom exact de ton fichier hébergé sur GitHub -->
+                    <a href="rapport.pdf" target="_blank" class="btn">📄 Télécharger le rapport d'intervention (PDF)</a>
+                </div>
+
+                <!-- Colonne Images -->
+                <div style="flex: 1; min-width: 300px; text-align: center;">
+                    <!-- Image 1 -->
+                    <!-- Remplace 'schema.png' par le nom de ton image -->
+                    <img src="schema.png" alt="Schéma d'architecture du projet" style="width: 100%; border-radius: 6px; border: 1px solid #30363d; margin-bottom: 1rem;">
+                    <p style="font-size: 0.85rem; color: #8b949e; margin-top: -0.5rem; margin-bottom: 1.5rem;"><em>Figure 1 : [Description de l'image, ex: Schéma logique de l'infrastructure]</em></p>
+                    
+                    <!-- Image 2 (Optionnelle, tu peux la supprimer si tu n'as qu'une photo) -->
+                    <img src="capture.png" alt="Capture de configuration" style="width: 100%; border-radius: 6px; border: 1px solid #30363d; margin-bottom: 1rem;">
+                    <p style="font-size: 0.85rem; color: #8b949e; margin-top: -0.5rem;"><em>Figure 2 : [Description de l'image, ex: Preuve de fonctionnement du service]</em></p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
