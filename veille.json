@@ -1,6 +1,12 @@
 {
     "IT-Connect": [
         {
+            "titre": "Project Aion : le Windows 100 % IA que Microsoft a caché",
+            "lien": "https://www.it-connect.fr/project-aion-os-ia-microsoft/",
+            "date": "03/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
             "titre": "PamStealer : ce malware macOS valide votre mot de passe avant de le voler",
             "lien": "https://www.it-connect.fr/pamstealer-infostealer-macos-maccy-pam/",
             "date": "03/07/2026",
@@ -37,6 +43,12 @@
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         },
         {
+            "titre": "Les montres connectées Xiaomi en 2026 : tendances et nouveautés",
+            "lien": "https://www.it-connect.fr/montres-connectees-xiaomi-en-2026/",
+            "date": "02/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
             "titre": "Technitium DNS Server : bloquer les pubs et héberger son DNS",
             "lien": "https://www.it-connect.fr/technitium-dns-server/",
             "date": "02/07/2026",
@@ -47,21 +59,21 @@
             "lien": "https://www.it-connect.fr/oomwoo-aspirateur-robot-open-source/",
             "date": "02/07/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Les sauvegardes du tenant Entra ID sont là, et rien ne peut les supprimer",
-            "lien": "https://www.it-connect.fr/entra-id-backup-and-recovery-sauvegarde-tenant/",
-            "date": "02/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Apple corrige plus de 30 failles sur iOS et macOS découvertes en partie avec l’IA",
-            "lien": "https://www.it-connect.fr/apple-corrige-plus-de-30-failles-sur-ios-et-macos-decouvertes-en-partie-avec-lia/",
-            "date": "02/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         }
     ],
     "Journal du Hacker": [
+        {
+            "titre": "🎧 Le coin des Zicos",
+            "lien": "https://libretgeek.fr/2026/07/02/%f0%9f%8e%a7-le-coin-des-zicos/",
+            "date": "03/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Veille #63 - 36 actus qu’il ne fallait pas rater cette semaine",
+            "lien": "https://www.camilleroux.com/claude-sonnet-5-openai-perd-21-mds-discord-migre-sa-voix-vers-ledge-veille-63/",
+            "date": "03/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Actualité Cybersécurité de la semaine du 29/06/2026",
             "lien": "https://newsletter.erreur403.fr/p/erreur-403-83-nouvelle-faille-citrixbleed-pre-auth-sur-netscaler-et-retours-de-fable5-et-mythos5",
@@ -109,80 +121,68 @@
             "lien": "https://wallabag.it/fr/blog/2026/06/30/wallabag-it-finance-developpements-open-source/",
             "date": "01/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "VISAGES LOW-TECH | Épisode 3 : Récit de l’auto-hébergement du Low-tech Lab | Les Podcasts du Low-tech Lab",
-            "lien": "https://podcast.ausha.co/lowtechlab/visages-low-tech-episode-3-recit-de-l-auto-hebergement-du-low-tech-lab",
-            "date": "01/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Étude de l’autonomie stratégique autour du poste de travail bureautique",
-            "lien": "https://blog.autonomie-strategique.fr/pdf/etude-de-l-autonomie-strategique-autour-du-poste-de-travail-bureautique.pdf",
-            "date": "30/06/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
         {
-            "titre": "Juillet 2027 - La date de péremption des jeux PS3",
-            "lien": "https://korben.info/preservation-jeux-ps3-store-sony-2027.html",
-            "date": "02/07/2026",
-            "image": "https://korben.info/preservation-jeux-ps3-store-sony-2027/preservation-jeux-ps3-store-sony-2027-1.png"
+            "titre": "Mars Attack à l'envers ?",
+            "lien": "https://korben.info/panspermie-humaine-semer-vie-espace.html",
+            "date": "03/07/2026",
+            "image": "https://korben.info/panspermie-humaine-semer-vie-espace/panspermie-humaine-semer-vie-espace-1.png"
         },
         {
-            "titre": "Isaac 1 - Un Baymax à 8000$ qui plie votre linge",
-            "lien": "https://korben.info/robot-plie-linge-isaac-1-weave.html",
-            "date": "02/07/2026",
-            "image": "https://korben.info/robot-plie-linge-isaac-1-weave/robot-plie-linge-isaac-1-weave-1.webp"
+            "titre": "RomM - Le gestionnaire de ROMs des retro gamers sérieux",
+            "lien": "https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime.html",
+            "date": "03/07/2026",
+            "image": "https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime-1.webp"
         },
         {
-            "titre": "Un boîtier Wi-Fi qui détecte les gens à travers les murs",
-            "lien": "https://korben.info/radar-wifi-esp32-detection-personnes.html",
-            "date": "02/07/2026",
-            "image": "https://korben.info/radar-wifi-esp32-detection-personnes/radar-wifi-esp32-detection-personnes-1.jpeg"
+            "titre": "Microsoft a imaginé un Windows sans applications, juste Copilot",
+            "lien": "https://korben.info/microsoft-project-aion-copilot-os.html",
+            "date": "03/07/2026",
+            "image": "https://korben.info/microsoft-project-aion-copilot-os/microsoft-project-aion-copilot-os-1.png"
         },
         {
-            "titre": "Google veut scanner votre main pour prouver que vous êtes humain",
-            "lien": "https://korben.info/google-recaptcha-scan-main.html",
-            "date": "02/07/2026",
-            "image": "https://korben.info/google-recaptcha-scan-main/google-recaptcha-scan-main-1.png"
+            "titre": "Un cafard cyborg en combinaison de plongée",
+            "lien": "https://korben.info/cafard-cyborg-plongee-sous-marine.html",
+            "date": "03/07/2026",
+            "image": "https://korben.info/cafard-cyborg-plongee-sous-marine/cafard-cyborg-plongee-sous-marine-1.png"
         },
         {
-            "titre": "Par quoi remplacer TV Time avant sa fermeture ?",
-            "lien": "https://korben.info/remplacer-tv-time-alternatives-suivi-series.html",
-            "date": "02/07/2026",
-            "image": "https://korben.info/remplacer-tv-time-alternatives-suivi-series/remplacer-tv-time-alternatives-suivi-series-1.png"
+            "titre": "Valve refuse de vendre ce faceplate e-ink mais file les plans",
+            "lien": "https://korben.info/steam-machine-faceplate-eink-3d-print.html",
+            "date": "03/07/2026",
+            "image": "https://korben.info/steam-machine-faceplate-eink-3d-print/steam-machine-faceplate-eink-3d-print-1.jpg"
         },
         {
-            "titre": "NanoKVM-Go - Le KVM USB-C qui garde vos écrans en mémoire",
-            "lien": "https://korben.info/sipeed-nanokvm-go.html",
-            "date": "02/07/2026",
-            "image": "https://korben.info/sipeed-nanokvm-go/sipeed-nanokvm-go-1.avif"
+            "titre": "Pegasus a espionné l'eurodéputé qui enquêtait sur... Pegasus",
+            "lien": "https://korben.info/pegasus-membre-commission-pega-parlement-europeen.html",
+            "date": "03/07/2026",
+            "image": "https://korben.info/pegasus-membre-commission-pega-parlement-europeen/pegasus-membre-commission-pega-parlement-europeen-1.png"
         },
         {
-            "titre": "La Russie réclame 52 millions à Apple alors qu'ils n'y vendent plus rien",
-            "lien": "https://korben.info/apple-amende-russie-apps-obligatoires.html",
-            "date": "02/07/2026",
-            "image": "https://korben.info/apple-amende-russie-apps-obligatoires/apple-amende-russie-apps-obligatoires-1.png"
+            "titre": "Claude Opus a écrit seul l'exploit qui a éventré la billetterie de Live Nation",
+            "lien": "https://korben.info/claude-ia-faille-sql-billetterie-live-nation.html",
+            "date": "03/07/2026",
+            "image": "https://korben.info/claude-ia-faille-sql-billetterie-live-nation/claude-ia-faille-sql-billetterie-live-nation-1.png"
         },
         {
-            "titre": "SpudCell - La première cellule artificielle complète",
-            "lien": "https://korben.info/cellule-artificielle-cycle-vie-complet.html",
-            "date": "02/07/2026",
-            "image": "https://korben.info/cellule-artificielle-cycle-vie-complet/cellule-artificielle-cycle-vie-complet-1.png"
+            "titre": "oomwoo - Le robot aspirateur open source à monter soi-même",
+            "lien": "https://korben.info/oomwoo-robot-aspirateur-open-source.html",
+            "date": "03/07/2026",
+            "image": "https://korben.info/oomwoo-robot-aspirateur-open-source/oomwoo-robot-aspirateur-open-source-1.png"
         },
         {
-            "titre": "Un ransomware dans le navigateur ? Suffit de demander à DeepSeek",
-            "lien": "https://korben.info/deepseek-ransomware-navigateur.html",
-            "date": "02/07/2026",
-            "image": "https://korben.info/deepseek-ransomware-navigateur/deepseek-ransomware-navigateur-1.png"
+            "titre": "iOS 27 veut bloquer les arnaqueurs en temps réel",
+            "lien": "https://korben.info/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel.html",
+            "date": "03/07/2026",
+            "image": "https://korben.info/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel-1.jpg"
         },
         {
-            "titre": "SpaceX aurait développé un appareil IA plus fin qu'un iPhone - Elon Musk dément",
-            "lien": "https://korben.info/spacex-appareil-ia-plus-fin-iphone.html",
-            "date": "01/07/2026",
-            "image": "https://korben.info/spacex-appareil-ia-plus-fin-iphone/spacex-appareil-ia-plus-fin-iphone-1.png"
+            "titre": "Vos fichiers protégés à vie, et cette fois personne ne vous les piquera",
+            "lien": "https://korben.info/vos-fichiers-proteges-a-vie.html",
+            "date": "03/07/2026",
+            "image": "https://korben.info/vos-fichiers-proteges-a-vie/vos-fichiers-proteges-a-vie-1.jpg"
         }
     ],
     "CERT-FR": [
@@ -249,64 +249,64 @@
     ],
     "ZDNET": [
         {
-            "titre": "Amende à 4,1 milliards d'euros : Google n'y coupera pas",
-            "lien": "https://www.zdnet.fr/actualites/amende-a-41-milliards-deuros-google-ny-coupera-pas-498227.htm#xtor=RSS-1",
+            "titre": "J'ai modifié ces paramètres d'Android Auto pour limiter ce que Gemini apprend sur moi",
+            "lien": "https://www.zdnet.fr/pratique/jai-modifie-ces-parametres-dandroid-auto-pour-limiter-ce-que-gemini-apprend-sur-moi-498116.htm#xtor=RSS-1",
+            "date": "04/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/android_auto_une.jpg"
+        },
+        {
+            "titre": "Amazon Leo : le service internet satellite démarrera fin 2026 malgré une crise des lanceurs",
+            "lien": "https://www.zdnet.fr/actualites/amazon-leo-le-service-internet-satellite-demarrera-fin-2026-malgre-une-crise-des-lanceurs-498296.htm#xtor=RSS-1",
             "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/10/google-recherche.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/amazon_leo.jpg"
         },
         {
-            "titre": "Samsung va augmenter le prix de la DRAM jusqu'à 20 % : l'IA continue de bouleverser le marché",
-            "lien": "https://www.zdnet.fr/actualites/samsung-prepare-une-hausse-des-prix-de-la-dram-pouvant-atteindre-20-lia-continue-de-soutenir-le-marche-498244.htm#xtor=RSS-1",
+            "titre": "Mirage de l'automatisation : quand Ford réembauche ses seniors pour sauver son IA",
+            "lien": "https://www.zdnet.fr/actualites/mirage-de-lautomatisation-quand-ford-reembauche-ses-seniors-pour-sauver-son-ia-498290.htm#xtor=RSS-1",
             "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/RAM-2.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/Ford.jpg"
         },
         {
-            "titre": "IA en entreprise : Microsoft lance à son tour une unité dédiée de 6 000 personnes",
-            "lien": "https://www.zdnet.fr/actualites/ia-en-entreprise-microsoft-lance-a-son-tour-une-unite-dediee-de-6-000-personnes-498239.htm#xtor=RSS-1",
+            "titre": "Comment BlaBlaCar se déploie dans 20 nouveaux pays grâce à l'IA",
+            "lien": "https://www.zdnet.fr/actualites/comment-blablacar-se-deploie-dans-20-nouveaux-pays-grace-a-lia-498284.htm#xtor=RSS-1",
             "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/05/microsoft.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/bbc_lifestyle_01-1-1200x904-1.png"
         },
         {
-            "titre": "ZD Tech : Voici pourquoi la France écarte officiellement Palantir de son renseignement",
-            "lien": "https://www.zdnet.fr/actualites/zd-tech-voici-pourquoi-la-france-ecarte-officiellement-palantir-de-son-renseignement-497588.htm#xtor=RSS-1",
+            "titre": "Fable 5 : le roi de l'automatisation, mais il ne peut pas encore remplacer les humains",
+            "lien": "https://www.zdnet.fr/actualites/fable-5-le-roi-de-lautomatisation-mais-il-ne-peut-pas-encore-remplacer-les-humains-498270.htm#xtor=RSS-1",
             "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/09/zdnet-podcast-bo.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/gettyimages-2280239160.webp"
         },
         {
-            "titre": "Organisation pratique : testez l’appli de gestionnaire de tâches TickTick",
-            "lien": "https://www.zdnet.fr/guide-achat/organisation-pratique-testez-lappli-de-gestionnaire-de-taches-ticktick-498125.htm#xtor=RSS-1",
+            "titre": "Du neuf pour le gestionnaire de mots de passe d'ExpressVPN : partage sécurisé, prise en charge des clés d'accès, ...",
+            "lien": "https://www.zdnet.fr/actualites/du-neuf-pour-le-gestionnaire-de-mots-de-passe-dexpressvpn-partage-securise-prise-en-charge-des-cles-dacces-498266.htm#xtor=RSS-1",
             "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/ticktick-appli-organisation-pratique.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/jkj.webp"
         },
         {
-            "titre": "PC pratique : débarrassez-vous des fichiers inutiles sur votre ordinateur avec Fluent Cleaner",
-            "lien": "https://www.zdnet.fr/guide-achat/pc-pratique-debarrassez-vous-des-fichiers-inutiles-sur-votre-ordinateur-avec-fluent-cleaner-498131.htm#xtor=RSS-1",
-            "date": "02/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/fluent-cleaner-pratique.jpg"
+            "titre": "La nouvelle version 4.0 d'Azure Linux de Microsoft pourrait remplacer Windows Server en entreprise",
+            "lien": "https://www.zdnet.fr/actualites/la-nouvelle-version-4-0-dazure-linux-de-microsoft-pourrait-remplacer-windows-server-en-entreprise-498263.htm#xtor=RSS-1",
+            "date": "03/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/gettyimages-2232603556.webp"
         },
         {
-            "titre": "Voici le nouvel expert en IA dont toutes les entreprises ont besoin – et pourquoi",
-            "lien": "https://www.zdnet.fr/actualites/voici-le-nouvel-expert-en-ia-dont-toutes-les-entreprises-ont-besoin-et-pourquoi-498177.htm#xtor=RSS-1",
-            "date": "02/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/boomi-world-tour-london-2026-day-2-57-steve-lucas.webp"
+            "titre": "Opera lance une nouvelle fonctionnalité qui détecte et bloque les contenus malveillants présents dans le presse-papiers",
+            "lien": "https://www.zdnet.fr/actualites/opera-lance-une-nouvelle-fonctionnalite-qui-detecte-et-bloque-les-contenus-malveillants-presents-dans-le-presse-papiers-498260.htm#xtor=RSS-1",
+            "date": "03/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/paste-protect-popup-ui-3.webp"
         },
         {
-            "titre": "Avez-vous encore besoin d'un antivirus sur votre PC Windows ?",
-            "lien": "https://www.zdnet.fr/actualites/avez-vous-encore-besoin-dun-antivirus-sur-votre-pc-windows-498174.htm#xtor=RSS-1",
-            "date": "02/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/01/microsoft-surface-laptop-3.webp"
+            "titre": "OpenAI envisagerait de céder jusqu’à 5 % de son capital à l’État américain",
+            "lien": "https://www.zdnet.fr/actualites/openai-envisagerait-de-ceder-jusqua-5-de-son-capital-a-letat-americain-498242.htm#xtor=RSS-1",
+            "date": "03/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/03/gettyimages-1797579058-scaled.jpg"
         },
         {
-            "titre": "Comment j'ai stoppé une attaque de spam sur WordPress avec 4 700 lignes de code en deux jours – grâce au Codex et à Claude",
-            "lien": "https://www.zdnet.fr/pratique/comment-jai-stoppe-une-attaque-de-spam-sur-wordpress-avec-4-700-lignes-de-code-en-deux-jours-grace-au-codex-et-a-claude-498169.htm#xtor=RSS-1",
-            "date": "02/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/img-9859.webp"
-        },
-        {
-            "titre": "Vous cherchez une alternative à ChatGPT qui respecte la confidentialité ? Lumo 2.0 de Proton protège vos données, dans le respect des normes européennes",
-            "lien": "https://www.zdnet.fr/actualites/vous-cherchez-une-alternative-a-chatgpt-qui-respecte-la-confidentialite-lumo-2-0-de-proton-protege-vos-donnees-dans-le-respect-des-normes-europeennes-498166.htm#xtor=RSS-1",
-            "date": "02/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/lumo2extra.webp"
+            "titre": "HONOR Magic V6 : ce smartphone pliable va faire craquer les pros",
+            "lien": "https://www.zdnet.fr/smartphone/honor-magic-v6-ce-smartphone-pliable-va-faire-craquer-les-pros-497986.htm#xtor=RSS-1",
+            "date": "03/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/260609_mkt_v6_-product-kv-red_without-ksp_fr_16-9_rgb-1-scaled.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,79 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2022-4989 - ASUS AI Suite 3 Improper Input Validation Privilege Escalation",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2022-4989",
-            "date": "03/07/2026",
+            "titre": "CVE-2025-71380 - n8n - Arbitrary Command Execution via Execute Command Node",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71380",
+            "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-8921 - ASUS Business Manager SYSTEM Code Execution via IPC Message Tampering",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-8921",
-            "date": "03/07/2026",
+            "titre": "CVE-2025-71375 - picklescan - Undetected Remote Code Execution via _operator.methodcaller",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71375",
+            "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13768 - Gardyn IoT Hub Use of Hard-coded Credentials",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13768",
-            "date": "02/07/2026",
+            "titre": "CVE-2025-71373 - picklescan - Remote Code Execution via operator.methodcaller Detection Bypass",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71373",
+            "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13053 - WatchGuard Firebox Authenticated Out of Bounds Write in Management CLI Command Handler",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13053",
-            "date": "02/07/2026",
+            "titre": "CVE-2025-71372 - Picklescan - Arbitrary Code Execution via numpy.f2py.crackfortran.getlincoef Gadget",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71372",
+            "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13050 - WatchGuard Firebox networkd Out of Bounds Write Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13050",
-            "date": "02/07/2026",
+            "titre": "CVE-2025-71369 - picklescan - Unsafe Deserialization via torch.utils.data.datapipes.utils.decoder.basichandlers",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71369",
+            "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13054 - WatchGuard Firebox Arbitrary File Write via Path Traversal in Management Web UI",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13054",
-            "date": "02/07/2026",
+            "titre": "CVE-2025-71367 - picklescan - Remote Code Execution via _operator.attrgetter Detection Bypass",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71367",
+            "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13084 - Null Pointer Dereference in WatchGuard Fireware OS iked Process",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13084",
-            "date": "02/07/2026",
+            "titre": "CVE-2025-71366 - picklescan - Arbitrary Code Execution via torch.utils.bottleneck.__main__.run_cprofile",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71366",
+            "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13368 - WatchGuard Firebox Race Condition and Use-After-Free in Mobile VPN with IKEv2 LDAP Authentication",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13368",
-            "date": "02/07/2026",
+            "titre": "CVE-2025-71364 - picklescan - Arbitrary Code Execution via Undetected asyncio.unix_events._UnixSubprocessTransport._start",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71364",
+            "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13722 - WatchGuard Firebox Firmware Image Validation Bypass in WatchGuard Fireware OS",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13722",
-            "date": "02/07/2026",
+            "titre": "CVE-2025-71362 - picklescan - Arbitrary Code Execution via Unsafe Deserialization in numpy.f2py.crackfortran",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71362",
+            "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13384 - WatchGuard Firebox wgagent Out of Bounds Write Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13384",
-            "date": "02/07/2026",
+            "titre": "CVE-2025-71360 - picklescan - Remote Code Execution via Undetected idlelib.calltip.get_entity",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71360",
+            "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "NetNut proxy network disrupted, 2 million infected devices cut off",
+            "lien": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+            "date": "03/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
+            "lien": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
+            "date": "03/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
             "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
@@ -479,18 +491,6 @@
         {
             "titre": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
             "lien": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
-            "date": "02/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Alleged Scattered Spider hacker extradited to the United States",
-            "lien": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
-            "date": "02/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Medtronic notifies customers impacted by ShinyHunters data breach",
-            "lien": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
             "date": "02/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
