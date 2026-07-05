@@ -125,6 +125,12 @@
     ],
     "Korben": [
         {
+            "titre": "wacli - Archivez tout WhatsApp en local et faites-y des recherches hors ligne",
+            "lien": "https://korben.info/wacli-whatsapp-cli-steipete.html",
+            "date": "04/07/2026",
+            "image": "https://korben.info/wacli-whatsapp-cli-steipete/wacli-whatsapp-cli-steipete-1.png"
+        },
+        {
             "titre": "Mars Attack à l'envers ?",
             "lien": "https://korben.info/panspermie-humaine-semer-vie-espace.html",
             "date": "03/07/2026",
@@ -177,12 +183,6 @@
             "lien": "https://korben.info/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel.html",
             "date": "03/07/2026",
             "image": "https://korben.info/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel-1.jpg"
-        },
-        {
-            "titre": "Vos fichiers protégés à vie, et cette fois personne ne vous les piquera",
-            "lien": "https://korben.info/vos-fichiers-proteges-a-vie.html",
-            "date": "03/07/2026",
-            "image": "https://korben.info/vos-fichiers-proteges-a-vie/vos-fichiers-proteges-a-vie-1.jpg"
         }
     ],
     "CERT-FR": [
@@ -249,6 +249,30 @@
     ],
     "ZDNET": [
         {
+            "titre": "Ce vieux téléphone qui dort dans un tiroir peut devenir votre dashcam, gratuitement",
+            "lien": "https://www.zdnet.fr/guide-achat/ce-vieux-telephone-qui-dort-dans-un-tiroir-peut-devenir-votre-dashcam-gratuitement-498156.htm#xtor=RSS-1",
+            "date": "05/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/dashcam.jpg"
+        },
+        {
+            "titre": "Les sans pagEs et le Wiktionnaire: féminisme et dictionnaire dans la galaxie Wikimédia",
+            "lien": "https://www.zdnet.fr/blogs/l-esprit-libre/les-sans-pages-et-le-wiktionnaire-feminisme-et-dictionnaire-dans-la-galaxie-wikimedia-498324.htm#xtor=RSS-1",
+            "date": "05/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/les_sans_pages_nuage_de_mots_2023_02.jpg"
+        },
+        {
+            "titre": "Android pratique : activez ce nouveau paramètre de sécurité qui détecte les réseaux malveillants et les fausses antennes-relais",
+            "lien": "https://www.zdnet.fr/pratique/android-pratique-activez-ce-nouveau-parametre-de-securite-qui-detecte-les-reseaux-malveillants-et-les-fausses-antennes-relais-498234.htm#xtor=RSS-1",
+            "date": "04/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/android-detection-reseaux-malveillants-pratique.webp"
+        },
+        {
+            "titre": "Bose, JBL ou Sonos : quelle enceinte Bluetooth résiste vraiment à la plage ?",
+            "lien": "https://www.zdnet.fr/guide-achat/bose-jbl-ou-sonos-quelle-enceinte-bluetooth-resiste-vraiment-a-la-plage-498214.htm#xtor=RSS-1",
+            "date": "04/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/bose-soundlink-plus.jpg"
+        },
+        {
             "titre": "J'ai modifié ces paramètres d'Android Auto pour limiter ce que Gemini apprend sur moi",
             "lien": "https://www.zdnet.fr/pratique/jai-modifie-ces-parametres-dandroid-auto-pour-limiter-ce-que-gemini-apprend-sur-moi-498116.htm#xtor=RSS-1",
             "date": "04/07/2026",
@@ -283,30 +307,6 @@
             "lien": "https://www.zdnet.fr/actualites/du-neuf-pour-le-gestionnaire-de-mots-de-passe-dexpressvpn-partage-securise-prise-en-charge-des-cles-dacces-498266.htm#xtor=RSS-1",
             "date": "03/07/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/jkj.webp"
-        },
-        {
-            "titre": "La nouvelle version 4.0 d'Azure Linux de Microsoft pourrait remplacer Windows Server en entreprise",
-            "lien": "https://www.zdnet.fr/actualites/la-nouvelle-version-4-0-dazure-linux-de-microsoft-pourrait-remplacer-windows-server-en-entreprise-498263.htm#xtor=RSS-1",
-            "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/gettyimages-2232603556.webp"
-        },
-        {
-            "titre": "Opera lance une nouvelle fonctionnalité qui détecte et bloque les contenus malveillants présents dans le presse-papiers",
-            "lien": "https://www.zdnet.fr/actualites/opera-lance-une-nouvelle-fonctionnalite-qui-detecte-et-bloque-les-contenus-malveillants-presents-dans-le-presse-papiers-498260.htm#xtor=RSS-1",
-            "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/paste-protect-popup-ui-3.webp"
-        },
-        {
-            "titre": "OpenAI envisagerait de céder jusqu’à 5 % de son capital à l’État américain",
-            "lien": "https://www.zdnet.fr/actualites/openai-envisagerait-de-ceder-jusqua-5-de-son-capital-a-letat-americain-498242.htm#xtor=RSS-1",
-            "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/03/gettyimages-1797579058-scaled.jpg"
-        },
-        {
-            "titre": "HONOR Magic V6 : ce smartphone pliable va faire craquer les pros",
-            "lien": "https://www.zdnet.fr/smartphone/honor-magic-v6-ce-smartphone-pliable-va-faire-craquer-les-pros-497986.htm#xtor=RSS-1",
-            "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/260609_mkt_v6_-product-kv-red_without-ksp_fr_16-9_rgb-1-scaled.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,6 +373,36 @@
     ],
     "CVE Feed": [
         {
+            "titre": "CVE-2026-14637 - kirilkirkov Ecommerce-CodeIgniter-Bootstrap ShoppingCart.php getCartItems deserialization",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-14637",
+            "date": "04/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-14535 - Fickling MLAllowlist analysis pass rendered inoperative by shared mutable state in AnalysisContext.shorten_code()",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-14535",
+            "date": "04/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-14534 - Fickling check_safety() bypass via unlisted standard library modules (_posixsubprocess, site, atexit)",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-14534",
+            "date": "04/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-12196 - HestiaCP Admin Takeover",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-12196",
+            "date": "04/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-12195 - myVesta is affected by an authenticated remote cod",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-12195",
+            "date": "04/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "CVE-2025-71380 - n8n - Arbitrary Command Execution via Execute Command Node",
             "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71380",
             "date": "04/07/2026",
@@ -401,39 +431,15 @@
             "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71369",
             "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2025-71367 - picklescan - Remote Code Execution via _operator.attrgetter Detection Bypass",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71367",
-            "date": "04/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2025-71366 - picklescan - Arbitrary Code Execution via torch.utils.bottleneck.__main__.run_cprofile",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71366",
-            "date": "04/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2025-71364 - picklescan - Arbitrary Code Execution via Undetected asyncio.unix_events._UnixSubprocessTransport._start",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71364",
-            "date": "04/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2025-71362 - picklescan - Arbitrary Code Execution via Unsafe Deserialization in numpy.f2py.crackfortran",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71362",
-            "date": "04/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2025-71360 - picklescan - Remote Code Execution via Undetected idlelib.calltip.get_entity",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71360",
-            "date": "04/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "JadePuffer ransomware used AI agent to automate entire attack",
+            "lien": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+            "date": "04/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "NetNut proxy network disrupted, 2 million infected devices cut off",
             "lien": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
@@ -485,12 +491,6 @@
         {
             "titre": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
             "lien": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-            "date": "02/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
-            "lien": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
             "date": "02/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
