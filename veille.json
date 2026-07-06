@@ -1,6 +1,18 @@
 {
     "IT-Connect": [
         {
+            "titre": "FatFs : 7 failles non patchées menacent des millions de systèmes embarqués",
+            "lien": "https://www.it-connect.fr/fatfs-sept-failles-sans-correctif-appareils-iot/",
+            "date": "06/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Bad Epoll : la faille Linux qui donne un accès root sur Android, et que l’IA Mythos n’avait pas vue",
+            "lien": "https://www.it-connect.fr/bad-epoll-faille-noyau-linux-android-acces-root/",
+            "date": "06/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
             "titre": "Project Aion : le Windows 100 % IA que Microsoft a caché",
             "lien": "https://www.it-connect.fr/project-aion-os-ia-microsoft/",
             "date": "03/07/2026",
@@ -47,21 +59,15 @@
             "lien": "https://www.it-connect.fr/montres-connectees-xiaomi-en-2026/",
             "date": "02/07/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Technitium DNS Server : bloquer les pubs et héberger son DNS",
-            "lien": "https://www.it-connect.fr/technitium-dns-server/",
-            "date": "02/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "oomwoo : l’aspirateur robot open source que l’on fabrique soi-même, sans cloud",
-            "lien": "https://www.it-connect.fr/oomwoo-aspirateur-robot-open-source/",
-            "date": "02/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         }
     ],
     "Journal du Hacker": [
+        {
+            "titre": "Google : +37,5 % de consommation d’eau et d’électricité, l’empreinte de Gemini détaillée",
+            "lien": "https://next.ink/245571/google-375-de-consommation-deau-et-delectricite-lempreinte-de-gemini-detaillee/",
+            "date": "05/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "🎧 Le coin des Zicos",
             "lien": "https://libretgeek.fr/2026/07/02/%f0%9f%8e%a7-le-coin-des-zicos/",
@@ -87,6 +93,12 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
+            "titre": "Claude Code : Le mouchard planqué dans une apostrophe",
+            "lien": "https://loud-technology.com/insight/claude-code-steganographie-fingerprinting-system-prompt/",
+            "date": "01/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "MCP en 2026 : les meilleurs serveurs et outils",
             "lien": "https://www.camilleroux.com/mcp-serveurs-outils/",
             "date": "01/07/2026",
@@ -95,12 +107,6 @@
         {
             "titre": "Quoi de neuf les devs - Le prix du million de token IA va t-il baisser ou augmenter ?",
             "lien": "https://go.itanea.fr/nl182",
-            "date": "01/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Claude Code : Le mouchard planqué dans une apostrophe",
-            "lien": "https://loud-technology.com/insight/claude-code-steganographie-fingerprinting-system-prompt/",
             "date": "01/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
@@ -115,15 +121,21 @@
             "lien": "https://www.arsouyes.org/articles/2026/2026-07-01_Knod_Box_03/",
             "date": "01/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "wallabag.it va financer des développements reversés à wallabag",
-            "lien": "https://wallabag.it/fr/blog/2026/06/30/wallabag-it-finance-developpements-open-source/",
-            "date": "01/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
+        {
+            "titre": "Cold boot attack - Dumper la RAM d'un PC avec 5 Ko d'assembleur",
+            "lien": "https://korben.info/baremetal-ram-dumper-cold-boot-attack.html",
+            "date": "06/07/2026",
+            "image": "https://korben.info/baremetal-ram-dumper-cold-boot-attack/baremetal-ram-dumper-cold-boot-attack-1.jpg"
+        },
+        {
+            "titre": "Command & Conquer Generals débarque sur iOS / macOS - Merci l'IA !",
+            "lien": "https://korben.info/command-conquer-generals-zero-hour-ios-mac.html",
+            "date": "05/07/2026",
+            "image": "https://korben.info/command-conquer-generals-zero-hour-ios-mac/command-conquer-generals-zero-hour-ios-mac-1.png"
+        },
         {
             "titre": "wacli - Archivez tout WhatsApp en local et faites-y des recherches hors ligne",
             "lien": "https://korben.info/wacli-whatsapp-cli-steipete.html",
@@ -171,18 +183,6 @@
             "lien": "https://korben.info/claude-ia-faille-sql-billetterie-live-nation.html",
             "date": "03/07/2026",
             "image": "https://korben.info/claude-ia-faille-sql-billetterie-live-nation/claude-ia-faille-sql-billetterie-live-nation-1.png"
-        },
-        {
-            "titre": "oomwoo - Le robot aspirateur open source à monter soi-même",
-            "lien": "https://korben.info/oomwoo-robot-aspirateur-open-source.html",
-            "date": "03/07/2026",
-            "image": "https://korben.info/oomwoo-robot-aspirateur-open-source/oomwoo-robot-aspirateur-open-source-1.png"
-        },
-        {
-            "titre": "iOS 27 veut bloquer les arnaqueurs en temps réel",
-            "lien": "https://korben.info/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel.html",
-            "date": "03/07/2026",
-            "image": "https://korben.info/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel-1.jpg"
         }
     ],
     "CERT-FR": [
@@ -249,6 +249,54 @@
     ],
     "ZDNET": [
         {
+            "titre": "Galaxy Book6 Series : 10 raisons de choisir la performance",
+            "lien": "https://www.zdnet.fr/publicite/galaxy-book6-series-10-raisons-de-choisir-la-performance-498259.htm#xtor=RSS-1",
+            "date": "06/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/capture-2026-06-30-a-16.49.28.jpg"
+        },
+        {
+            "titre": "iPhone Ultra : pourquoi la pénurie s'annonce dès le lancement",
+            "lien": "https://www.zdnet.fr/actualites/iphone-ultra-pourquoi-la-penurie-sannonce-des-le-lancement-498347.htm#xtor=RSS-1",
+            "date": "06/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/iphone-pliant-rendu.jpg"
+        },
+        {
+            "titre": "Road-trip de l'été : les réglages de sécurité à activer sur Android Auto avant de prendre la route des vacances",
+            "lien": "https://www.zdnet.fr/pratique/road-trip-de-lete-les-reglages-de-securite-a-activer-sur-android-auto-avant-de-prendre-la-route-des-vacances-498307.htm#xtor=RSS-1",
+            "date": "06/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/1.png"
+        },
+        {
+            "titre": "Apple Watch Series 12 : un capteur de santé… directement dans le bracelet ?",
+            "lien": "https://www.zdnet.fr/actualites/apple-watch-series-12-un-capteur-de-sante-directement-dans-le-bracelet-498353.htm#xtor=RSS-1",
+            "date": "06/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/04/apple-watch-calibrage.webp"
+        },
+        {
+            "titre": "AWS dévoile Startup Advisor, un assistant IA pour guider la croissance des jeunes pousses",
+            "lien": "https://www.zdnet.fr/actualites/aws-devoile-startup-advisor-un-assistant-ia-pour-guider-la-croissance-des-jeunes-pousses-498344.htm#xtor=RSS-1",
+            "date": "06/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/07/amazon-web-services.jpg"
+        },
+        {
+            "titre": "Test Oura Ring 5 : cette nouvelle version de bague connectée est encore plus performante",
+            "lien": "https://www.zdnet.fr/guide-achat/test-oura-ring-5-cette-nouvelle-version-de-bague-connectee-est-encore-plus-performante-498230.htm#xtor=RSS-1",
+            "date": "06/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/oura-ring-5-test.png"
+        },
+        {
+            "titre": "Promo : Hostinger aide les petites équipes à lancer une landing page sans mobiliser toute la DSI",
+            "lien": "https://www.zdnet.fr/publicite/promo-hostinger-aide-les-petites-equipes-a-lancer-une-landing-page-sans-mobiliser-toute-la-dsi-498287.htm#xtor=RSS-1",
+            "date": "05/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/2149406780.jpg"
+        },
+        {
+            "titre": "MSI Claw 8 EX AI+ : la console portable qui se transforme en vrai mini-PC",
+            "lien": "https://www.zdnet.fr/guide-achat/msi-claw-8-ex-ai-la-console-portable-qui-se-transforme-en-vrai-mini-pc-498269.htm#xtor=RSS-1",
+            "date": "05/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/claw-8-ex-ai.jpg"
+        },
+        {
             "titre": "Ce vieux téléphone qui dort dans un tiroir peut devenir votre dashcam, gratuitement",
             "lien": "https://www.zdnet.fr/guide-achat/ce-vieux-telephone-qui-dort-dans-un-tiroir-peut-devenir-votre-dashcam-gratuitement-498156.htm#xtor=RSS-1",
             "date": "05/07/2026",
@@ -259,54 +307,6 @@
             "lien": "https://www.zdnet.fr/blogs/l-esprit-libre/les-sans-pages-et-le-wiktionnaire-feminisme-et-dictionnaire-dans-la-galaxie-wikimedia-498324.htm#xtor=RSS-1",
             "date": "05/07/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/les_sans_pages_nuage_de_mots_2023_02.jpg"
-        },
-        {
-            "titre": "Android pratique : activez ce nouveau paramètre de sécurité qui détecte les réseaux malveillants et les fausses antennes-relais",
-            "lien": "https://www.zdnet.fr/pratique/android-pratique-activez-ce-nouveau-parametre-de-securite-qui-detecte-les-reseaux-malveillants-et-les-fausses-antennes-relais-498234.htm#xtor=RSS-1",
-            "date": "04/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/android-detection-reseaux-malveillants-pratique.webp"
-        },
-        {
-            "titre": "Bose, JBL ou Sonos : quelle enceinte Bluetooth résiste vraiment à la plage ?",
-            "lien": "https://www.zdnet.fr/guide-achat/bose-jbl-ou-sonos-quelle-enceinte-bluetooth-resiste-vraiment-a-la-plage-498214.htm#xtor=RSS-1",
-            "date": "04/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/bose-soundlink-plus.jpg"
-        },
-        {
-            "titre": "J'ai modifié ces paramètres d'Android Auto pour limiter ce que Gemini apprend sur moi",
-            "lien": "https://www.zdnet.fr/pratique/jai-modifie-ces-parametres-dandroid-auto-pour-limiter-ce-que-gemini-apprend-sur-moi-498116.htm#xtor=RSS-1",
-            "date": "04/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/android_auto_une.jpg"
-        },
-        {
-            "titre": "Amazon Leo : le service internet satellite démarrera fin 2026 malgré une crise des lanceurs",
-            "lien": "https://www.zdnet.fr/actualites/amazon-leo-le-service-internet-satellite-demarrera-fin-2026-malgre-une-crise-des-lanceurs-498296.htm#xtor=RSS-1",
-            "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/amazon_leo.jpg"
-        },
-        {
-            "titre": "Mirage de l'automatisation : quand Ford réembauche ses seniors pour sauver son IA",
-            "lien": "https://www.zdnet.fr/actualites/mirage-de-lautomatisation-quand-ford-reembauche-ses-seniors-pour-sauver-son-ia-498290.htm#xtor=RSS-1",
-            "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/Ford.jpg"
-        },
-        {
-            "titre": "Comment BlaBlaCar se déploie dans 20 nouveaux pays grâce à l'IA",
-            "lien": "https://www.zdnet.fr/actualites/comment-blablacar-se-deploie-dans-20-nouveaux-pays-grace-a-lia-498284.htm#xtor=RSS-1",
-            "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/bbc_lifestyle_01-1-1200x904-1.png"
-        },
-        {
-            "titre": "Fable 5 : le roi de l'automatisation, mais il ne peut pas encore remplacer les humains",
-            "lien": "https://www.zdnet.fr/actualites/fable-5-le-roi-de-lautomatisation-mais-il-ne-peut-pas-encore-remplacer-les-humains-498270.htm#xtor=RSS-1",
-            "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/gettyimages-2280239160.webp"
-        },
-        {
-            "titre": "Du neuf pour le gestionnaire de mots de passe d'ExpressVPN : partage sécurisé, prise en charge des clés d'accès, ...",
-            "lien": "https://www.zdnet.fr/actualites/du-neuf-pour-le-gestionnaire-de-mots-de-passe-dexpressvpn-partage-securise-prise-en-charge-des-cles-dacces-498266.htm#xtor=RSS-1",
-            "date": "03/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/jkj.webp"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,6 +373,24 @@
     ],
     "CVE Feed": [
         {
+            "titre": "CVE-2026-9085 - DNS Hijacking in TUBITAK BILGEM's Pardus-Parental-Control",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-9085",
+            "date": "05/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-59509 - Unauthenticated arbitrary MongoDB collection read in cve-search",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-59509",
+            "date": "05/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-14721 - UTT HiPER 1250GW Web Endpoint ConfigWirelessBase_5g stack-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-14721",
+            "date": "05/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "CVE-2026-14637 - kirilkirkov Ecommerce-CodeIgniter-Bootstrap ShoppingCart.php getCartItems deserialization",
             "lien": "https://cvefeed.io/vuln/detail/CVE-2026-14637",
             "date": "04/07/2026",
@@ -397,7 +415,7 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-12195 - myVesta is affected by an authenticated remote cod",
+            "titre": "CVE-2026-12195 - myVesta FTP User Deletion Remote Code Execution",
             "lien": "https://cvefeed.io/vuln/detail/CVE-2026-12195",
             "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
@@ -413,27 +431,15 @@
             "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71375",
             "date": "04/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2025-71373 - picklescan - Remote Code Execution via operator.methodcaller Detection Bypass",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71373",
-            "date": "04/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2025-71372 - Picklescan - Arbitrary Code Execution via numpy.f2py.crackfortran.getlincoef Gadget",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71372",
-            "date": "04/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2025-71369 - picklescan - Unsafe Deserialization via torch.utils.data.datapipes.utils.decoder.basichandlers",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-71369",
-            "date": "04/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Flipper Zero firmware development continues with community help",
+            "lien": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
+            "date": "05/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "JadePuffer ransomware used AI agent to automate entire attack",
             "lien": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
@@ -485,12 +491,6 @@
         {
             "titre": "Cisco finally confirms attackers exploiting Unified CM flaw",
             "lien": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-            "date": "02/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
-            "lien": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
             "date": "02/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
