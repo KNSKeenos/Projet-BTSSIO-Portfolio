@@ -93,6 +93,12 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
+            "titre": "Le Monde Informatique s'éteint, la rédaction débranchée",
+            "lien": "https://www.lemondeinformatique.fr/actualites/lire-le-monde-informatique-s-eteint-la-redaction-debranchee-100700.html",
+            "date": "09/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Actualité Cybersécurité de la semaine du 06/07/2026",
             "lien": "https://newsletter.erreur403.fr/p/erreur-403-84-un-agent-ia-de-github-detourne-pour-exfiltrer-des-depots-prives",
             "date": "09/07/2026",
@@ -115,15 +121,45 @@
             "lien": "https://loud-technology.com/blog/jepa-joint-embedding-predictive-architecture-explication/",
             "date": "08/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Januscape : la faille KVM qui dormait depuis 16 ans dans Linux",
-            "lien": "https://www.it-connect.fr/januscape-faille-kvm-evasion-vm-hote/",
-            "date": "08/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
+        {
+            "titre": "Un compteur de visiteurs sur votre site, sans payer un centime",
+            "lien": "https://korben.info/compteur-visiteurs-cloudflare-gratuit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "12/07/2026",
+            "image": "https://korben.info/compteur-visiteurs-cloudflare-gratuit/compteur-visiteurs-cloudflare-gratuit-1.png"
+        },
+        {
+            "titre": "Votre 2FA est une passoire, le sniffeur de WiFi public vous remercie",
+            "lien": "https://korben.info/votre-2fa-est-une-passoire.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "12/07/2026",
+            "image": "https://korben.info/votre-2fa-est-une-passoire/votre-2fa-est-une-passoire-1.png"
+        },
+        {
+            "titre": "Moebius - Effacer un objet d'une photo depuis votre navigateur",
+            "lien": "https://korben.info/inpainting-image-navigateur-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "12/07/2026",
+            "image": "https://korben.info/inpainting-image-navigateur-local/inpainting-image-navigateur-local-1.png"
+        },
+        {
+            "titre": "Tangem - La faille laser qui condamne votre carte crypto à vie",
+            "lien": "https://korben.info/laser-reset-wallet-tangem.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "11/07/2026",
+            "image": "https://korben.info/laser-reset-wallet-tangem/laser-reset-wallet-tangem-1.webp"
+        },
+        {
+            "titre": "Un Kindle rooté à cause d'une faute de frappe d'Amazon",
+            "lien": "https://korben.info/kindle-faille-critique-piratage-distance.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "11/07/2026",
+            "image": "https://korben.info/kindle-faille-critique-piratage-distance/kindle-faille-critique-piratage-distance-1.jpeg"
+        },
+        {
+            "titre": "OpenLogi - Votre souris Logitech sans le bloatware d'Options+",
+            "lien": "https://korben.info/openlogi-alternative-logitech-options.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "11/07/2026",
+            "image": "https://korben.info/openlogi-alternative-logitech-options/openlogi-alternative-logitech-options-1.png"
+        },
         {
             "titre": "Il détourne un chien robot Unitree pour aider son père",
             "lien": "https://korben.info/unitree-chien-robot-fauteuil-roulant.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -147,42 +183,6 @@
             "lien": "https://korben.info/fiber-memory-accelerateurs-boucle-fibre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "10/07/2026",
             "image": "https://korben.info/fiber-memory-accelerateurs-boucle-fibre/fiber-memory-accelerateurs-boucle-fibre-1.png"
-        },
-        {
-            "titre": "Chat Control - 314 contre, 112 absents, et le texte passe",
-            "lien": "https://korben.info/chat-control-europe-scan-messages.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "10/07/2026",
-            "image": "https://korben.info/chat-control-europe-scan-messages/chat-control-europe-scan-messages-1.jpg"
-        },
-        {
-            "titre": "StatCounter n'identifie plus 1 visite sur 5 (et ça fausse tout)",
-            "lien": "https://korben.info/windows-part-marche-statcounter.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "10/07/2026",
-            "image": "https://korben.info/windows-part-marche-statcounter/windows-part-marche-statcounter-1.png"
-        },
-        {
-            "titre": "OWA Light - Le webmail de secours Exchange passe l'arme à gauche",
-            "lien": "https://korben.info/owa-light-fin-exchange-server.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "09/07/2026",
-            "image": "https://korben.info/owa-light-fin-exchange-server/owa-light-fin-exchange-server-1.png"
-        },
-        {
-            "titre": "DuckDuckGo zappe les pubs YouTube",
-            "lien": "https://korben.info/duckduckgo-navigateur-bloque-pubs-youtube.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "09/07/2026",
-            "image": "https://korben.info/duckduckgo-navigateur-bloque-pubs-youtube/duckduckgo-navigateur-bloque-pubs-youtube-1.png"
-        },
-        {
-            "titre": "Tuta veut déménager vos 22 ans de Gmail sans rien perdre",
-            "lien": "https://korben.info/tuta-mail-import-emails.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "09/07/2026",
-            "image": "https://korben.info/tuta-mail-import-emails/tuta-mail-import-emails-1.webp"
-        },
-        {
-            "titre": "Hoodik - Le cloud perso qui n'a jamais vu vos fichiers en clair",
-            "lien": "https://korben.info/hoodik-cloud-e2ee-auto-heberge-rust.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "09/07/2026",
-            "image": "https://korben.info/hoodik-cloud-e2ee-auto-heberge-rust/hoodik-cloud-e2ee-auto-heberge-rust-1.png"
         }
     ],
     "CERT-FR": [
@@ -249,6 +249,30 @@
     ],
     "ZDNET": [
         {
+            "titre": "Créer une page commerciale en quelques clics : Hostinger Business lance les projets en ligne plus vite",
+            "lien": "https://www.zdnet.fr/publicite/creer-une-page-commerciale-en-quelques-clics-hostinger-business-lance-les-projets-en-ligne-plus-vite-498514.htm#xtor=RSS-1",
+            "date": "11/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/125066.jpg"
+        },
+        {
+            "titre": "Le LG C6 prouve que l'OLED n'a pas dit son dernier mot face au Mini LED",
+            "lien": "https://www.zdnet.fr/guide-achat/le-lg-c6-prouve-que-loled-na-pas-dit-son-dernier-mot-face-au-mini-led-498520.htm#xtor=RSS-1",
+            "date": "11/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/lg-c6.jpg"
+        },
+        {
+            "titre": "Soldes, promos, nouveaux produits : IONOS Plus aide les PME à lancer une page web en quelques étapes",
+            "lien": "https://www.zdnet.fr/publicite/soldes-promos-nouveaux-produits-ionos-plus-aide-les-pme-a-lancer-une-page-web-en-quelques-etapes-498471.htm#xtor=RSS-1",
+            "date": "11/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/127806.jpg"
+        },
+        {
+            "titre": "La fonction cachée d'Android Auto qui transforme vos trajets en temps productif",
+            "lien": "https://www.zdnet.fr/pratique/la-fonction-cachee-dandroid-auto-qui-transforme-vos-trajets-en-temps-productif-498493.htm#xtor=RSS-1",
+            "date": "11/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/android_auto.png"
+        },
+        {
             "titre": "Sennheiser Momentum 5 vs. Bose QuietComfort Ultra 2 : quel casque ANC haut de gamme gagne ?",
             "lien": "https://www.zdnet.fr/guide-achat/sennheiser-momentum-5-vs-bose-quietcomfort-ultra-2-quel-casque-anc-haut-de-gamme-gagne-498533.htm#xtor=RSS-1",
             "date": "11/07/2026",
@@ -283,30 +307,6 @@
             "lien": "https://www.zdnet.fr/guide-achat/antivirus-pour-tablette-android-est-ce-vraiment-necessaire-498454.htm#xtor=RSS-1",
             "date": "10/07/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/132744-1.jpg"
-        },
-        {
-            "titre": "Dans l'UE, Microsoft publie le détail de ses impôts",
-            "lien": "https://www.zdnet.fr/actualites/dans-lue-microsoft-publie-le-detail-de-ses-impots-498464.htm#xtor=RSS-1",
-            "date": "10/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/11/microsoft-zero-day-quest.jpg"
-        },
-        {
-            "titre": "L’iPhone 18 Pro Max pourrait battre un record de poids vieux de quatre ans",
-            "lien": "https://www.zdnet.fr/actualites/liphone-18-pro-max-pourrait-battre-un-record-de-poids-vieux-de-quatre-ans-498540.htm#xtor=RSS-1",
-            "date": "10/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/09/apple-iphone-17-air-pro-et-max.jpg"
-        },
-        {
-            "titre": "Meta défie Nvidia en lançant la production de ses propres puces IA",
-            "lien": "https://www.zdnet.fr/actualites/meta-defie-nvidia-en-lancant-la-production-de-ses-propres-puces-ia-498542.htm#xtor=RSS-1",
-            "date": "10/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/06/meta.jpg"
-        },
-        {
-            "titre": "GPT-5.6 et ChatGPT Travail : OpenAI dégaine l'artillerie lourde contre Anthropic",
-            "lien": "https://www.zdnet.fr/actualites/gpt-5-6-et-chatgpt-travail-openai-degaine-lartillerie-lourde-contre-anthropic-498537.htm#xtor=RSS-1",
-            "date": "10/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/gpt-5.6.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,79 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-2354 - Swiss Toolkit For WP <= 1.4.6 - Authenticated (Author+) Arbitrary File Upload via upload_extension_files()",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-2354",
+            "titre": "CVE-2026-58281 - Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-58281",
             "date": "11/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-14262 - Simple JWT Login <= 3.6.6 - Authenticated (Subscriber+) Authentication Bypass to Privilege Escalation via 'payload' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-14262",
+            "titre": "CVE-2026-61447 - PraisonAI before 1.6.78 Remote Code Execution via CodeAgent",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-61447",
             "date": "11/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13353 - WP Ultimate CSV Importer <= 8.0.1 - Missing Authorization to Authenticated (Subscriber+) Remote Code Execution via 'MappedFields' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13353",
+            "titre": "CVE-2026-61445 - PraisonAI before 4.6.78 Arbitrary File Write and Command Execution",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-61445",
             "date": "11/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13756 - WP Grid Builder <= 2.3.3 - Authenticated (Subscriber+) Privilege Escalation via 'key' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13756",
+            "titre": "CVE-2026-61429 - PraisonAI before 1.6.78 SSRF via Crawl4AI Chromium backend",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-61429",
             "date": "11/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-44383 - Hydro-Québec Le Circuit Electrique charging station backend Insufficient Session Expiration",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-44383",
-            "date": "10/07/2026",
+            "titre": "CVE-2026-61426 - PraisonAI before 1.7.3 Unauthenticated Agent Access via Insecure Defaults",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-61426",
+            "date": "11/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-42952 - Hydro-Québec Le Circuit Electrique charging station backend Improper Restriction of Excessive Authentication Attempts",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-42952",
-            "date": "10/07/2026",
+            "titre": "CVE-2026-60090 - PraisonAI before 4.6.78 SQL/CQL Injection via vector dimension",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-60090",
+            "date": "11/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-20744 - Hydro-Québec Le Circuit Electrique charging station backend Improper Access Control",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-20744",
-            "date": "10/07/2026",
+            "titre": "CVE-2026-57828 - Joomla Extension - phoca.cz - Authenticated file upload in RSFiles component < 6.1.3",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-57828",
+            "date": "11/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-14480 - OpenPLC v3 External Control of File Name or Path",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-14480",
-            "date": "10/07/2026",
+            "titre": "CVE-2026-57827 - Joomla Extension - rsjoomla.com - Unauthenticated file upload in RSFiles component < 1.17.12",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-57827",
+            "date": "11/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-57584 - Phalcon: Catastrophic backtracking (ReDoS) in the default Phalcon Router route lead to remote unauthenticated DoS",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-57584",
-            "date": "10/07/2026",
+            "titre": "CVE-2026-1359 - Genolve – AI image AI video generation <= 5.0.5 - Authenticated (Contributor+) Incorrect Authorization to Privilege Escalation via theopt",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-1359",
+            "date": "11/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-55884 - Tilt: Missing authentication on the network-exposed Tilt HUD server",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55884",
-            "date": "10/07/2026",
+            "titre": "CVE-2026-15155 - Essential Addons for Elementor <= 6.6.10 - Authenticated (Contributor+) Account Takeover via Email Header Injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15155",
+            "date": "11/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Australia warns of global campaign targeting vulnerable CMS platforms",
+            "lien": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+            "date": "11/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
+            "lien": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+            "date": "11/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "New U-Boot flaws could enable stealthy firmware attacks",
             "lien": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
@@ -480,18 +492,6 @@
             "titre": "Zimbra urges customers to patch critical web client XSS flaw",
             "lien": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
             "date": "10/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Former ransomware negotiator gets 4 years for BlackCat attacks",
-            "lien": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-            "date": "10/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "OpenMandriva Linux says contributor tried to sabotage the project",
-            "lien": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
-            "date": "09/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
