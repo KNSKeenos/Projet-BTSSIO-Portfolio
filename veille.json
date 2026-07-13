@@ -1,6 +1,30 @@
 {
     "IT-Connect": [
         {
+            "titre": "Windows 11 : ce composant lié à Mobile Connecté engloutit la RAM de votre PC",
+            "lien": "https://www.it-connect.fr/windows-11-mobile-connecte-fuite-memoire-ram/",
+            "date": "13/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Debian 13.6 est disponible : découvrez les changements principaux",
+            "lien": "https://www.it-connect.fr/debian-13-6-les-nouveautes/",
+            "date": "13/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Microsoft 365 : rappeler un e-mail envoyé à une autre entreprise, bientôt possible",
+            "lien": "https://www.it-connect.fr/exchange-online-rappel-message-inter-tenant/",
+            "date": "13/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Muse Image : comment empêcher Meta de piocher dans vos photos Instagram ?",
+            "lien": "https://www.it-connect.fr/meta-muse-image-instagram-photos-publiques-ia/",
+            "date": "13/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
             "titre": "Windows Defender : le patch RoguePlanet aurait des effets de bord",
             "lien": "https://www.it-connect.fr/windows-defender-patch-rogueplanet-effets-de-bord/",
             "date": "10/07/2026",
@@ -35,33 +59,21 @@
             "lien": "https://www.it-connect.fr/ghostlock-faille-linux-acces-root/",
             "date": "09/07/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "RoguePlanet : Microsoft corrige la zero-day qui donnait les privilèges SYSTEM",
-            "lien": "https://www.it-connect.fr/microsoft-corrige-faille-zero-day-rogueplanet-defender/",
-            "date": "09/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Le navigateur DuckDuckGo bloque désormais les publicités YouTube, par défaut",
-            "lien": "https://www.it-connect.fr/duckduckgo-navigateur-bloque-publicites-youtube/",
-            "date": "09/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "HTTP QUERY : la première méthode ajoutée à HTTP depuis 2010",
-            "lien": "https://www.it-connect.fr/methode-http-query-rfc-10008/",
-            "date": "09/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Soldes d’été 2026 GoDeal24 : Office 2024 Pro Plus à vie à 16.99€ et Windows 11 Pro à 12.25€",
-            "lien": "https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/",
-            "date": "09/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         }
     ],
     "Journal du Hacker": [
+        {
+            "titre": "Karpenter + Cluster API",
+            "lien": "https://une-tasse-de.cafe/blog/karpenter-capi-ovh/",
+            "date": "12/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Câble RJ45 : Tout ce qu'il faut savoir (normes, câblage, PoE)",
+            "lien": "https://networkpulse.fr/cable-rj45-guide-complet/",
+            "date": "12/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Veille #64 - 36 actus qu'il ne fallait pas rater cette semaine",
             "lien": "https://www.camilleroux.com/librepods-libere-les-airpods-claude-science-cloudflare-drop-veille-64/",
@@ -109,21 +121,15 @@
             "lien": "https://jatniel.dev/fr/bytes/typescript-70-est-sorti-le-compilateur-devient-beaucoup-plus-rapide",
             "date": "09/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Quoi de neuf les devs - GitLost : et si votre agent IA devenait la fuite ?",
-            "lien": "https://go.itanea.fr/nl183",
-            "date": "08/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "JEPA : comprendre l'architecture avec laquelle Yann LeCun veut dépasser les LLM",
-            "lien": "https://loud-technology.com/blog/jepa-joint-embedding-predictive-architecture-explication/",
-            "date": "08/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
+        {
+            "titre": "KamTape - Le site qui ressuscite le YouTube de 2005",
+            "lien": "https://korben.info/kamtape-clone-youtube-2005.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "12/07/2026",
+            "image": "https://korben.info/kamtape-clone-youtube-2005/kamtape-clone-youtube-2005-1.jpg"
+        },
         {
             "titre": "Un compteur de visiteurs sur votre site, sans payer un centime",
             "lien": "https://korben.info/compteur-visiteurs-cloudflare-gratuit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -177,12 +183,6 @@
             "lien": "https://korben.info/eve-online-moteur-carbon-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "10/07/2026",
             "image": "https://korben.info/eve-online-moteur-carbon-open-source/eve-online-moteur-carbon-open-source-1.jpg"
-        },
-        {
-            "titre": "Fiber Memory - Stocker la mémoire d'une IA dans 1 000 km de fibre optique",
-            "lien": "https://korben.info/fiber-memory-accelerateurs-boucle-fibre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "10/07/2026",
-            "image": "https://korben.info/fiber-memory-accelerateurs-boucle-fibre/fiber-memory-accelerateurs-boucle-fibre-1.png"
         }
     ],
     "CERT-FR": [
@@ -249,6 +249,30 @@
     ],
     "ZDNET": [
         {
+            "titre": "HalluSquatting : quand les hallucinations de l’IA deviennent une porte d’entrée pour les hackers",
+            "lien": "https://www.zdnet.fr/actualites/hallusquatting-quand-les-hallucinations-de-lia-deviennent-une-porte-dentree-pour-les-hackers-498564.htm#xtor=RSS-1",
+            "date": "13/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/09/agent-ia.jpg"
+        },
+        {
+            "titre": "ZD Tech : À quelques mois du 1er septembre 2026, la course à la facturation électronique s'accélère",
+            "lien": "https://www.zdnet.fr/actualites/zd-tech-a-quelques-mois-du-1er-septembre-2026-la-course-a-la-facturation-electronique-saccelere-498187.htm#xtor=RSS-1",
+            "date": "13/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/09/zdnet-podcast-bo.jpg"
+        },
+        {
+            "titre": "Android Auto : comment configurer des routines Gemini pour un trajet plus sûr et plus fluide",
+            "lien": "https://www.zdnet.fr/pratique/android-auto-comment-configurer-des-routines-gemini-pour-un-trajet-plus-sur-et-plus-fluide-498526.htm#xtor=RSS-1",
+            "date": "12/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/android-auto.jpg"
+        },
+        {
+            "titre": "Comment libérer de l'espace sur votre Android en quelques secondes avec l'appli Sponge",
+            "lien": "https://www.zdnet.fr/pratique/comment-liberer-de-lespace-sur-votre-android-en-quelques-secondes-avec-lappli-sponge-498523.htm#xtor=RSS-1",
+            "date": "12/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/sponge.jpg"
+        },
+        {
             "titre": "Créer une page commerciale en quelques clics : Hostinger Business lance les projets en ligne plus vite",
             "lien": "https://www.zdnet.fr/publicite/creer-une-page-commerciale-en-quelques-clics-hostinger-business-lance-les-projets-en-ligne-plus-vite-498514.htm#xtor=RSS-1",
             "date": "11/07/2026",
@@ -283,30 +307,6 @@
             "lien": "https://www.zdnet.fr/pratique/soleil-gps-et-embouteillages-comment-eviter-que-votre-smartphone-ne-surchauffe-sur-la-route-des-vacances-498109.htm#xtor=RSS-1",
             "date": "10/07/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/3.png"
-        },
-        {
-            "titre": "Retour d’expérience : conclusion surprenante d’un test comparatif de trois chargeurs sans fil",
-            "lien": "https://www.zdnet.fr/pratique/retour-dexperience-conclusion-surprenante-dun-test-comparatif-de-trois-chargeurs-sans-fil-498530.htm#xtor=RSS-1",
-            "date": "10/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/chargeurs-sans-fil-et-dissipation-chaleur-retour-experience.jpg"
-        },
-        {
-            "titre": "Galaxy Book6 Series : 10 raisons de choisir la performance",
-            "lien": "https://www.zdnet.fr/publicite/galaxy-book6-series-10-raisons-de-choisir-la-performance-498259.htm#xtor=RSS-1",
-            "date": "10/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/capture-2026-06-30-a-16.49.28.jpg"
-        },
-        {
-            "titre": "Achats en ligne, phishing, malwares : Avast renforce la protection des PC Windows à prix réduit",
-            "lien": "https://www.zdnet.fr/publicite/achats-en-ligne-phishing-malwares-avast-renforce-la-protection-des-pc-windows-a-prix-reduit-498416.htm#xtor=RSS-1",
-            "date": "10/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/144425-1-1.jpg"
-        },
-        {
-            "titre": "Antivirus pour tablette Android : est-ce vraiment nécessaire ?",
-            "lien": "https://www.zdnet.fr/guide-achat/antivirus-pour-tablette-android-est-ce-vraiment-necessaire-498454.htm#xtor=RSS-1",
-            "date": "10/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/132744-1.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,85 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-58281 - Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-58281",
-            "date": "11/07/2026",
+            "titre": "CVE-2026-9492 - GIGABYTE｜Gigabyte Control Center  - Improper Access Control",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-9492",
+            "date": "13/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-61447 - PraisonAI before 1.6.78 Remote Code Execution via CodeAgent",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-61447",
-            "date": "11/07/2026",
+            "titre": "CVE-2026-15511 - Comfast CF-WR631AX V3 FastCGI Backend webmgnt system_wl_upload_pic_file os command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15511",
+            "date": "12/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-61445 - PraisonAI before 4.6.78 Arbitrary File Write and Command Execution",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-61445",
-            "date": "11/07/2026",
+            "titre": "CVE-2026-10666 - Stack buffer overflow in `net_ipaddr_parse()` IPv4 address-with-port parsing in `subsys/net/ip/utils.c`",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-10666",
+            "date": "12/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-61429 - PraisonAI before 1.6.78 SSRF via Crawl4AI Chromium backend",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-61429",
-            "date": "11/07/2026",
+            "titre": "CVE-2026-58596 - Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-58596",
+            "date": "12/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-61426 - PraisonAI before 1.7.3 Unauthenticated Agent Access via Insecure Defaults",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-61426",
-            "date": "11/07/2026",
+            "titre": "CVE-2026-61876 - LuCI DHCPv6 Lease Hostname Stored Cross-Site Scripting",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-61876",
+            "date": "12/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-60090 - PraisonAI before 4.6.78 SQL/CQL Injection via vector dimension",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-60090",
-            "date": "11/07/2026",
+            "titre": "CVE-2026-61875 - luci-app-upnp Stored XSS via UPnP Port Mapping Description",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-61875",
+            "date": "12/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-57828 - Joomla Extension - phoca.cz - Authenticated file upload in RSFiles component < 6.1.3",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-57828",
-            "date": "11/07/2026",
+            "titre": "CVE-2026-59260 - OpenWrt luci-app-samba4 read ACL remote code execution via smbd",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-59260",
+            "date": "12/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-57827 - Joomla Extension - rsjoomla.com - Unauthenticated file upload in RSFiles component < 1.17.12",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-57827",
-            "date": "11/07/2026",
+            "titre": "CVE-2026-56313 - Capgo - Cross-Organization Account Disruption via SSO Prelink Endpoint",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-56313",
+            "date": "12/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-1359 - Genolve – AI image AI video generation <= 5.0.5 - Authenticated (Contributor+) Incorrect Authorization to Privilege Escalation via theopt",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-1359",
-            "date": "11/07/2026",
+            "titre": "CVE-2026-56308 - Capgo - Insufficient Authentication in Email Change Endpoint",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-56308",
+            "date": "12/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-15155 - Essential Addons for Elementor <= 6.6.10 - Authenticated (Contributor+) Account Takeover via Email Header Injection",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15155",
-            "date": "11/07/2026",
+            "titre": "CVE-2026-56271 - Flowise - Weak Default JWT Secrets in Authentication Middleware",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-56271",
+            "date": "12/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
+            "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
+            "date": "13/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+            "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+            "date": "12/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "RedHook Android malware now uses Wireless ADB for shell access",
+            "lien": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+            "date": "12/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Australia warns of global campaign targeting vulnerable CMS platforms",
             "lien": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
@@ -473,24 +491,6 @@
         {
             "titre": "Hackers exploit critical auth bypass in Gitea Docker image",
             "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-            "date": "10/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Money launderer accused of stealing seized crypto while in prison",
-            "lien": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-            "date": "10/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
-            "lien": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
-            "date": "10/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Zimbra urges customers to patch critical web client XSS flaw",
-            "lien": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
             "date": "10/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
