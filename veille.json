@@ -1,6 +1,36 @@
 {
     "IT-Connect": [
         {
+            "titre": "Firefox va passer à une nouvelle version majeure toutes les 2 semaines dès septembre",
+            "lien": "https://www.it-connect.fr/firefox-version-majeure-toutes-les-2-semaines/",
+            "date": "16/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Proton VPN : 458 réquisitions judiciaires depuis 2017, et toujours zéro donnée transmise",
+            "lien": "https://www.it-connect.fr/proton-vpn-rapport-transparence-458-demandes-refusees/",
+            "date": "16/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "LegacyHive : la zero-day Windows publiée juste après le Patch Tuesday de juillet",
+            "lien": "https://www.it-connect.fr/legacyhive-zero-day-windows-user-profile-service/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Windows 11 KB5101650 : la mise à jour de juillet 2026 est là et elle est bloquée sur certains PC Dell",
+            "lien": "https://www.it-connect.fr/windows-11-kb5101650-mise-a-jour-de-juillet-2026/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Windows 10 KB5099539 : le point sur la mise à jour ESU de juillet 2026",
+            "lien": "https://www.it-connect.fr/windows-10-kb5099539-mise-a-jour-esu-juillet-2026/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
             "titre": "Microsoft dévoile son plus gros Patch Tuesday de l’histoire avec 570 failles et 3 zero-day",
             "lien": "https://www.it-connect.fr/patch-tuesday-juillet-2026-570-failles-de-securite-corrigees-dont-3-zero-day/",
             "date": "15/07/2026",
@@ -29,42 +59,48 @@
             "lien": "https://www.it-connect.fr/pixels-de-suivi-emails-cnil-consentement/",
             "date": "14/07/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Telegram : les liens t.me hors service dans le monde entier",
-            "lien": "https://www.it-connect.fr/telegram-liens-t-me-hors-service-serverhold/",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Grok Build : l’outil de SpaceXAI expédiait vos dépôts de code chez Google",
-            "lien": "https://www.it-connect.fr/grok-build-cli-xai-upload-depots-google-cloud/",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "NIS 2 encore repoussé : la France traînée devant la justice européenne",
-            "lien": "https://www.it-connect.fr/nis2-transposition-france-saisine-cjue/",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Apple rachète SigLens, l’outil open source qui explose Splunk",
-            "lien": "https://www.it-connect.fr/apple-rachat-siglens-sigscalr-observabilite-open-source/",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Test Geekom A9 Max 2026 Edition : un mini PC haut de gamme",
-            "lien": "https://www.it-connect.fr/test-geekom-a9-max-2026-edition/",
-            "date": "13/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         }
     ],
     "Journal du Hacker": [
         {
+            "titre": "Fabrication Humaine",
+            "lien": "http://doc.huc.fr.eu.org/fr/post/fabrication-humaine/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Traitement d'images natif, Livewire musclé, Laravel Cloud change de braquet — Laravel au Quotidien #060",
+            "lien": "https://go.itanea.fr/laq60",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Liens Tech - Juillet 2026",
-            "lien": "https://domopi.eu/liens-tech-juin-2026-2/",
+            "lien": "https://domopi.eu/liens-tech-juillet-2026/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Knod Box 0.4",
+            "lien": "https://www.arsouyes.org/articles/2026/2026-07-15_Knod_Box_04/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Exit Chat Control · Devenir Ingouvernable",
+            "lien": "https://exitchatcontrol.org/fr/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "L'enquête choc de Mozilla sur le piratage d'interface de Windows",
+            "lien": "https://goodtech.info/etude-mozilla-deceptive-design-windows-microsoft-edge-firefox/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "[Podcast Projets Libres] postmarketOS : Linux pour faire durer votre smartphone pendant 10 ans !",
+            "lien": "https://www.projets-libres.org/podcast/s4e21-postmarketos-linux-faire-durer-smartphone/",
             "date": "15/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
@@ -75,55 +111,43 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Quoi de neuf les devs ? — Apple vs OpenAI : la guerre des talents qui va changer la face de la tech",
-            "lien": "https://go.itanea.fr/nl184",
+            "titre": "Inclusion numérique : des associations de personnes déficientes visuelles formées à l'utilisation de Linux Emmabuntüs",
+            "lien": "https://afrikhandi-mag.com/2026/07/14/inclusion-numerique-des-associations-de-personnes-deficientes-visuelles-formees-a-lutilisation-de-linux-emmabuntus/",
             "date": "14/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "claude-seo : la skill pour faire des audits SEO directement dans Claude Code",
-            "lien": "https://www.camilleroux.com/claude-seo-skill/",
-            "date": "13/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Créons un petit load balancer avec XDP",
-            "lien": "https://blog.littlejo.link/ebpf-another-type/xdp/example-3/",
-            "date": "13/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "J'ai créé Locahl, un gestionnaire visuel de /etc/hosts (Windows, macOS, Linux)",
-            "lien": "https://www.journalduhacker.net/s/a5oiha/jai_cr_locahl_un_gestionnaire_visuel_de",
-            "date": "13/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Publication de la mise à jour de Debian 13.6",
-            "lien": "https://www.debian.org/News/2026/20260711.fr",
-            "date": "13/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Liens intéressants Journal du hacker semaine #28",
-            "lien": "https://blog.journalduhacker.net/index.php?article595/liens-interessants-journal-du-hacker-semaine-28-2026",
-            "date": "13/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Karpenter + Cluster API",
-            "lien": "https://une-tasse-de.cafe/blog/karpenter-capi-ovh/",
-            "date": "12/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Câble RJ45 : Tout ce qu'il faut savoir (normes, câblage, PoE)",
-            "lien": "https://networkpulse.fr/cable-rj45-guide-complet/",
-            "date": "12/07/2026",
+            "titre": "Quoi de neuf les devs ? — Apple vs OpenAI : la guerre des talents qui va changer la face de la tech",
+            "lien": "https://go.itanea.fr/nl184",
+            "date": "14/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
+        {
+            "titre": "Kassis - Transcrivez vos audios et dictez vos textes sur Mac",
+            "lien": "https://korben.info/transcription-audio-texte-dictee-vocale-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "15/07/2026",
+            "image": "https://korben.info/transcription-audio-texte-dictee-vocale-mac/transcription-audio-texte-dictee-vocale-mac-1.png"
+        },
+        {
+            "titre": "La Neo Geo fait enfin tourner DOOM",
+            "lien": "https://korben.info/la-neo-geo-fait-enfin-tourner-doom.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "15/07/2026",
+            "image": "https://korben.info/la-neo-geo-fait-enfin-tourner-doom/la-neo-geo-fait-enfin-tourner-doom-1.jpg"
+        },
+        {
+            "titre": "Microsoft bat son record avec 570 failles corrigées en un mois, et c'est son IA qui les déterre",
+            "lien": "https://korben.info/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "15/07/2026",
+            "image": "https://korben.info/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre-1.webp"
+        },
+        {
+            "titre": "La vérif d'âge de l'Europe ridiculisée par une extension Chrome",
+            "lien": "https://korben.info/verification-age-ue-reseaux-sociaux-contournee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "15/07/2026",
+            "image": "https://korben.info/verification-age-ue-reseaux-sociaux-contournee/verification-age-ue-reseaux-sociaux-contournee-1.png"
+        },
         {
             "titre": "La clim tue la planète ? Vous avez 30 ans de retard",
             "lien": "https://korben.info/climatisation-idees-recues.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -159,12 +183,6 @@
             "lien": "https://korben.info/swival-agent-ia-codage-modeles-locaux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "13/07/2026",
             "image": "https://korben.info/swival-agent-ia-codage-modeles-locaux/swival-agent-ia-codage-modeles-locaux-1.jpg"
-        },
-        {
-            "titre": "KamTape - Le site qui ressuscite le YouTube de 2005",
-            "lien": "https://korben.info/kamtape-clone-youtube-2005.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "12/07/2026",
-            "image": "https://korben.info/kamtape-clone-youtube-2005/kamtape-clone-youtube-2005-1.jpg"
         }
     ],
     "CERT-FR": [
@@ -172,12 +190,6 @@
             "titre": "[MàJ] Vulnérabilité dans Zimbra Collaboration Suite (17 juillet 2023)",
             "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-007/",
             "date": "17/07/2023",
-            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
-        },
-        {
-            "titre": "[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (19 juillet 2023)",
-            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/",
-            "date": "19/07/2023",
             "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
         },
         {
@@ -227,9 +239,63 @@
             "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/",
             "date": "09/02/2024",
             "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
+        },
+        {
+            "titre": "[MàJ] Vulnérabilité dans Microsoft Outlook (15 février 2024)",
+            "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/",
+            "date": "15/02/2024",
+            "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400"
         }
     ],
     "ZDNET": [
+        {
+            "titre": "Puces IA : Apple prêt à briser sa prudence historique en matière d’acquisitions",
+            "lien": "https://www.zdnet.fr/actualites/puces-ia-apple-pret-a-briser-sa-prudence-historique-en-matiere-dacquisitions-498668.htm#xtor=RSS-1",
+            "date": "16/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/02/apple-robot.jpg"
+        },
+        {
+            "titre": "ZD Tech : xTool O1 Omni Printer, cette imprimante de bureau inédite capable de marquer tous les matériaux",
+            "lien": "https://www.zdnet.fr/actualites/zd-tech-xtool-o1-omni-printer-cette-imprimante-de-bureau-inedite-capable-de-marquer-tous-les-materiaux-498188.htm#xtor=RSS-1",
+            "date": "16/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/09/zdnet-podcast-bo.jpg"
+        },
+        {
+            "titre": "Sécurité pratique : ne laissez jamais un chatbot IA choisir votre mot de passe, sous aucun prétexte",
+            "lien": "https://www.zdnet.fr/pratique/securite-pratique-ne-laissez-jamais-un-chatbot-ia-choisir-votre-mot-de-passe-sous-aucun-pretexte-498606.htm#xtor=RSS-1",
+            "date": "16/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/mots-de-passe-par-lia-pratique.jpg"
+        },
+        {
+            "titre": "Comment sauver les photos de vos vacances d'un smartphone Android à l'écran brisé",
+            "lien": "https://www.zdnet.fr/pratique/comment-sauver-les-photos-de-vos-vacances-dun-smartphone-android-a-lecran-brise-498103.htm#xtor=RSS-1",
+            "date": "15/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/5.png"
+        },
+        {
+            "titre": "Linux pratique : laissez-vous tenter par le nouvel et bel effet Frosted Glass de COSMIC",
+            "lien": "https://www.zdnet.fr/pratique/linux-pratique-laissez-vous-tenter-par-le-nouvel-et-bel-effet-frosted-glass-de-cosmic-498609.htm#xtor=RSS-1",
+            "date": "15/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/cosmic-frosted-glass-linux-pratique.webp"
+        },
+        {
+            "titre": "Coup d'arrêt pour le datacenter Sesterce à Valence",
+            "lien": "https://www.zdnet.fr/actualites/coup-darret-pour-le-datacenter-sesterce-a-valence-498653.htm#xtor=RSS-1",
+            "date": "15/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/justice-3.jpg"
+        },
+        {
+            "titre": "Samsung dévoile « Flex Titanium », sa nouvelle technologie d’écran pliable",
+            "lien": "https://www.zdnet.fr/actualites/samsung-devoile-flex-titanium-sa-nouvelle-technologie-decran-pliable-498614.htm#xtor=RSS-1",
+            "date": "15/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/07/samsung-galaxy-z-flip-7-1.jpg"
+        },
+        {
+            "titre": "ASML dépasse les attentes grâce au boom de l’IA et relève ses prévisions",
+            "lien": "https://www.zdnet.fr/actualites/asml-depasse-les-attentes-au-deuxieme-trimestre-grace-au-boom-de-lia-et-releve-ses-previsions-annuelles-498619.htm#xtor=RSS-1",
+            "date": "15/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/09/puce-ia.jpg"
+        },
         {
             "titre": "Le patron de Google DeepMind veut un organisme d’autorégulation mené par les États-Unis pour l’IA de pointe",
             "lien": "https://www.zdnet.fr/actualites/le-patron-de-google-deepmind-veut-un-organisme-dautoregulation-mene-par-les-etats-unis-pour-lia-de-pointe-498612.htm#xtor=RSS-1",
@@ -241,54 +307,6 @@
             "lien": "https://www.zdnet.fr/guide-achat/sony-1000x-the-collexion-vs-bowers-wilkins-px8-s2-les-deux-casques-sont-impressionnants-mais-lun-est-plus-confortable-498589.htm#xtor=RSS-1",
             "date": "15/07/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/sony-1000x-the-collexion-vs.-bowers-wilkins-px8-s2-compar.jpg"
-        },
-        {
-            "titre": "Chassé-croisé de l'été : ces erreurs fréquentes qui siphonnent Android Auto sur la route des vacances",
-            "lien": "https://www.zdnet.fr/pratique/chasse-croise-de-lete-ces-erreurs-frequentes-qui-siphonnent-android-auto-sur-la-route-des-vacances-498100.htm#xtor=RSS-1",
-            "date": "14/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/4.png"
-        },
-        {
-            "titre": "Sécurité pratique : repérez les escroqueries par « quishing » avant qu'il ne soit trop tard",
-            "lien": "https://www.zdnet.fr/pratique/securite-pratique-reperez-les-escroqueries-par-quishing-avant-quil-ne-soit-trop-tard-498593.htm#xtor=RSS-1",
-            "date": "14/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/quishing-pratique.jpg"
-        },
-        {
-            "titre": "Cybersécurité et intelligence artificielle : la difficile riposte européenne",
-            "lien": "https://www.zdnet.fr/actualites/cybersecurite-et-intelligence-artificielle-la-difficile-riposte-europeenne-498554.htm#xtor=RSS-1",
-            "date": "14/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/03/agents-ia-et-la-peur-de-perdre-les-jobs.jpg"
-        },
-        {
-            "titre": "Pixels traceurs : dernier jour pour demander l'autorisation",
-            "lien": "https://www.zdnet.fr/actualites/pixels-traceurs-dernier-jour-pour-demander-lautorisation-498598.htm#xtor=RSS-1",
-            "date": "14/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/09/email.jpg"
-        },
-        {
-            "titre": "Test TP-Link Tapo C465 : le panneau solaire de cette caméra de surveillance n’est pas son seul avantage",
-            "lien": "https://www.zdnet.fr/guide-achat/test-tp-link-tapo-c465-le-panneau-solaire-de-cette-camera-de-surveillance-nest-pas-son-seul-avantage-498557.htm#xtor=RSS-1",
-            "date": "14/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/tp-link-tapo-c465-test.jpg"
-        },
-        {
-            "titre": "Informatique pratique : au lieu de Google Drive, misez sur Nextcloud",
-            "lien": "https://www.zdnet.fr/pratique/informatique-pratique-au-lieu-de-google-drive-misez-sur-nextcloud-498560.htm#xtor=RSS-1",
-            "date": "13/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/nextcloud-plutot-que-google-drive-inform-pratique.webp"
-        },
-        {
-            "titre": "La veille du 14-Juillet, la diplomatie française pointe à nouveau l’espionnage cyber russe",
-            "lien": "https://www.zdnet.fr/actualites/la-veille-du-14-juillet-la-diplomatie-francaise-pointe-a-nouveau-lespionnage-cyber-russe-498578.htm#xtor=RSS-1",
-            "date": "13/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/mikhail-arefiev-unsplash.jpg"
-        },
-        {
-            "titre": "Landing page, formulaire, offre temporaire : IONOS accélère les campagnes web de l’été",
-            "lien": "https://www.zdnet.fr/publicite/landing-page-formulaire-offre-temporaire-ionos-accelere-les-campagnes-web-de-lete-498121.htm#xtor=RSS-1",
-            "date": "13/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/2149930993.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -355,67 +373,115 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-8920 - ASUS Aura Wallpaper Service Path Traversal and Improper Access Control Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-8920",
+            "titre": "CVE-2026-15925 - Improper TLS Hostname Verification in Snowflake Connector for Python",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15925",
+            "date": "16/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-15013 - SAML Single Sign On <= 5.4.3 - Unauthenticated Authentication Bypass via 'SAMLResponse' Parameter Signature Algorithm Confusion",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15013",
+            "date": "16/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-1609 - Org.keycloak/keycloak-quarkus-server: keycloak: unauthorized access via jwt authorization grant with disabled users",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-1609",
+            "date": "16/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-55652 - Wekan: Header-login IP allowlist bypass via X-Forwarded-For spoofing in Wekan allows unauthenticated full account takeover (incl. admin)",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55652",
             "date": "15/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-15029 - ASUS System Control Interface Arbitrary Memory Access Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15029",
+            "titre": "CVE-2026-55576 - MaaAssistantArknights: PR-title expression injection in release-preparation.yml",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55576",
             "date": "15/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13585 - ASUS System Control Interface and Business Manager Information Disclosure and Denial of Service",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13585",
+            "titre": "CVE-2026-55445 - Qinglong: Incomplete fix for CVE-2026-3965: Improper Authentication",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55445",
             "date": "15/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13385 - ASUS Router Improper Certificate and Integrity Validation Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13385",
+            "titre": "CVE-2026-55234 - Wekan: Broken access control: any authenticated user can move their Cards/Lists/Swimlanes into a private board they are not a member of (cross-board write via collection allow rule)",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55234",
             "date": "15/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-9770 - Hardcoded Cryptographic Key Information Disclosure Vulnerability on TP-Link Kasa EC70 and EC71",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-9770",
+            "titre": "CVE-2026-54458 - AVideo: Unauthenticated Stored DOM Cross-Site Scripting via Per-Client Metadata Broadcast in YPTSocket Plugin",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-54458",
             "date": "15/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-59733 - rclone `serve restic --private-repos` authorization bypass: `..` in the URL path lets an authenticated user read, overwrite and delete other users' repositories",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-59733",
-            "date": "14/07/2026",
+            "titre": "CVE-2026-52893 - Wekan: OIDC Account Takeover via Unconditional Email-Based Account Merge in onCreateUser hook",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-52893",
+            "date": "15/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-50130 - Pi-hole: Local privilege escalation from `pihole` user to root via `/etc/pihole/logrotate`",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-50130",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-48334 - Illustrator | Improper Input Validation (CWE-20)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-48334",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-48290 - CAI Content Credentials | Server-Side Request Forgery (SSRF) (CWE-918)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-48290",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-48275 - Illustrator | Untrusted Search Path (CWE-426)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-48275",
-            "date": "14/07/2026",
+            "titre": "CVE-2026-52891 - Wekan: Shell Injection via Avatar Upload",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-52891",
+            "date": "15/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Dutch police bust investment fraud ring stealing over €100 million",
+            "lien": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Zoom warns of critical account takeover vulnerability",
+            "lien": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+            "lien": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "AsyncAPI npm packages infected with credential-stealing malware",
+            "lien": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+            "lien": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CISA warns admins to patch actively exploited SharePoint flaws",
+            "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Microsoft: Some Dell PCs shut down after recent Windows updates",
+            "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "US charges alleged operators of Russian bulletproof hosting service",
+            "lien": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
+            "date": "15/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
             "lien": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
@@ -425,54 +491,6 @@
         {
             "titre": "Spanish Police take down €140 million cyber fraud ring, arrest four",
             "lien": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Nearly 300 GitHub repos pose as legit software to push malware",
-            "lien": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Microsoft releases Windows 10 KB5099539 extended security update",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-            "lien": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "LastPass, Bitwarden users targeted with fake security alerts",
-            "lien": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-            "lien": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-            "date": "14/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Microsoft Entra ID gets passkeys default authentication starting September",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
             "date": "14/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
