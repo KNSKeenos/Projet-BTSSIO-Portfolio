@@ -1,6 +1,30 @@
 {
     "IT-Connect": [
         {
+            "titre": "Faille dans 7-Zip : pourquoi vous devriez installer la version 26.02 sans attendre",
+            "lien": "https://www.it-connect.fr/7-zip-26-02-faille-rce-cve-2026-14266/",
+            "date": "20/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "X open source : Elon Musk promet d’ouvrir tout le code du réseau social",
+            "lien": "https://www.it-connect.fr/x-open-source-code-musk/",
+            "date": "20/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Cette arnaque FaceTime vide les comptes bancaires en direct",
+            "lien": "https://www.it-connect.fr/arnaque-facetime-appel-video-comptes-bancaires/",
+            "date": "20/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Windows 11 – KB5121767 : Microsoft corrige en urgence le bug Intel qui bloquait des PC Dell",
+            "lien": "https://www.it-connect.fr/windows-11-kb5121767-correctif-urgence-pc-dell-intel-ipf/",
+            "date": "20/07/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
             "titre": "wp2shell : une faille critique expose des millions de sites WordPress",
             "lien": "https://www.it-connect.fr/wordpress-wp2shell-rce-critique-coeur-cms/",
             "date": "18/07/2026",
@@ -35,33 +59,15 @@
             "lien": "https://www.it-connect.fr/traefik-manager-interface-web-reverse-proxy/",
             "date": "16/07/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Age of Empires II : une faille permettait de prendre le contrôle d’un PC via une partie multijoueur",
-            "lien": "https://www.it-connect.fr/age-of-empires-ii-faille-rce-cve-2026-50663/",
-            "date": "16/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Secure Boot : 11 shims signés par Microsoft permettaient de contourner la protection",
-            "lien": "https://www.it-connect.fr/secure-boot-11-shims-signes-microsoft-eset/",
-            "date": "16/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Firefox va passer à une nouvelle version majeure toutes les 2 semaines dès septembre",
-            "lien": "https://www.it-connect.fr/firefox-version-majeure-toutes-les-2-semaines/",
-            "date": "16/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Proton VPN : 458 réquisitions judiciaires depuis 2017, et toujours zéro donnée transmise",
-            "lien": "https://www.it-connect.fr/proton-vpn-rapport-transparence-458-demandes-refusees/",
-            "date": "16/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         }
     ],
     "Journal du Hacker": [
+        {
+            "titre": "Liens intéressants Journal du hacker semaine #29",
+            "lien": "https://blog.journalduhacker.net/index.php?article596/liens-interessants-journal-du-hacker-semaine-29-2026",
+            "date": "20/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Quand Internet ment à l’IA : le poisoning comme arme de désinformation",
             "lien": "https://tferdinand.net/ai-poisoning-desinformation-llm/",
@@ -75,14 +81,14 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Laravel France - Middleware, Gates et Policies dans Laravel : qui fait quoi ?",
-            "lien": "https://laravel-france.com/posts/middleware-gates-et-policies-dans-laravel-qui-fait-quoi",
+            "titre": "« Écrire du code, je n'en fais plus »",
+            "lien": "https://pablopernot.fr/2026/07/ecrire-du-code-je-nen-fais-plus/",
             "date": "17/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "« Écrire du code, je n'en fais plus »",
-            "lien": "https://pablopernot.fr/2026/07/ecrire-du-code-je-nen-fais-plus/",
+            "titre": "Laravel France - Middleware, Gates et Policies dans Laravel : qui fait quoi ?",
+            "lien": "https://laravel-france.com/posts/middleware-gates-et-policies-dans-laravel-qui-fait-quoi",
             "date": "17/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
@@ -115,74 +121,68 @@
             "lien": "https://domopi.eu/liens-tech-juillet-2026/",
             "date": "15/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Exit Chat Control · Devenir Ingouvernable",
-            "lien": "https://exitchatcontrol.org/fr/",
-            "date": "15/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
+        {
+            "titre": "RetroMac - Le retour des Flying Toasters et du dock en verre",
+            "lien": "https://korben.info/retromac-theme-retro-macos-crt-snow-leopard.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "20/07/2026",
+            "image": "https://korben.info/retromac-theme-retro-macos-crt-snow-leopard/retromac-theme-retro-macos-crt-snow-leopard-1.png"
+        },
+        {
+            "titre": "France Travail - 26 variables décident si vous êtes suspect",
+            "lien": "https://korben.info/france-travail-algorithme-ciblage-controle-chomeurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "20/07/2026",
+            "image": "https://korben.info/france-travail-algorithme-ciblage-controle-chomeurs/france-travail-algorithme-ciblage-controle-chomeurs-1.png"
+        },
+        {
+            "titre": "Hugging Face piraté, les IA américaines refusent de les aider",
+            "lien": "https://korben.info/hugging-face-pirate-agent-ia-autonome.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "20/07/2026",
+            "image": "https://korben.info/hugging-face-pirate-agent-ia-autonome/hugging-face-pirate-agent-ia-autonome-1.png"
+        },
+        {
+            "titre": "Un demi-million de domaines anti-pub stockés dans 50 Ko de RAM",
+            "lien": "https://korben.info/esp32-dns-dongle-anti-pub.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "20/07/2026",
+            "image": "https://korben.info/esp32-dns-dongle-anti-pub/esp32-dns-dongle-anti-pub-1.png"
+        },
+        {
+            "titre": "Compressez vos vidéos d'un clic droit sur Mac",
+            "lien": "https://korben.info/ffmpeg-compresser-video-mac-clic-droit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "20/07/2026",
+            "image": "https://korben.info/ffmpeg-compresser-video-mac-clic-droit/ffmpeg-compresser-video-mac-clic-droit-1.png"
+        },
+        {
+            "titre": "La loi de l'attraction prouvée scientifiquement ?",
+            "lien": "https://korben.info/champs-electromagnetiques-conscience.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "19/07/2026",
+            "image": "https://korben.info/champs-electromagnetiques-conscience/champs-electromagnetiques-conscience-1.png"
+        },
+        {
+            "titre": "727 mots de passe par seconde, la Game Boy Advance s'y met fort ^^",
+            "lien": "https://korben.info/gba-hashcat-craqueur-mots-de-passe.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "19/07/2026",
+            "image": "https://korben.info/gba-hashcat-craqueur-mots-de-passe/gba-hashcat-craqueur-mots-de-passe-1.png"
+        },
+        {
+            "titre": "Castor - Votre flux vidéo web sur la télé, en top qualité",
+            "lien": "https://korben.info/castor-caster-flux-video-web-tv.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "19/07/2026",
+            "image": "https://korben.info/castor-caster-flux-video-web-tv/castor-caster-flux-video-web-tv-1.png"
+        },
+        {
+            "titre": "Une demi-seconde a fait tomber la backdoor XZ - Voici son livre",
+            "lien": "https://korben.info/half-second-livre-backdoor-xz.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "19/07/2026",
+            "image": "https://korben.info/half-second-livre-backdoor-xz/half-second-livre-backdoor-xz-1.png"
+        },
         {
             "titre": "Un moddeur fait tourner trois GTA les uns dans les autres",
             "lien": "https://korben.info/gta-3-vice-city-san-andreas-mod.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "19/07/2026",
             "image": "https://korben.info/gta-3-vice-city-san-andreas-mod/gta-3-vice-city-san-andreas-mod-1.png"
-        },
-        {
-            "titre": "WP2Shell - La faille qui permet de pirater WordPress sans aucun plugin",
-            "lien": "https://korben.info/wp2shell-exploits-prise-controle-wordpress.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "19/07/2026",
-            "image": "https://korben.info/wp2shell-exploits-prise-controle-wordpress/wp2shell-exploits-prise-controle-wordpress-1.jpg"
-        },
-        {
-            "titre": "Pix 2D to 3D - Des sprites aux modèles 3D, sans IA ni GPU",
-            "lien": "https://korben.info/voxelizer-pixel-art-3d-obj.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "17/07/2026",
-            "image": "https://korben.info/voxelizer-pixel-art-3d-obj/voxelizer-pixel-art-3d-obj-1.png"
-        },
-        {
-            "titre": "Firefox en WebAssembly - Gecko s'embarque dans vos pages web",
-            "lien": "https://korben.info/firefox-webassembly-gecko-navigateur-embarque.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "17/07/2026",
-            "image": "https://korben.info/firefox-webassembly-gecko-navigateur-embarque/firefox-webassembly-gecko-navigateur-embarque-1.png"
-        },
-        {
-            "titre": "Open OSCAR Server - Faites revivre AIM sur vos vieilles bécanes",
-            "lien": "https://korben.info/serveur-aim-perso-open-oscar.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "17/07/2026",
-            "image": "https://korben.info/serveur-aim-perso-open-oscar/serveur-aim-perso-open-oscar-1.avif"
-        },
-        {
-            "titre": "Mario Kart Wii bientôt jouable sans Dolphin ni Wii",
-            "lien": "https://korben.info/mario-kart-wii-recompilation-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "17/07/2026",
-            "image": "https://korben.info/mario-kart-wii-recompilation-pc/mario-kart-wii-recompilation-pc-1.jpg"
-        },
-        {
-            "titre": "Torvalds aux opposants à l'IA dans Linux : forkez le noyau, ou passez votre chemin",
-            "lien": "https://korben.info/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "17/07/2026",
-            "image": "https://korben.info/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin-1.jpg"
-        },
-        {
-            "titre": "La Belgique bloque wawacity.pizza, mais les pirates se sont déjà mis au poker",
-            "lien": "https://korben.info/belgique-blocage-domaines-piratage-poker.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "17/07/2026",
-            "image": "https://korben.info/belgique-blocage-domaines-piratage-poker/belgique-blocage-domaines-piratage-poker-1.jpg"
-        },
-        {
-            "titre": "GPT-5.6 Sol efface la prod - Un an après Replit, rebelote",
-            "lien": "https://korben.info/gpt-5-6-sol-suppression-fichiers-openai.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "17/07/2026",
-            "image": "https://korben.info/gpt-5-6-sol-suppression-fichiers-openai/gpt-5-6-sol-suppression-fichiers-openai-1.png"
-        },
-        {
-            "titre": "Contourner un géoblocage via VPN n'a rien d'illégal, dit la CJUE",
-            "lien": "https://korben.info/vpn-geoblocage-legal-cjue.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "17/07/2026",
-            "image": "https://korben.info/vpn-geoblocage-legal-cjue/vpn-geoblocage-legal-cjue-1.jpg"
         }
     ],
     "CERT-FR": [
@@ -249,6 +249,36 @@
     ],
     "ZDNET": [
         {
+            "titre": "Galaxy Watch9 : le design change peu, mais le suivi santé fait un bond en avant",
+            "lien": "https://www.zdnet.fr/actualites/galaxy-watch9-le-design-change-peu-mais-le-suivi-sante-fait-un-bond-en-avant-498777.htm#xtor=RSS-1",
+            "date": "20/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/11/galaxy-watch.jpg"
+        },
+        {
+            "titre": "Dépendances numériques: le rapport parlementaire prône «une France du Libre et de l’Open Source»",
+            "lien": "https://www.zdnet.fr/blogs/l-esprit-libre/dependances-numeriques-le-rapport-parlementaire-prone-une-france-du-libre-et-de-lopen-source-498762.htm#xtor=RSS-1",
+            "date": "19/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/cyrielle_chatelain_wmc.jpg"
+        },
+        {
+            "titre": "Quand le SaaS devient trop cher pour être irremplaçable",
+            "lien": "https://www.zdnet.fr/blogs/green-si/quand-le-saas-devient-trop-cher-pour-etre-irremplacable-498747.htm#xtor=RSS-1",
+            "date": "19/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/make-or-buy.jpg"
+        },
+        {
+            "titre": "7 gestes tech à faire avant de partir en vacances pour protéger votre maison",
+            "lien": "https://www.zdnet.fr/pratique/7-gestes-tech-a-faire-avant-de-partir-en-vacances-pour-proteger-votre-maison-498719.htm#xtor=RSS-1",
+            "date": "19/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/maison-connectee.jpg"
+        },
+        {
+            "titre": "WhatCable : l'appli gratuite qui démasque vos faux câbles USB-C",
+            "lien": "https://www.zdnet.fr/pratique/whatcable-lappli-gratuite-qui-demasque-vos-faux-cables-usb-c-498685.htm#xtor=RSS-1",
+            "date": "19/07/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/whatcable.jpg"
+        },
+        {
             "titre": "J'ai testé l'Ultrahuman Ring Pro : le rêve du biohacker, mais pas pour moi",
             "lien": "https://www.zdnet.fr/guide-achat/jai-teste-lultrahuman-ring-pro-le-reve-du-biohacker-mais-pas-pour-moi-498654.htm#xtor=RSS-1",
             "date": "18/07/2026",
@@ -277,36 +307,6 @@
             "lien": "https://www.zdnet.fr/pratique/carriere-pratique-face-a-une-demande-croissante-en-competences-ia-dans-le-marche-de-lemploi-voici-3-facons-de-mettre-les-votres-en-avant-498711.htm#xtor=RSS-1",
             "date": "17/07/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/ia-demande-croissante-competences-reagir-pratique.jpg"
-        },
-        {
-            "titre": "RGPD, datacenters et investissements : les propositions du rapport parlementaire pour la souveraineté numérique",
-            "lien": "https://www.zdnet.fr/actualites/rgpd-datacenters-et-investissements-les-propositions-du-rapport-parlementaire-pour-la-souverainete-numerique-498733.htm#xtor=RSS-1",
-            "date": "17/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/cyber20fr.jpg"
-        },
-        {
-            "titre": "Plusieurs ordinateurs à protéger ? Avast simplifie la sécurité des PME",
-            "lien": "https://www.zdnet.fr/publicite/plusieurs-ordinateurs-a-proteger-avast-simplifie-la-securite-des-pme-498586.htm#xtor=RSS-1",
-            "date": "17/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/89735.jpg"
-        },
-        {
-            "titre": "Le CNRS sort de Zoom et Microsoft Exchange, et bientôt Sharepoint",
-            "lien": "https://www.zdnet.fr/actualites/le-cnrs-sort-de-zoom-et-microsoft-exchange-et-bientot-sharepoint-498728.htm#xtor=RSS-1",
-            "date": "17/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/05/microsoft.jpg"
-        },
-        {
-            "titre": "Pourquoi Uber met la main sur l’allemand Delivery Hero",
-            "lien": "https://www.zdnet.fr/actualites/pourquoi-uber-met-la-main-sur-lallemand-delivery-hero-498717.htm#xtor=RSS-1",
-            "date": "17/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/Uber20C-1.jpg"
-        },
-        {
-            "titre": "Trump accusé de conflits d'intérêts : des achats d'actions suivis de messages élogieux relancent la polémique",
-            "lien": "https://www.zdnet.fr/actualites/trump-accuse-de-conflits-dinterets-des-achats-dactions-suivis-de-messages-elogieux-relancent-la-polemique-498725.htm#xtor=RSS-1",
-            "date": "17/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/Trump-twitter-blocage-620__w1200.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,6 +373,12 @@
     ],
     "CVE Feed": [
         {
+            "titre": "CVE-2026-44359 - Meshtastic GitHub repo vulnerable to Arbitrary Code Execution via pull_request_target Fork Checkout in CI Workflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-44359",
+            "date": "20/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "CVE-2026-10130 - QueryWeaver Authentication Bypass via Email Signup Token Issuance for Existing Accounts",
             "lien": "https://cvefeed.io/vuln/detail/CVE-2026-10130",
             "date": "18/07/2026",
@@ -425,15 +431,15 @@
             "lien": "https://cvefeed.io/vuln/detail/CVE-2023-54366",
             "date": "18/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-9147 - uproot 5.7.4 and prior Code Injection via TStreamerInfo Metadata",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-9147",
-            "date": "18/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Hackers abuse ViPNet software to target Russian govt agencies",
+            "lien": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+            "date": "19/07/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
             "lien": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
@@ -485,12 +491,6 @@
         {
             "titre": "New Windows LegacyHive zero-day gives hackers admin privileges",
             "lien": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-            "date": "17/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Windows Server 2022 reach end of mainstream support in 90 days",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
             "date": "17/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
