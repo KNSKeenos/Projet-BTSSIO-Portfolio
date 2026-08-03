@@ -63,6 +63,24 @@
     ],
     "Journal du Hacker": [
         {
+            "titre": "Nextcloud 34 : remettre l'ancien menu horizontal",
+            "lien": "https://blog.flozz.fr/2026/08/03/nextcloud-34-remettre-lancien-menu-horizontal/",
+            "date": "03/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Liens intéressants Journal du hacker semaine #31",
+            "lien": "https://blog.journalduhacker.net/index.php?article598/liens-interessants-journal-du-hacker-semaine-31-2026",
+            "date": "03/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Ebook : auto hébergement et store alternatif",
+            "lien": "https://www.fredix.xyz/2026/08/ebook-autohebergement/",
+            "date": "02/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Tmux : le guide du multiplexeur de terminal",
             "lien": "https://slash-root.fr/tmux-guide-multiplexeur-terminal/",
             "date": "01/08/2026",
@@ -77,6 +95,12 @@
         {
             "titre": "Veille #67 - 38 actus qu'il ne fallait pas rater cette semaine",
             "lien": "https://www.camilleroux.com/cursor-router-choisit-votre-modele-mcp-devient-stateless-kimi-k3-1m-tokens-veille-67/",
+            "date": "01/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "👩‍💻Le dev est mort, vive le dev ! 🧑‍💻",
+            "lien": "https://philippart-s.github.io/blog/2026-08-01-dev-is-dead/",
             "date": "01/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
@@ -97,74 +121,14 @@
             "lien": "https://dryusdan.space/choisir-son-resolveur-menteur",
             "date": "31/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Certificats SSL : 200 jours en 2026, 47 jours en 2029",
-            "lien": "https://loud-technology.com/insight/certificats-ssl-200-jours-fin-renouvellement-manuel/",
-            "date": "31/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "RSC : et si le web social n'avait jamais eu besoin d'un nouveau protocole ?",
-            "lien": "https://rmendes.net/articles/2026/07/26/rsc-et-si-le-web/",
-            "date": "30/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Mes tests étaient verts, mon analyseur réseau était faux : 7 défauts que seules de vraies données ont montrés",
-            "lien": "https://rhnetwork.xyz/blog/tests-verts-outil-faux/",
-            "date": "30/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Actualité Cybersécurité de la semaine du 26/07/2026",
-            "lien": "https://erreur403.fr/p/erreur-403-87-deux-millions-de-vehicules-exposes-par-une-alarme-antivol-et-campagne-russe-zimbra/",
-            "date": "30/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
         {
-            "titre": "Déjà - Il devine ce que vous allez taper dans le terminal",
-            "lien": "https://korben.info/deja-terminal-predictif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "31/07/2026",
-            "image": "https://korben.info/deja-terminal-predictif/deja-terminal-predictif-1.png"
-        },
-        {
-            "titre": "Multiverse Engine - Le moteur 3D d'un fan de jeux rétro en VR",
-            "lien": "https://korben.info/rayrod-jeux-retro-vr-openxr.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "31/07/2026",
-            "image": "https://korben.info/rayrod-jeux-retro-vr-openxr/rayrod-jeux-retro-vr-openxr-1.jpg"
-        },
-        {
-            "titre": "Il finit en prison à cause d'un underscore",
-            "lien": "https://korben.info/underscore-skyrim-innocent-prison.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "30/07/2026",
-            "image": "https://korben.info/underscore-skyrim-innocent-prison/underscore-skyrim-innocent-prison-1.jpg"
-        },
-        {
-            "titre": "OpenNutriTracker - Pour suivre votre consommation de calories",
-            "lien": "https://korben.info/opennutritracker-compteur-calories-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "30/07/2026",
-            "image": "https://korben.info/opennutritracker-compteur-calories-open-source/opennutritracker-compteur-calories-open-source-1.jpg"
-        },
-        {
-            "titre": "Wander - Du Markdown uniquement visuel",
-            "lien": "https://korben.info/wander-editeur-markdown-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "30/07/2026",
-            "image": "https://korben.info/wander-editeur-markdown-mac/wander-editeur-markdown-mac-1.jpg"
-        },
-        {
-            "titre": "Il fait tourner DOOM avec des expressions régulières, et il faut trois minutes par image",
-            "lien": "https://korben.info/il-fait-tourner-doom-avec-des-expressions-regulieres-et-il-faut-trois-minutes-par-image.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "30/07/2026",
-            "image": "https://korben.info/il-fait-tourner-doom-avec-des-expressions-regulieres-et-il-faut-trois-minutes-par-image/il-fait-tourner-doom-avec-des-expressions-regulieres-et-il-faut-trois-minutes-par-image-1.png"
-        },
-        {
-            "titre": "Les lunettes-caméra de Meta ne passeront pas les portes de la DEF CON",
-            "lien": "https://korben.info/les-lunettes-camera-de-meta-ne-passeront-pas-les-portes-de-la-def-con.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "30/07/2026",
-            "image": "https://korben.info/les-lunettes-camera-de-meta-ne-passeront-pas-les-portes-de-la-def-con/les-lunettes-camera-de-meta-ne-passeront-pas-les-portes-de-la-def-con-1.jpg"
+            "titre": "Un zéro mal interprété dans le firmware Coldcard a rendu les clés Bitcoin devinables pendant cinq ans",
+            "lien": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "03/08/2026",
+            "image": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans-1.png"
         }
     ],
     "CERT-FR": [
@@ -231,6 +195,30 @@
     ],
     "ZDNET": [
         {
+            "titre": "Apple préparerait la plus grande refonte de l’iPad Air depuis 2020",
+            "lien": "https://www.zdnet.fr/actualites/apple-preparerait-la-plus-grande-refonte-de-lipad-air-depuis-2020-499213.htm#xtor=RSS-1",
+            "date": "03/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/03/apple-ipad-air-m4-test.jpg"
+        },
+        {
+            "titre": "Les géants américains de la tech ont déjà investi plus de 1 100 milliards de dollars dans l’IA : la rentabilité devient le véritable enjeu",
+            "lien": "https://www.zdnet.fr/actualites/les-geants-americains-de-la-tech-ont-deja-investi-plus-de-1-100-milliards-de-dollars-dans-lia-la-rentabilite-devient-le-veritable-enjeu-499216.htm#xtor=RSS-1",
+            "date": "03/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/09/ai-generated-9088888_1920.jpg"
+        },
+        {
+            "titre": "Snapchat privilégie les créateurs humains face à la vague de vidéos IA",
+            "lien": "https://www.zdnet.fr/actualites/snapchat-privilegie-les-createurs-humains-face-a-la-vague-de-videos-ia-499210.htm#xtor=RSS-1",
+            "date": "03/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/Snapchat20A.jpg"
+        },
+        {
+            "titre": "Ce que les règles des compagnies aériennes révèlent sur nos mauvaises habitudes avec les batteries externes",
+            "lien": "https://www.zdnet.fr/pratique/ce-que-les-regles-des-compagnies-aeriennes-revelent-sur-nos-mauvaises-habitudes-avec-les-batteries-externes-499156.htm#xtor=RSS-1",
+            "date": "02/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/batterie-externe.jpg"
+        },
+        {
             "titre": "AIO Launcher : le lanceur Android parfait pour une utilisation à une seule main",
             "lien": "https://www.zdnet.fr/pratique/aio-launcher-le-lanceur-android-parfait-pour-une-utilisation-a-une-seule-main-499114.htm#xtor=RSS-1",
             "date": "02/08/2026",
@@ -265,30 +253,6 @@
             "lien": "https://www.zdnet.fr/pratique/squat-de-connexion-en-vacances-votre-voisin-de-camping-vous-vole-t-il-votre-wi-fi-498081.htm#xtor=RSS-1",
             "date": "31/07/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/10.png"
-        },
-        {
-            "titre": "Android pratique : cinq astuces pour accélérer votre smartphone au-delà du simple nettoyage du cache système",
-            "lien": "https://www.zdnet.fr/smartphone/android-pratique-cinq-astuces-pour-accelerer-votre-smartphone-au-dela-du-simple-nettoyage-du-cache-systeme-499169.htm#xtor=RSS-1",
-            "date": "31/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/accelerer-android-pratique.jpg"
-        },
-        {
-            "titre": "Cryptographie: « ce qui nécessitait un an de travail peut prendre maintenant deux jours »",
-            "lien": "https://www.zdnet.fr/actualites/cryptographie-ce-qui-necessitait-un-an-de-travail-peut-prendre-maintenant-deux-jours-499186.htm#xtor=RSS-1",
-            "date": "31/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/chiffrement-nsa-entree-600__w1200.jpg"
-        },
-        {
-            "titre": "AI Act : à partir de dimanche, les contenus générés par IA devront se déclarer",
-            "lien": "https://www.zdnet.fr/actualites/ai-act-a-partir-de-dimanche-les-contenus-generes-par-ia-devront-se-declarer-499116.htm#xtor=RSS-1",
-            "date": "31/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/Deepfake20A.jpg"
-        },
-        {
-            "titre": "L’accès à l’énergie, levier de domination de l’IA",
-            "lien": "https://www.zdnet.fr/actualites/lacces-a-lenergie-levier-de-domination-de-lia-499167.htm#xtor=RSS-1",
-            "date": "31/07/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/03/andrey-metelev-qpaoxji4dao-unsplash.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -355,67 +319,85 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-8457 - WooCommerce - Social Login <= 2.8.7 - Unauthenticated Authentication Bypass via Forged Apple 'id_token' JWT",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-8457",
-            "date": "02/08/2026",
+            "titre": "CVE-2026-9593 - iDTM FDI Unauthorized Debug Interface Enablement",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-9593",
+            "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-18556 - Unauthenticated administrative account takeover",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-18556",
-            "date": "01/08/2026",
+            "titre": "CVE-2026-18589 - Wavlink WL-NU516U1 nas.cgi change_password stack-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-18589",
+            "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-55735 - Guardian.revoke/3 acts on unverified token claims, allowing forged-token session revocation",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55735",
-            "date": "01/08/2026",
+            "titre": "CVE-2026-18588 - Wavlink WL-NU516U1 nas.cgi fgets stack-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-18588",
+            "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-67343 - ArcadeDB before 26.7.2 Cluster Token Disclosure via GET /api/v1/server",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-67343",
-            "date": "01/08/2026",
+            "titre": "CVE-2026-14682 - Possible OOM from unbounded up-front allocation on a definite-length read",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-14682",
+            "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-67342 - ArcadeDB before 26.7.2 Authorization Bypass via Database Handlers",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-67342",
-            "date": "01/08/2026",
+            "titre": "CVE-2026-13506 - Lazy ASN.1 sequence forcing resets nesting-depth guard",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13506",
+            "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-67341 - ArcadeDB before 26.7.2 Authorization Bypass via SQL DEFINE FUNCTION",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-67341",
-            "date": "01/08/2026",
+            "titre": "CVE-2026-12860 - RSA PKCS#1 verification skips last two hash bytes in NULL-omitted path",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-12860",
+            "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-67340 - ArcadeDB before 26.7.2 Remote Code Execution via Trigger Scripts",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-67340",
-            "date": "01/08/2026",
+            "titre": "CVE-2026-12852 - MLS wire decoder allocates attacker-declared opaque length before bounds check",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-12852",
+            "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-67336 - better-auth before 1.6.11 Insecure Cryptographic Defaults via oidcProvider",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-67336",
-            "date": "01/08/2026",
+            "titre": "CVE-2026-12817 - OpenPGP AEAD decryption skips final tag on chunk-aligned data",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-12817",
+            "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-67331 - better-auth SCIM 1.5.0 before 1.7.0-beta.4 Authorization Bypass",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-67331",
-            "date": "01/08/2026",
+            "titre": "CVE-2026-12816 - IESEngine stream-mode MAC forgery via length-dependent KDF split",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-12816",
+            "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-67330 - better-auth SCIM 1.4.0-beta.27 through 1.6.21 Account Takeover via Provider-ID Collision",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-67330",
-            "date": "01/08/2026",
+            "titre": "CVE-2026-12803 - KCCMBlockCipher MAC does not bind nonce when AAD is absent (cross-nonce AEAD forgery)",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-12803",
+            "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
+            "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+            "date": "02/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+            "lien": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+            "date": "02/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Google Chrome may soon block New Tab hijacker extensions by default",
+            "lien": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+            "date": "02/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Rails patches critical Active Storage flaw with RCE potential",
             "lien": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
@@ -456,24 +438,6 @@
             "titre": "CISA warns of cyberattacks disrupting U.S. water utilities",
             "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
             "date": "31/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "ESET tracks rise in malicious AI skills and adaptable malware",
-            "lien": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
-            "date": "31/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
-            "lien": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-            "date": "31/07/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "South Korea fines telco giant KT $39 million for customer data breach",
-            "lien": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-            "date": "30/07/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
