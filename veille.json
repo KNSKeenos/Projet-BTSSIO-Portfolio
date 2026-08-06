@@ -1,6 +1,12 @@
 {
     "IT-Connect": [
         {
+            "titre": "mkcert : créer des certificats HTTPS valides en local sur Debian",
+            "lien": "https://www.it-connect.fr/mkcert-certificats-https-local-debian/",
+            "date": "06/08/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
             "titre": "Proxmox VE : enrôler les certificats Secure Boot Microsoft 2023 sur vos VMs",
             "lien": "https://www.it-connect.fr/secure-boot-proxmox-certificats-uefi-2023/",
             "date": "05/08/2026",
@@ -51,12 +57,6 @@
         {
             "titre": "Windows 11 KB5101684 : découvrez les nouveautés de cette mise à jour !",
             "lien": "https://www.it-connect.fr/windows-11-kb5101684-windows-hello-ess-desinstaller-modele-ia/",
-            "date": "30/07/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "WhatsApp : les appels audio et vidéo chiffrés arrivent dans votre navigateur Web",
-            "lien": "https://www.it-connect.fr/whatsapp-web-appels-audio-video-chiffres-navigateur/",
             "date": "30/07/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         }
@@ -125,6 +125,18 @@
     ],
     "Korben": [
         {
+            "titre": "OpenAI pousse trois nouveaux outils dans les écoles, en pleine épidémie de triche à l'IA",
+            "lien": "https://korben.info/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "05/08/2026",
+            "image": "https://korben.info/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia-1.jpg"
+        },
+        {
+            "titre": "Pendant un test de sécurité, le modèle d'OpenAI a piraté un vrai site sans le savoir",
+            "lien": "https://korben.info/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "05/08/2026",
+            "image": "https://korben.info/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir-1.jpg"
+        },
+        {
             "titre": "Un développeur fait tourner les cinématiques de Command & Conquer sur un Atari ST de 1985",
             "lien": "https://korben.info/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "05/08/2026",
@@ -135,12 +147,6 @@
             "lien": "https://korben.info/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "04/08/2026",
             "image": "https://korben.info/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas-1.png"
-        },
-        {
-            "titre": "Un zéro mal interprété dans le firmware Coldcard a rendu les clés Bitcoin devinables pendant cinq ans",
-            "lien": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "03/08/2026",
-            "image": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans-1.png"
         }
     ],
     "CERT-FR": [
@@ -207,64 +213,64 @@
     ],
     "ZDNET": [
         {
-            "titre": "Apple et OpenAI : la bataille judiciaire s’intensifie autour de présumés secrets commerciaux",
-            "lien": "https://www.zdnet.fr/actualites/apple-et-openai-la-bataille-judiciaire-sintensifie-autour-de-presumes-secrets-commerciaux-499306.htm#xtor=RSS-1",
+            "titre": "Meta AI a accédé à Internet lors d’un test et s'attaque à un système tiers",
+            "lien": "https://www.zdnet.fr/actualites/meta-ai-a-accede-a-internet-lors-dun-test-et-compromis-un-systeme-tiers-une-erreur-de-configuration-relance-les-inquietudes-499353.htm#xtor=RSS-1",
+            "date": "06/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/04/meta-ai.jpg"
+        },
+        {
+            "titre": "AWS intègre sa sécurité IA Continuum à Claude Code et OpenAI Codex",
+            "lien": "https://www.zdnet.fr/actualites/aws-integre-sa-securite-ia-continuum-a-claude-code-et-openai-codex-499349.htm#xtor=RSS-1",
+            "date": "06/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/07/amazon-web-services.jpg"
+        },
+        {
+            "titre": "Test TerraMaster D1 SSD Pro : ce boîtier de disque préserve les performances de l’ordinateur",
+            "lien": "https://www.zdnet.fr/guide-achat/test-terramaster-d1-ssd-pro-ce-boitier-de-disque-preserve-les-performances-de-lordinateur-499297.htm#xtor=RSS-1",
+            "date": "06/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/terramaster-d1-ssd-pro-boitier-ssd-test.jpg"
+        },
+        {
+            "titre": "Comment Google a utilisé des agents IA pour détecter et corriger 1 072 failles de sécurité dans Chrome, en 60 jours",
+            "lien": "https://www.zdnet.fr/actualites/comment-google-a-utilise-des-agents-ia-pour-detecter-et-corriger-1-072-failles-de-securite-dans-chrome-en-60-jours-499327.htm#xtor=RSS-1",
             "date": "05/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/zdnet-os16-os-apple-wwdc-2025-0158.webp"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/gettyimages-2239767228.webp"
         },
         {
-            "titre": "SpaceX publie ses premiers résultats trimestriels depuis son IPO, l’action plonge sur fond d’investissements IA",
-            "lien": "https://www.zdnet.fr/actualites/spacex-publie-ses-premiers-resultats-trimestriels-depuis-son-ipo-laction-plonge-sur-fond-dinvestissements-ia-499300.htm#xtor=RSS-1",
+            "titre": "Les meilleurs ordinateurs portables pour les pros en 2026",
+            "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/les-meilleurs-ordinateurs-portables-pour-les-pros-en-2026-499332.htm#xtor=RSS-1",
             "date": "05/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/spacex.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/selection_expert_2026_zdnet_une.png"
         },
         {
-            "titre": "Retour d’expérience : j'ai comparé mon Google Fitbit Air à un cardiofréquencemètre quasi « aussi précis qu'un électrocardiogramme »",
-            "lien": "https://www.zdnet.fr/guide-achat/retour-dexperience-jai-compare-mon-google-fitbit-air-a-un-cardiofrequencemetre-quasi-aussi-precis-quun-electrocardiogramme-499227.htm#xtor=RSS-1",
+            "titre": "IA en entreprise : comment une équipe de Formule 1 tire un avantage concurrentiel en gardant l'humain dans la boucle",
+            "lien": "https://www.zdnet.fr/pratique/ia-en-entreprise-comment-une-equipe-de-formule-1-tire-un-avantage-concurrentiel-en-gardant-lhumain-dans-la-boucle-499283.htm#xtor=RSS-1",
             "date": "05/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/google-fitbit-air-retour-exp.jpg"
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/ia-dans-une-equipe-de-formule-1-entreprise-pratique.jpg"
         },
         {
-            "titre": "Sécurité pratique : ne branchez pas ces appareils ménagers sur une rallonge",
-            "lien": "https://www.zdnet.fr/pratique/securite-pratique-ne-branchez-pas-ces-appareils-menagers-sur-une-rallonge-499261.htm#xtor=RSS-1",
-            "date": "04/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/rallonge-electrique-a-eviter-pratique.jpg"
+            "titre": "Vous avez besoin d'exécuter des applications Windows ou Android sous Linux ? Voici de quoi vous faciliter la tâche",
+            "lien": "https://www.zdnet.fr/actualites/vous-avez-besoin-dexecuter-des-applications-windows-ou-android-sous-linux-voici-de-quoi-vous-faciliter-la-tache-499324.htm#xtor=RSS-1",
+            "date": "05/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/anduinhero.webp"
         },
         {
-            "titre": "J'ai essayé d'acheter un MacBook Air chez Apple aujourd'hui : la livraison a été retardée de plus d'un mois",
-            "lien": "https://www.zdnet.fr/actualites/jai-essaye-dacheter-un-macbook-air-chez-apple-aujourdhui-la-livraison-a-ete-retardee-de-plus-dun-mois-499294.htm#xtor=RSS-1",
-            "date": "04/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/dsc09871.jpg"
+            "titre": "Microsoft a enfin compris que Windows 11 était bien trop agaçant. Voici ce qu'il a décidé de faire",
+            "lien": "https://www.zdnet.fr/actualites/microsoft-a-enfin-compris-que-windows-11-etait-bien-trop-agacant-voici-ce-quil-a-decide-de-faire-499320.htm#xtor=RSS-1",
+            "date": "05/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/04/dsc00986.webp"
         },
         {
-            "titre": "« L'IA est à la fois une arme cybernétique et une cible de premier plan », met en garde CrowdStrike",
-            "lien": "https://www.zdnet.fr/actualites/lia-est-a-la-fois-une-arme-cybernetique-et-une-cible-de-premier-plan-met-en-garde-crowdstrike-499291.htm#xtor=RSS-1",
-            "date": "04/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/ai-weapons.jpg"
+            "titre": "L'IA détecte les failles plus vite que les humains ne peuvent les corriger : comment les RSSI doivent s'adapter",
+            "lien": "https://www.zdnet.fr/actualites/lia-detecte-les-failles-plus-vite-que-les-humains-ne-peuvent-les-corriger-comment-les-rssi-doivent-sadapter-499316.htm#xtor=RSS-1",
+            "date": "05/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/gettyimages-110682810.webp"
         },
         {
-            "titre": "Une campagne à sortir en urgence ? Hostinger vise les équipes pressées",
-            "lien": "https://www.zdnet.fr/publicite/une-campagne-a-sortir-en-urgence-hostinger-vise-les-equipes-pressees-498887.htm#xtor=RSS-1",
-            "date": "04/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/2149406762.jpg"
-        },
-        {
-            "titre": "Tout savoir sur les codes d'urgence : comment ils fonctionnent et pourquoi ils peuvent vous valoir un procès",
-            "lien": "https://www.zdnet.fr/pratique/tout-savoir-sur-les-codes-durgence-comment-ils-fonctionnent-et-pourquoi-ils-peuvent-vous-valoir-un-proces-499288.htm#xtor=RSS-1",
-            "date": "04/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/iphone-passcode.jpg"
-        },
-        {
-            "titre": "Contrôle parental Google : Family Link suffit-il à sécuriser un téléphone ?",
-            "lien": "https://www.zdnet.fr/guide-achat/controle-parental-google-family-link-suffit-il-a-securiser-un-telephone-498642.htm#xtor=RSS-1",
-            "date": "04/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/4015-family-link-1.png"
-        },
-        {
-            "titre": "+200 % en un an : l'IA s'impose comme le nouveau point de départ du shopping",
-            "lien": "https://www.zdnet.fr/actualites/200-en-un-an-lia-simpose-comme-le-nouveau-point-de-depart-du-shopping-499271.htm#xtor=RSS-1",
-            "date": "04/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/ia-commerce.jpg"
+            "titre": "Comment se débarrasser d'un phishing et sécuriser ses comptes",
+            "lien": "https://www.zdnet.fr/guide-achat/comment-se-debarrasser-dun-phishing-et-securiser-ses-comptes-498986.htm#xtor=RSS-1",
+            "date": "05/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/4018-1.png"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -331,67 +337,109 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-18901 - H3C NX15 Web API esps service.add routine",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-18901",
+            "titre": "CVE-2026-15991 - File Manager 6.0 - 6.9 - Missing Authorization to Authenticated (Subscriber+) Arbitrary File Read and Deletion via 'cmd' Query Parameter",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15991",
+            "date": "06/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-67531 - FrontMCP: CodeCall sandbox escape -> host RCE via live Zod schema exposure by getTool",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-67531",
+            "date": "06/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-19024 - HDF5 H5Pget_fill_value NULL Pointer Dereference via Malformed Fill Value Message",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19024",
             "date": "05/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-18900 - H3C NX15 Backend RPC esps file.exec os command injection",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-18900",
+            "titre": "CVE-2026-71320 - Nuxt: Server-Side Remote Code Execution via Runtime Template Injection in Nuxt Server Island Props",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71320",
             "date": "05/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-71190 - OpenStack Swift Proxy Server Regular Expression Denial of Service",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71190",
+            "titre": "CVE-2026-71319 - Nuxt.js Unauthenticated WebSocket RPC Call Leading to Remote Code Execution",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71319",
             "date": "05/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-66839 - Integrated Systems Technologies NetKids iMark Unquoted Search Path Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-66839",
+            "titre": "CVE-2026-71315 - Nuxt route rules silently dropped for mixed-case paths, bypassing appMiddleware auth gates (incomplete fix for CVE-2026-53721)",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71315",
             "date": "05/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-18898 - UTT HiPER 1200GW ConfigAdvideo strcpy stack-based overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-18898",
+            "titre": "CVE-2026-71312 - rclone: PowerShell Smart-Quote Filename Injection Enables SFTP Server-Side Command Execution",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71312",
             "date": "05/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-18897 - UTT HiPER 1250GW getOneApConfTempEntry strcpy stack-based overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-18897",
+            "titre": "CVE-2026-71309 - rclone: Incomplete path validation allows backend root escape in serve restic",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71309",
             "date": "05/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-18895 - UTT HiPER 1250GW APSecurity_5g strcpy stack-based overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-18895",
+            "titre": "CVE-2026-18411 - Use of hard-coded cryptographic key in Acrisure KARR BT and DR-100",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-18411",
             "date": "05/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-46334 - OpenSIPS: Denial of Service in SDP bandwidth parsing via QoS SDP cloning",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-46334",
+            "titre": "CVE-2026-17583 - Thermo Fisher Applied Biosystems Genetic Analyzers Missing Support for Integrity Check",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-17583",
             "date": "05/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-45809 - OpenSIPS: Denial of Service in watcherinfo XML generation from oversized watcher URI",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-45809",
-            "date": "05/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-45537 - OpenSIPS: Global Buffer Overflow in construct_uri",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-45537",
-            "date": "04/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+            "lien": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+            "date": "05/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+            "lien": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+            "date": "05/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Hackers run khunt post-exploitation toolkit from Oracle database",
+            "lien": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+            "date": "05/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "COLDCARD security audit phishing attack installs remote access tool",
+            "lien": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+            "date": "05/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+            "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+            "date": "05/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Google Blogger locks hundreds of blogs in malware false positive",
+            "lien": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
+            "date": "05/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "How AI-powered phishing killed blocklists for good",
+            "lien": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+            "date": "05/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
             "lien": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
@@ -408,48 +456,6 @@
             "titre": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
             "lien": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
             "date": "04/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-            "lien": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-            "date": "04/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "77 Open VSX extensions found harvesting developer info",
-            "lien": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-            "date": "04/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-            "lien": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-            "date": "04/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
-            "lien": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-            "date": "04/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-            "lien": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-            "date": "04/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
-            "lien": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
-            "date": "03/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-            "lien": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-            "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
