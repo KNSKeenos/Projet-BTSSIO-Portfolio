@@ -63,6 +63,18 @@
     ],
     "Journal du Hacker": [
         {
+            "titre": "Comment installer Proxmox sur un Raspberry Pi",
+            "lien": "https://docs.brunoy-osteopathe.fr/proxmox/comment-installer-proxmox-sur-un-raspberrypi/",
+            "date": "08/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Laravel 13.24, Filament 90% plus rapide, queues managées sur Cloud — Laravel au Quotidien #063",
+            "lien": "https://go.itanea.fr/laq63",
+            "date": "08/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Bloquer la pub : un réflexe salutaire !",
             "lien": "https://culture-et-outils-libres.forge.apps.education.fr/bloque-la-pub.html",
             "date": "07/08/2026",
@@ -109,18 +121,6 @@
             "lien": "https://go.itanea.fr/nl186",
             "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Agent IA : Utiliser codex d'OpenAI avec un LLM Local (llama.cpp)",
-            "lien": "https://www.linuxtricks.fr/wiki/agent-ia-utiliser-codex-d-openai-avec-un-llm-local-llama-cpp",
-            "date": "03/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Nextcloud 34 : remettre l'ancien menu horizontal",
-            "lien": "https://blog.flozz.fr/2026/08/03/nextcloud-34-remettre-lancien-menu-horizontal/",
-            "date": "03/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
@@ -135,24 +135,6 @@
             "lien": "https://korben.info/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "06/08/2026",
             "image": "https://korben.info/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine-1.webp"
-        },
-        {
-            "titre": "OpenAI pousse trois nouveaux outils dans les écoles, en pleine épidémie de triche à l'IA",
-            "lien": "https://korben.info/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "05/08/2026",
-            "image": "https://korben.info/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia-1.jpg"
-        },
-        {
-            "titre": "Pendant un test de sécurité, le modèle d'OpenAI a piraté un vrai site sans le savoir",
-            "lien": "https://korben.info/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "05/08/2026",
-            "image": "https://korben.info/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir-1.jpg"
-        },
-        {
-            "titre": "Un développeur fait tourner les cinématiques de Command & Conquer sur un Atari ST de 1985",
-            "lien": "https://korben.info/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "05/08/2026",
-            "image": "https://korben.info/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985-1.webp"
         }
     ],
     "CERT-FR": [
@@ -219,6 +201,24 @@
     ],
     "ZDNET": [
         {
+            "titre": "J'ai testé Norton Antivirus sur mon PC, et il a détecté un cheval de Troie caché en 15 minutes",
+            "lien": "https://www.zdnet.fr/guide-achat/jai-teste-norton-antivirus-sur-mon-pc-et-il-a-detecte-un-cheval-de-troie-cache-en-15-minutes-499388.htm#xtor=RSS-1",
+            "date": "08/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/norton-antivirus.jpg"
+        },
+        {
+            "titre": "Cet outil gratuit pour Windows 11 peut venir à la rescousse de votre PC en cas de problème. Voici comment procéder.",
+            "lien": "https://www.zdnet.fr/pratique/cet-outil-gratuit-pour-windows-11-peut-venir-a-la-rescousse-de-votre-pc-en-cas-de-probleme-voici-comment-proceder-499479.htm#xtor=RSS-1",
+            "date": "08/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/how-and-why-i-back-up-windows-11-through-system-restore-points-and-you-should-too.webp"
+        },
+        {
+            "titre": "Confidentialité, confort, sécurité : 16 réglages Apple Messages à connaître absolument",
+            "lien": "https://www.zdnet.fr/pratique/confidentialite-confort-securite-16-reglages-apple-messages-a-connaitre-absolument-499380.htm#xtor=RSS-1",
+            "date": "08/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/imessage_une.jpg"
+        },
+        {
             "titre": "Prise en main Samsung Galaxy Watch 9 : légère et confortable",
             "lien": "https://www.zdnet.fr/guide-achat/prise-en-main-samsung-galaxy-watch-9-legere-et-confortable-499402.htm#xtor=RSS-1",
             "date": "08/08/2026",
@@ -259,24 +259,6 @@
             "lien": "https://www.zdnet.fr/smartphone/le-pixel-11-arrive-la-semaine-prochaine-voici-ce-que-nous-en-savons-499434.htm#xtor=RSS-1",
             "date": "07/08/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/dsc07519.jpg"
-        },
-        {
-            "titre": "Vous pouvez désormais utiliser plus de 70 outils Adobe sans quitter ChatGPT : voici comment faire",
-            "lien": "https://www.zdnet.fr/actualites/vous-pouvez-desormais-utiliser-plus-de-70-outils-adobe-sans-quitter-chatgpt-voici-comment-faire-499431.htm#xtor=RSS-1",
-            "date": "07/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/adobes-new-plugin-for-chatgpt-puts-70-tools-inside-the-chatbot-how-it-works.jpg"
-        },
-        {
-            "titre": "L'IA échoue à corriger correctement des failles logicielles dans 74 % des cas",
-            "lien": "https://www.zdnet.fr/actualites/lia-echoue-a-corriger-correctement-des-failles-logicielles-dans-74-des-cas-499428.htm#xtor=RSS-1",
-            "date": "07/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/gettyimages-2262157542.jpg"
-        },
-        {
-            "titre": "Avec Shieldstral, Mistral AI se lance dans la modération multimodale",
-            "lien": "https://www.zdnet.fr/actualites/avec-shieldstral-mistral-ai-se-lance-dans-la-moderation-multimodale-499422.htm#xtor=RSS-1",
-            "date": "07/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/01/mistral-ai-small-3.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -343,67 +325,73 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-13505 - Zeroisation of sensitive key material on garbage collection relies on finalization",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13505",
-            "date": "08/08/2026",
+            "titre": "CVE-2026-71993 - MSI Radix AXE6600 v781521 Command Injection via openvpn function",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71993",
+            "date": "09/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-8798 - Native entropy source retries the CPU entropy instructions without limit",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-8798",
-            "date": "08/08/2026",
+            "titre": "CVE-2026-71992 - MSI Radix AXE6600 v781521 Command Injection via macfilter",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71992",
+            "date": "09/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-48120 - Kakoune has a Critical RCE via Autorestore Backup Filename Injection",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-48120",
-            "date": "07/08/2026",
+            "titre": "CVE-2026-71991 - MSI Radix AXE6600 v781521 Command Injection via TelnetSSH Function",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71991",
+            "date": "09/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-48026 - lakeFS vulnerable to stored XSS in rendered markdown previews via raw HTML",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-48026",
-            "date": "07/08/2026",
+            "titre": "CVE-2026-71990 - MSI Radix AXE6600 v781521 Command Injection via TelnetSSH Function",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71990",
+            "date": "09/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-46409 - OpenYak local API: unauthenticated CSRF chain leads to Remote Code Execution",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-46409",
-            "date": "07/08/2026",
+            "titre": "CVE-2026-71989 - MSI Radix AXE6600 v781521 Command Injection via porTrigger function",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71989",
+            "date": "09/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-48170 - scimPatch vulnerable to prototype pollution via unfiltered keys in patch",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-48170",
-            "date": "07/08/2026",
+            "titre": "CVE-2026-71988 - MSI Radix AXE6600 v781521 Command Injection via portFw function",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71988",
+            "date": "09/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-48169 - PraisonAI has Cross-Workspace IDOR and Privilege Escalation via Platform API",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-48169",
-            "date": "07/08/2026",
+            "titre": "CVE-2026-71987 - MSI Radix AXE6600 v781521 Command Injection via alg function",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71987",
+            "date": "09/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-47243 - Kata guest escape: runtime-rs guest-root to host-root escape via virtiofs",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-47243",
-            "date": "07/08/2026",
+            "titre": "CVE-2026-71986 - MSI Radix AXE6600 v781521 Command Injection via dmz Function",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71986",
+            "date": "09/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-50540 - Kata Containers: Config Path Annotation Arbitrary File Loading",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-50540",
-            "date": "07/08/2026",
+            "titre": "CVE-2026-71985 - MSI Radix AXE6600 v781521 Command Injection via accesscontrol Function",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71985",
+            "date": "09/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-47664 - Pathling: $import-pnp operation enables authenticated SSRF, credential leakage, and warehouse data poisoning",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-47664",
-            "date": "07/08/2026",
+            "titre": "CVE-2026-71984 - MSI Radix AXE6600 v781521 Command Injection via urlfilter",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71984",
+            "date": "09/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Hackers breach TrueConf to trojanize client installers with backdoors",
+            "lien": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+            "date": "08/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Metabase SQLi zero-day exploited in customer data-theft attacks",
             "lien": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
@@ -455,12 +443,6 @@
         {
             "titre": "Swiss government SharePoint breach compromised 200 accounts",
             "lien": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-            "date": "06/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-            "lien": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
             "date": "06/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
