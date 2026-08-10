@@ -99,14 +99,14 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Actualité Cybersécurité de la semaine du 03/08/2026",
-            "lien": "https://erreur403.fr/p/erreur-403-88-88-m-d-rob-s-gr-ce-une-faille-des-portefeuilles-coldcard/",
+            "titre": "Certification HDS : ce que j'ai appris en creusant pour un ami",
+            "lien": "https://notes.sklein.xyz/2026-06-19_1353/",
             "date": "06/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Certification HDS : ce que j'ai appris en creusant pour un ami",
-            "lien": "https://notes.sklein.xyz/2026-06-19_1353/",
+            "titre": "Actualité Cybersécurité de la semaine du 03/08/2026",
+            "lien": "https://erreur403.fr/p/erreur-403-88-88-m-d-rob-s-gr-ce-une-faille-des-portefeuilles-coldcard/",
             "date": "06/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
@@ -117,8 +117,8 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Quoi de neuf les devs ? #186 — Épuisés par l'IA, les devs inventent leurs parades",
-            "lien": "https://go.itanea.fr/nl186",
+            "titre": "Agent IA : Utiliser codex d'OpenAI avec un LLM Local (llama.cpp)",
+            "lien": "https://www.linuxtricks.fr/wiki/agent-ia-utiliser-codex-d-openai-avec-un-llm-local-llama-cpp",
             "date": "03/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
@@ -129,12 +129,6 @@
             "lien": "https://korben.info/cherry-sort-deux-lecteurs-de-carte-a-puce-qui-marchent-sous-linux-sans-pilote-proprietaire.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "07/08/2026",
             "image": "https://korben.info/cherry-sort-deux-lecteurs-de-carte-a-puce-qui-marchent-sous-linux-sans-pilote-proprietaire/cherry-sort-deux-lecteurs-de-carte-a-puce-qui-marchent-sous-linux-sans-pilote-proprietaire-1.jpg"
-        },
-        {
-            "titre": "Un modèle de Meta a piraté une entreprise pendant un test, et c'est le troisième cas en une semaine",
-            "lien": "https://korben.info/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "06/08/2026",
-            "image": "https://korben.info/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine-1.webp"
         }
     ],
     "CERT-FR": [
@@ -201,6 +195,24 @@
     ],
     "ZDNET": [
         {
+            "titre": "Test Yoga Mini Gen 11 : ce mini-PC rond a beaucoup de caractère",
+            "lien": "https://www.zdnet.fr/guide-achat/test-yoga-mini-gen-11-ce-mini-pc-rond-a-beaucoup-de-caractere-499482.htm#xtor=RSS-1",
+            "date": "09/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/lenovo-yoga-mini-gen-11-image-5.png"
+        },
+        {
+            "titre": "Android 17 : cette fonctionnalité méconnue trace tout ce qui se passe sur votre téléphone",
+            "lien": "https://www.zdnet.fr/pratique/android-17-cette-fonctionnalite-meconnue-trace-tout-ce-qui-se-passe-sur-votre-telephone-499442.htm#xtor=RSS-1",
+            "date": "09/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/android-17.jpg"
+        },
+        {
+            "titre": "J'ai testé une clé USB de 4 To résistante au quantique",
+            "lien": "https://www.zdnet.fr/guide-achat/jai-teste-une-cle-usb-de-4-to-resistante-au-quantique-499418.htm#xtor=RSS-1",
+            "date": "09/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/apricorn.jpg"
+        },
+        {
             "titre": "J'ai testé Norton Antivirus sur mon PC, et il a détecté un cheval de Troie caché en 15 minutes",
             "lien": "https://www.zdnet.fr/guide-achat/jai-teste-norton-antivirus-sur-mon-pc-et-il-a-detecte-un-cheval-de-troie-cache-en-15-minutes-499388.htm#xtor=RSS-1",
             "date": "08/08/2026",
@@ -241,24 +253,6 @@
             "lien": "https://www.zdnet.fr/pratique/comment-je-survis-a-lete-sans-clim-mes-meilleurs-conseils-astuces-et-gadgets-pour-affronter-la-chaleur-499449.htm#xtor=RSS-1",
             "date": "07/08/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/img-5289.webp"
-        },
-        {
-            "titre": "Dépassement de bande passante en hébergement : que faire ?",
-            "lien": "https://www.zdnet.fr/guide-achat/depassement-de-bande-passante-en-hebergement-que-faire-499034.htm#xtor=RSS-1",
-            "date": "07/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/pexels-cottonbro-4064827.jpg"
-        },
-        {
-            "titre": "Quel sont les meilleurs moniteur Full HD pour les pros en 2026 ?",
-            "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/quel-sont-les-meilleurs-moniteur-full-hd-pour-les-pros-en-2026-499440.htm#xtor=RSS-1",
-            "date": "07/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/selection_expert_2026_zdnet_une.png"
-        },
-        {
-            "titre": "Le Pixel 11 arrive la semaine prochaine : voici ce que nous en savons",
-            "lien": "https://www.zdnet.fr/smartphone/le-pixel-11-arrive-la-semaine-prochaine-voici-ce-que-nous-en-savons-499434.htm#xtor=RSS-1",
-            "date": "07/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/dsc07519.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -325,6 +319,24 @@
     ],
     "CVE Feed": [
         {
+            "titre": "CVE-2026-19348 - Shenzhen Aitemi M300 Wi-Fi Repeater protocol.csp sprintf command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19348",
+            "date": "09/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-19346 - Tenda CH22 CertListInfo formCertListInfo command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19346",
+            "date": "09/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-19341 - UTT HiPER 1200GW pptpSrvGlobalConfig strcpy stack-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19341",
+            "date": "09/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "CVE-2026-71993 - MSI Radix AXE6600 v781521 Command Injection via openvpn function",
             "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71993",
             "date": "09/08/2026",
@@ -363,24 +375,6 @@
         {
             "titre": "CVE-2026-71987 - MSI Radix AXE6600 v781521 Command Injection via alg function",
             "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71987",
-            "date": "09/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-71986 - MSI Radix AXE6600 v781521 Command Injection via dmz Function",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71986",
-            "date": "09/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-71985 - MSI Radix AXE6600 v781521 Command Injection via accesscontrol Function",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71985",
-            "date": "09/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-71984 - MSI Radix AXE6600 v781521 Command Injection via urlfilter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71984",
             "date": "09/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
