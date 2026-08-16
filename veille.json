@@ -125,6 +125,12 @@
     ],
     "Korben": [
         {
+            "titre": "Holeberry - Le Pi-hole dans la barre de menus du Mac",
+            "lien": "https://korben.info/holeberry-pi-hole-barre-menus-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "15/08/2026",
+            "image": "https://korben.info/holeberry-pi-hole-barre-menus-macos/holeberry-pi-hole-barre-menus-macos-1.png"
+        },
+        {
             "titre": "Boeing 737 - 60 secondes pour hacker l'avion",
             "lien": "https://korben.info/implant-boeing-737-port-maintenance-arinc-429.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "14/08/2026",
@@ -177,12 +183,6 @@
             "lien": "https://korben.info/votre-identite-vaut-de-lor.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "13/08/2026",
             "image": "https://korben.info/votre-identite-vaut-de-lor/votre-identite-vaut-de-lor-1.webp"
-        },
-        {
-            "titre": "Freenet-git - Le dépôt Git sans serveur",
-            "lien": "https://korben.info/freenet-git-decentralise-routage-ml.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "12/08/2026",
-            "image": "https://korben.info/freenet-git-decentralise-routage-ml/freenet-git-decentralise-routage-ml-1.jpg"
         }
     ],
     "CERT-FR": [
@@ -249,6 +249,18 @@
     ],
     "ZDNET": [
         {
+            "titre": "Pixel Watch 4 ou 5 : notre verdict pour vous aider à choisir",
+            "lien": "https://www.zdnet.fr/guide-achat/pixel-watch-4-ou-5-notre-verdict-pour-vous-aider-a-choisir-499884.htm#xtor=RSS-1",
+            "date": "15/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/pixel_watch_5.jpg"
+        },
+        {
+            "titre": "Flyers générés par IA : 8 astuces pour éviter l'effet raté qui saute aux yeux",
+            "lien": "https://www.zdnet.fr/guide-achat/flyers-generes-par-ia-8-astuces-pour-eviter-leffet-rate-qui-saute-aux-yeux-499873.htm#xtor=RSS-1",
+            "date": "15/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/flyer_une.jpg"
+        },
+        {
             "titre": "Android pratique : l’appli Google Loupe peut vous aider à lire les petits caractères",
             "lien": "https://www.zdnet.fr/pratique/android-pratique-lappli-google-loupe-peut-vous-aider-a-lire-les-petits-caracteres-499904.htm#xtor=RSS-1",
             "date": "15/08/2026",
@@ -295,18 +307,6 @@
             "lien": "https://www.zdnet.fr/actualites/taiwan-attaque-par-des-agents-ia-autonomes-499928.htm#xtor=RSS-1",
             "date": "14/08/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/taiwan.jpg"
-        },
-        {
-            "titre": "Les infrastructures IA plus exposées aux risques climatiques",
-            "lien": "https://www.zdnet.fr/actualites/les-infrastructures-ia-plus-exposees-aux-risques-climatiques-499916.htm#xtor=RSS-1",
-            "date": "14/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/datacenters20ventilos.jpg"
-        },
-        {
-            "titre": "Piratage à la DGFiP : 680 000 comptes compromis et un modèle IT remis en question",
-            "lien": "https://www.zdnet.fr/actualites/piratage-a-la-dgfip-680-000-comptes-compromis-et-un-modele-it-remis-en-question-499926.htm#xtor=RSS-1",
-            "date": "14/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/10/bercy.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,73 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-15965 - MaxUpload <= 1.4.0 - Unauthenticated Arbitrary File Upload via 'resumableFilename' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15965",
+            "titre": "CVE-2026-19924 - Tenda AC10 httpd R7WebsSecurityHandler improper authentication",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19924",
+            "date": "16/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-74767 - Unbounded DAA Decompression in Pandora Allows Denial of Service via Decompression Bomb",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-74767",
             "date": "15/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-15341 - User Session Synchronizer <= 1.4.0 - Unauthenticated Authentication Bypass to Account Takeover via 'ussync-key', 'ussync-token', and 'ussync-ref' Parameters",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15341",
+            "titre": "CVE-2026-74764 - Path Traversal in TAR Archive Extraction Allows Arbitrary File Write in Pandora",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-74764",
             "date": "15/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-15312 - Propovoice: All-in-One Client Management System <= 1.7.8 - Authenticated (ndpv_manager+) Privilege Escalation via 'role' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15312",
+            "titre": "CVE-2026-73053 - SiYuan before v3.7.4 Cross-Site Scripting via unicode2Emoji",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73053",
             "date": "15/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-15303 - 6Storage Rentals <= 2.27.0 - Unauthenticated Account Takeover via 'email' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15303",
+            "titre": "CVE-2026-73052 - SiYuan before v3.7.4 Stored XSS via Attribute-View Field Names",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73052",
             "date": "15/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-15001 - bLoyal: Loyalty & Promotions by bLoyal <= 3.1.611.78 - Authenticated (Subscriber+) Privilege Escalation via Unprotected AJAX API URL Settings",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15001",
+            "titre": "CVE-2026-73050 - SiYuan before v3.7.4 Stored XSS via select option color",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73050",
             "date": "15/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-14484 - RapiSafe <= 1.0.4 - Unauthenticated Arbitrary File Deletion via 'rsmfcf7_session' and 'file_name' Parameters",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-14484",
+            "titre": "CVE-2026-73046 - SiYuan before v3.7.4 Authentication Bypass via HTTP Basic Auth",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73046",
             "date": "15/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-73683 - Laravel Socialite Facebook Provider Authentication Bypass via Nonce Replay",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73683",
-            "date": "14/08/2026",
+            "titre": "CVE-2026-73044 - SiYuan before v3.7.4 Stored Cross-Site Scripting via Column Width",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73044",
+            "date": "15/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-73682 - Semaphore prior to version 2.18.20 OS Command Injection via git_url Repository Handling",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73682",
-            "date": "14/08/2026",
+            "titre": "CVE-2026-73043 - SiYuan before v3.7.4 Remote Code Execution via Template Calculation",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73043",
+            "date": "15/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-73680 - Cockpit CMS 2.14.0 Authenticated Command Injection via FFmpeg Filename",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73680",
-            "date": "14/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-71571 - Joomla Extension - icagenda.com - Authenticated SQL injection via unescaped numeric filter in iCagenda < 2.0.0-4.0.11",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71571",
-            "date": "14/08/2026",
+            "titre": "CVE-2026-73042 - SiYuan before v3.7.4 Remote Code Execution via Menu Metadata",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73042",
+            "date": "15/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+            "lien": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+            "date": "15/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "How Anthropic plans to watermark Claude's AI-generated text",
             "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
@@ -486,12 +492,6 @@
             "titre": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
             "lien": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
             "date": "14/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
-            "lien": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
-            "date": "13/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
