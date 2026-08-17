@@ -63,6 +63,24 @@
     ],
     "Journal du Hacker": [
         {
+            "titre": "Liens intéressants Journal du hacker semaine #33",
+            "lien": "https://blog.journalduhacker.net/index.php?article600/liens-interessants-journal-du-hacker-semaine-33-2026",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Debian a 33 ans : pour moi, tout a commencé là",
+            "lien": "https://jatniel.dev/fr/bytes/debian-Linux-33-ans",
+            "date": "16/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Sous le capot de Bluesky : l'ATProto",
+            "lien": "https://une-tasse-de.cafe/blog/atproto-pds/",
+            "date": "16/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Veille #69 - 35 actus qu'il ne fallait pas rater cette semaine",
             "lien": "https://www.camilleroux.com/chatgpt-gratuit-sans-quota-vercel-compile-typescript-en-natif-veille-69/",
             "date": "14/08/2026",
@@ -103,27 +121,15 @@
             "lien": "https://erreur403.fr/p/erreur-403-89-0-day-windows-exploit-e-par-lazarus-dans-operation-dream-job/",
             "date": "13/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Carnet de dev sur rst2gemtext, mise à jour des articles, et réflexions sur la langue de publication",
-            "lien": "https://blog.flozz.fr/2026/08/12/journal-de-bord-6-carnet-de-dev-sur-rst2gemtext-mise-a-jour-des-articles-et-reflexions-sur-la-langue-de-publication/",
-            "date": "12/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Introduction à l'analyse de consommation de puissance avec le ChipWhisperer",
-            "lien": "https://gerboise.fr/fr/blog/introduction-%C3%A0-lanalyse-de-consommation-de-puissance-avec-le-chipwhisperer/",
-            "date": "11/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "BT-22 Wingman Elite, un chargeur de batterie en 1 clic",
-            "lien": "https://olivier.dossmann.net/2026/07/bt22_wingman_elite_chargeur_batterie/",
-            "date": "10/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
+        {
+            "titre": "WinPodX - Un système Windows intégré dans votre Linux",
+            "lien": "https://korben.info/winpodx.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "16/08/2026",
+            "image": "https://korben.info/winpodx/winpodx-1.png"
+        },
         {
             "titre": "Holeberry - Le Pi-hole dans la barre de menus du Mac",
             "lien": "https://korben.info/holeberry-pi-hole-barre-menus-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -177,12 +183,6 @@
             "lien": "https://korben.info/twitch-desactiver-entrainement-ia-amazon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "13/08/2026",
             "image": "https://korben.info/twitch-desactiver-entrainement-ia-amazon/twitch-desactiver-entrainement-ia-amazon-1.png"
-        },
-        {
-            "titre": "Votre identité vaut de l'or, et l'IA vient de la mettre en vente sur Le Bon Coin",
-            "lien": "https://korben.info/votre-identite-vaut-de-lor.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "13/08/2026",
-            "image": "https://korben.info/votre-identite-vaut-de-lor/votre-identite-vaut-de-lor-1.webp"
         }
     ],
     "CERT-FR": [
@@ -249,6 +249,18 @@
     ],
     "ZDNET": [
         {
+            "titre": "J'ai testé le nouveau PC portable gaming abordable d'Alienware, mais ces 3 alternatives pourraient être des choix plus judicieux",
+            "lien": "https://www.zdnet.fr/guide-achat/jai-teste-le-nouveau-pc-portable-gaming-abordable-dalienware-mais-ces-3-alternatives-pourraient-etre-des-choix-plus-judicieux-499929.htm#xtor=RSS-1",
+            "date": "16/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/alienware-15_une.jpg"
+        },
+        {
+            "titre": "Trois semaines avec l'Apple Watch Ultra 3 et la Galaxy Watch Ultra 2 : mon verdict",
+            "lien": "https://www.zdnet.fr/guide-achat/trois-semaines-avec-lapple-watch-ultra-3-et-la-galaxy-watch-ultra-2-mon-verdict-499918.htm#xtor=RSS-1",
+            "date": "16/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/apple_watch_galaxy_watch_ultra_une.jpg"
+        },
+        {
             "titre": "Pixel Watch 4 ou 5 : notre verdict pour vous aider à choisir",
             "lien": "https://www.zdnet.fr/guide-achat/pixel-watch-4-ou-5-notre-verdict-pour-vous-aider-a-choisir-499884.htm#xtor=RSS-1",
             "date": "15/08/2026",
@@ -295,18 +307,6 @@
             "lien": "https://www.zdnet.fr/actualites/pour-6-000-pros-de-lit-la-principale-crainte-liee-a-lia-nest-pas-de-perdre-leur-emploi-mais-davoir-plus-de-travail-pour-le-meme-salaire-499953.htm#xtor=RSS-1",
             "date": "14/08/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/gettyimages-2220248115.jpg"
-        },
-        {
-            "titre": "« L'apocalypse du SaaS est surestimée » : comment Workday et d'autres éditeurs de logiciels comptent survivre à l'IA",
-            "lien": "https://www.zdnet.fr/actualites/lapocalypse-du-saas-est-surestimee-comment-workday-et-dautres-editeurs-de-logiciels-comptent-survivre-a-lia-499937.htm#xtor=RSS-1",
-            "date": "14/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/the-saas-apocalypse-is-overrated-how-workday-and-other-software-provders-plan-to-survive-ai.jpg"
-        },
-        {
-            "titre": "Taïwan attaqué par des agents IA autonomes",
-            "lien": "https://www.zdnet.fr/actualites/taiwan-attaque-par-des-agents-ia-autonomes-499928.htm#xtor=RSS-1",
-            "date": "14/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/taiwan.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,91 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-19924 - Tenda AC10 httpd R7WebsSecurityHandler improper authentication",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19924",
+            "titre": "CVE-2026-50602 - Planet9 Incorrect Permission Assignment Vulnerability Information",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-50602",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-19961 - Edimax EW-7478APC formWlSiteSurvey buffer overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19961",
             "date": "16/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-74767 - Unbounded DAA Decompression in Pandora Allows Denial of Service via Decompression Bomb",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-74767",
-            "date": "15/08/2026",
+            "titre": "CVE-2026-19959 - Edimax EW-7478APC formWanTcpipSetup stack-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19959",
+            "date": "16/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-74764 - Path Traversal in TAR Archive Extraction Allows Arbitrary File Write in Pandora",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-74764",
-            "date": "15/08/2026",
+            "titre": "CVE-2026-74791 - Scriban before 7.0.0 Authorization Bypass via Stale Include Cache",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-74791",
+            "date": "16/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-73053 - SiYuan before v3.7.4 Cross-Site Scripting via unicode2Emoji",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73053",
-            "date": "15/08/2026",
+            "titre": "CVE-2026-74790 - Scriban before 7.0.0 MemberFilter Bypass via TemplateContext Cache",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-74790",
+            "date": "16/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-73052 - SiYuan before v3.7.4 Stored XSS via Attribute-View Field Names",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73052",
-            "date": "15/08/2026",
+            "titre": "CVE-2026-74784 - Scriban before 7.2.0 Denial of Service via array.insert_at",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-74784",
+            "date": "16/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-73050 - SiYuan before v3.7.4 Stored XSS via select option color",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73050",
-            "date": "15/08/2026",
+            "titre": "CVE-2026-73061 - Scriban before 7.2.2 Arbitrary Property Write via TypedObjectAccessor",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73061",
+            "date": "16/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-73046 - SiYuan before v3.7.4 Authentication Bypass via HTTP Basic Auth",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73046",
-            "date": "15/08/2026",
+            "titre": "CVE-2026-73056 - SiYuan kernel before 3.7.4 Unthrottled Brute-Force via API Token",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73056",
+            "date": "16/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-73044 - SiYuan before v3.7.4 Stored Cross-Site Scripting via Column Width",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73044",
-            "date": "15/08/2026",
+            "titre": "CVE-2026-74251 - Joomla Extension - phoca.cz -  Unauthenticated SQL injection via attribute filter in Phoca Cart 5.0.0-6.1.6",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-74251",
+            "date": "16/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-73043 - SiYuan before v3.7.4 Remote Code Execution via Template Calculation",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73043",
-            "date": "15/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-73042 - SiYuan before v3.7.4 Remote Code Execution via Menu Metadata",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73042",
-            "date": "15/08/2026",
+            "titre": "CVE-2024-13784 - Contact Form, Survey, Quiz & Popup Form Builder – ARForms <= 1.8.5 - Unauthenticated PHP Object Injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2024-13784",
+            "date": "16/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+            "lien": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+            "date": "16/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Anthropic confirms Claude is down in major outage affecting multiple services",
+            "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+            "date": "16/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Large-scale DDoS attacks disrupted Threema secure messaging service",
+            "lien": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+            "date": "16/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+            "lien": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+            "date": "16/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
             "lien": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
@@ -467,30 +491,6 @@
         {
             "titre": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
             "lien": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-            "date": "14/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Shell investigates 'potential incident' after Clop data theft claims",
-            "lien": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-            "date": "14/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "RingCentral data breach exposed info of 1.6 million accounts",
-            "lien": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-            "date": "14/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Data analyst sent to prison for stealing data, extorting employer",
-            "lien": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
-            "date": "14/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
-            "lien": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
             "date": "14/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
