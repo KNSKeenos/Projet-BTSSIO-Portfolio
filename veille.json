@@ -1,6 +1,42 @@
 {
     "IT-Connect": [
         {
+            "titre": "Lundi 17 août 2026 : Microsoft confirme que GitHub est en panne à l’échelle mondiale !",
+            "lien": "https://www.it-connect.fr/panne-mondiale-github-lundi-17-aout-2026/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Exchange Server SE : Microsoft explique pourquoi la CU1 n’arrive toujours pas",
+            "lien": "https://www.it-connect.fr/exchange-server-se-microsoft-explique-pourquoi-la-cu1-narrive-toujours-pas/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Proton VPN migre vers Rust : un nouveau cœur WireGuard pour ses applications",
+            "lien": "https://www.it-connect.fr/proton-vpn-nouveau-coeur-wireguard-rust-protun/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Microsoft Entra Cloud Sync : la synchronisation des appareils est disponible en préversion",
+            "lien": "https://www.it-connect.fr/microsoft-entra-cloud-sync-la-synchronisation-des-appareils/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Synology dévoile la gamme neo+ : quatre NAS moins chers, mais sans mémoire ECC",
+            "lien": "https://www.it-connect.fr/synology-diskstation-neo-plus-nas-memoire-non-ecc/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Récap’ de l’actu cyber : ce que vous avez manqué entre le 1er et le 16 août 2026",
+            "lien": "https://www.it-connect.fr/recap-actualite-cyber-aout-2026/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
             "titre": "Arcane : une solution open source très complète pour gérer ses conteneurs Docker",
             "lien": "https://www.it-connect.fr/tuto-arcane-docker-gestion-conteneurs/",
             "date": "13/08/2026",
@@ -23,55 +59,19 @@
             "lien": "https://www.it-connect.fr/osint-retrouver-ses-comptes-en-ligne/",
             "date": "10/08/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Nmap : Scanner un réseau isolé via un tunnel SSH",
-            "lien": "https://www.it-connect.fr/nmap-scan-reseau-isole-tunnel-ssh-proxychains/",
-            "date": "07/08/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "mkcert : créer des certificats HTTPS valides en local sur Debian",
-            "lien": "https://www.it-connect.fr/mkcert-certificats-https-local-debian/",
-            "date": "06/08/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Proxmox VE : enrôler les certificats Secure Boot Microsoft 2023 sur vos VMs",
-            "lien": "https://www.it-connect.fr/secure-boot-proxmox-certificats-uefi-2023/",
-            "date": "05/08/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "WAPT Server (CVE-2026-33591) : une faille permet de contourner l’authentification",
-            "lien": "https://www.it-connect.fr/wapt-server-cve-2026-33591/",
-            "date": "04/08/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Gufw : gérer le pare-feu UFW sous Linux avec une interface graphique",
-            "lien": "https://www.it-connect.fr/gufw-interface-graphique-ufw-linux/",
-            "date": "04/08/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Qu’est-ce qu’un WAF ? Principes et mise en pratique",
-            "lien": "https://www.it-connect.fr/waf-web-application-firewall-debutant/",
-            "date": "03/08/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         }
     ],
     "Journal du Hacker": [
         {
-            "titre": "Liens intéressants Journal du hacker semaine #33",
-            "lien": "https://blog.journalduhacker.net/index.php?article600/liens-interessants-journal-du-hacker-semaine-33-2026",
-            "date": "17/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
             "titre": "Debian a 33 ans : pour moi, tout a commencé là",
             "lien": "https://jatniel.dev/fr/bytes/debian-Linux-33-ans",
             "date": "16/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Liens intéressants Journal du hacker semaine #33",
+            "lien": "https://blog.journalduhacker.net/index.php?article600/liens-interessants-journal-du-hacker-semaine-33-2026",
+            "date": "17/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
@@ -99,14 +99,14 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Bloctel : une fuite de 3 millions de numéros à cinq jours de l'extinction du service",
-            "lien": "https://blog.ostraca.fr/blog/fuite-bloctel-fin-demarchage-telephonique-2026/",
+            "titre": "On a mis dix ans à enterrer le mythe du 10x engineer. L'IA est en train de le déterrer.",
+            "lien": "https://maxence.maireaux.fr/fr/blog/ia-resurrection-mythe-10x-engineer/",
             "date": "13/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "On a mis dix ans à enterrer le mythe du 10x engineer. L'IA est en train de le déterrer.",
-            "lien": "https://maxence.maireaux.fr/fr/blog/ia-resurrection-mythe-10x-engineer/",
+            "titre": "Bloctel : une fuite de 3 millions de numéros à cinq jours de l'extinction du service",
+            "lien": "https://blog.ostraca.fr/blog/fuite-bloctel-fin-demarchage-telephonique-2026/",
             "date": "13/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
@@ -124,6 +124,36 @@
         }
     ],
     "Korben": [
+        {
+            "titre": "Un script pour virer les produits sponsorisés d'Amazon",
+            "lien": "https://korben.info/amazon-sponsored-products-remover.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "17/08/2026",
+            "image": "https://korben.info/amazon-sponsored-products-remover/amazon-sponsored-products-remover-1.png"
+        },
+        {
+            "titre": "Je me suis remis à la domotique grâce à un vieux mini PC et Claude Code",
+            "lien": "https://korben.info/retour-domotique-home-assistant-mini-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "17/08/2026",
+            "image": "https://korben.info/retour-domotique-home-assistant-mini-pc/retour-domotique-home-assistant-mini-pc-1.png"
+        },
+        {
+            "titre": "PureMac - Faites un grand ménage sur votre Mac, gratuitement",
+            "lien": "https://korben.info/puremac-nettoyeur-macos-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "17/08/2026",
+            "image": "https://korben.info/puremac-nettoyeur-macos-open-source/puremac-nettoyeur-macos-open-source-1.jpg"
+        },
+        {
+            "titre": "Un satellite gros comme une valise cabine va écouter le début de l'univers depuis la face cachée de la Lune",
+            "lien": "https://korben.info/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "17/08/2026",
+            "image": "https://korben.info/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune-1.jpg"
+        },
+        {
+            "titre": "En Italie, une affiche Apple avec un enfant fait polémique",
+            "lien": "https://korben.info/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "17/08/2026",
+            "image": "https://korben.info/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique-1.webp"
+        },
         {
             "titre": "WinPodX - Un système Windows intégré dans votre Linux",
             "lien": "https://korben.info/winpodx.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -153,36 +183,6 @@
             "lien": "https://korben.info/grok-bot-debarque-en-beta.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "13/08/2026",
             "image": "https://korben.info/grok-bot-debarque-en-beta/grok-bot-debarque-en-beta-1.jpg"
-        },
-        {
-            "titre": "Claude va glisser un filigrane invisible dans tous ses textes",
-            "lien": "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "13/08/2026",
-            "image": "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes-1.jpg"
-        },
-        {
-            "titre": "Montez votre premier cyberdeck à l'aide de ce PDF gratuit",
-            "lien": "https://korben.info/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "13/08/2026",
-            "image": "https://korben.info/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit-1.jpg"
-        },
-        {
-            "titre": "33 secondes pour lancer un MP3 ? C'est pas VLC, c'est Windows Defender",
-            "lien": "https://korben.info/vlc-lent-windows-defender-cache-plugins.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "13/08/2026",
-            "image": "https://korben.info/vlc-lent-windows-defender-cache-plugins/vlc-lent-windows-defender-cache-plugins-1.jpg"
-        },
-        {
-            "titre": "ShieldBreak - C'est Windows Defender qui tient la porte grande ouverte",
-            "lien": "https://korben.info/shieldbreak-zero-day-defender-microsoft.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "13/08/2026",
-            "image": "https://korben.info/shieldbreak-zero-day-defender-microsoft/shieldbreak-zero-day-defender-microsoft-1.jpg"
-        },
-        {
-            "titre": "Vos streams Twitch nourrissent l'IA d'Amazon - La case à décocher",
-            "lien": "https://korben.info/twitch-desactiver-entrainement-ia-amazon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "13/08/2026",
-            "image": "https://korben.info/twitch-desactiver-entrainement-ia-amazon/twitch-desactiver-entrainement-ia-amazon-1.png"
         }
     ],
     "CERT-FR": [
@@ -249,64 +249,64 @@
     ],
     "ZDNET": [
         {
-            "titre": "J'ai testé le nouveau PC portable gaming abordable d'Alienware, mais ces 3 alternatives pourraient être des choix plus judicieux",
-            "lien": "https://www.zdnet.fr/guide-achat/jai-teste-le-nouveau-pc-portable-gaming-abordable-dalienware-mais-ces-3-alternatives-pourraient-etre-des-choix-plus-judicieux-499929.htm#xtor=RSS-1",
-            "date": "16/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/alienware-15_une.jpg"
+            "titre": "Google Pixel Tag vs. Apple AirTag : l’un a un gros avantage technologique sur l’autre",
+            "lien": "https://www.zdnet.fr/pratique/google-pixel-tag-vs-apple-airtag-lun-a-un-gros-avantage-technologique-sur-lautre-500007.htm#xtor=RSS-1",
+            "date": "18/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/google-pixel-tag-vs.-apple-airtag-bluettooth-channel-sounding-compar-.jpg"
         },
         {
-            "titre": "Trois semaines avec l'Apple Watch Ultra 3 et la Galaxy Watch Ultra 2 : mon verdict",
-            "lien": "https://www.zdnet.fr/guide-achat/trois-semaines-avec-lapple-watch-ultra-3-et-la-galaxy-watch-ultra-2-mon-verdict-499918.htm#xtor=RSS-1",
-            "date": "16/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/apple_watch_galaxy_watch_ultra_une.jpg"
+            "titre": "Des déchets équivalents à 250 tours Eiffel : le problème des déchets électroniques toxiques lié à l'essor de l'IA",
+            "lien": "https://www.zdnet.fr/actualites/des-dechets-equivalents-a-250-tours-eiffel-le-probleme-des-dechets-electroniques-toxiques-lie-a-lessor-de-lia-500089.htm#xtor=RSS-1",
+            "date": "17/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/eiffel-tower-waste.webp"
         },
         {
-            "titre": "Pixel Watch 4 ou 5 : notre verdict pour vous aider à choisir",
-            "lien": "https://www.zdnet.fr/guide-achat/pixel-watch-4-ou-5-notre-verdict-pour-vous-aider-a-choisir-499884.htm#xtor=RSS-1",
-            "date": "15/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/pixel_watch_5.jpg"
+            "titre": "Des datacenters dans l'espace ? Un ex-boss de la robotique à la NASA nous explique comment cela pourrait marcher",
+            "lien": "https://www.zdnet.fr/actualites/des-datacenters-dans-lespace-un-ex-boss-de-la-robotique-a-la-nasa-nous-explique-comment-cela-pourrait-marcher-500083.htm#xtor=RSS-1",
+            "date": "17/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/Espace20Thales20Alenia.jpg"
         },
         {
-            "titre": "Flyers générés par IA : 8 astuces pour éviter l'effet raté qui saute aux yeux",
-            "lien": "https://www.zdnet.fr/guide-achat/flyers-generes-par-ia-8-astuces-pour-eviter-leffet-rate-qui-saute-aux-yeux-499873.htm#xtor=RSS-1",
-            "date": "15/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/flyer_une.jpg"
+            "titre": "Les cyberattaques basées sur l'IA sont l'avenir : 43 % des entreprises en ont déjà été victimes",
+            "lien": "https://www.zdnet.fr/actualites/les-cyberattaques-basees-sur-lia-sont-lavenir-43-des-entreprises-en-ont-deja-ete-victimes-500080.htm#xtor=RSS-1",
+            "date": "17/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/gettyimages-2219944504.webp"
         },
         {
-            "titre": "Android pratique : l’appli Google Loupe peut vous aider à lire les petits caractères",
-            "lien": "https://www.zdnet.fr/pratique/android-pratique-lappli-google-loupe-peut-vous-aider-a-lire-les-petits-caracteres-499904.htm#xtor=RSS-1",
-            "date": "15/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/google-loupe-appli-pratique.webp"
+            "titre": "Android pratique : l’assistant Dicio se présente comme une alternative open source des solutions IA de Google",
+            "lien": "https://www.zdnet.fr/pratique/android-pratique-lassistant-dicio-se-presente-comme-une-alternative-open-source-des-solutions-ia-de-google-499986.htm#xtor=RSS-1",
+            "date": "17/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/dicio-assistant-ia-pratique.jpg"
         },
         {
-            "titre": "Quelles sont les meilleures imprimantes à jet d'encre économiques pour les pros en 2026 ?",
-            "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/quelles-sont-les-meilleures-imprimantes-a-jet-dencre-economiques-pour-les-pros-en-2026-500001.htm#xtor=RSS-1",
-            "date": "14/08/2026",
+            "titre": "Piratage du fisc : 285 000 professionnels exposés à des vagues d'ingénierie sociale et de fraude au président",
+            "lien": "https://www.zdnet.fr/actualites/piratage-du-fisc-285-000-entreprises-exposees-a-des-vagues-dingenierie-sociale-et-de-fraude-au-president-500076.htm#xtor=RSS-1",
+            "date": "17/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/03/watching-eye-e1750688317522.jpg"
+        },
+        {
+            "titre": "Les 5 meilleures tablettes tactiles pour les pros en 2026",
+            "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/les-5-meilleures-tablettes-tactiles-pour-les-pros-en-2026-500072.htm#xtor=RSS-1",
+            "date": "17/08/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/selection_expert_2026_zdnet_une.png"
         },
         {
-            "titre": "Censure de l'interdiction des réseaux sociaux aux -15 ans : le coup d'arrêt constitutionnel",
-            "lien": "https://www.zdnet.fr/actualites/censure-de-linterdiction-des-reseaux-sociaux-aux-15-ans-le-coup-darret-constitutionnel-499985.htm#xtor=RSS-1",
-            "date": "14/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/conseil-constitutionnel.jpg"
+            "titre": "Les meilleures imprimantes multifonctions sans cartouches en 2026",
+            "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/les-meilleures-imprimantes-multifonctions-sans-cartouches-en-2026-500049.htm#xtor=RSS-1",
+            "date": "17/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/selection_expert_2026_zdnet_une.png"
         },
         {
-            "titre": "Hébergement web rapide : quel hébergeur choisir en 2026 ?",
-            "lien": "https://www.zdnet.fr/guide-achat/hebergement-web-rapide-quel-hebergeur-choisir-en-2026-499037.htm#xtor=RSS-1",
-            "date": "14/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/07/pexels-fauxels-3184667.jpg"
+            "titre": "Google Meet permet désormais de prendre des notes lors de vos réunions en présentiel : voici comment cela fonctionne",
+            "lien": "https://www.zdnet.fr/actualites/google-meet-permet-desormais-de-prendre-des-notes-lors-de-vos-reunions-en-presentiel-voici-comment-cela-fonctionne-500043.htm#xtor=RSS-1",
+            "date": "17/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/img-20260814-112319.jpg"
         },
         {
-            "titre": "Google vous permet de mettre en ligne un selfie vidéo pour récupérer votre compte, mais est-ce vraiment une bonne idée ?",
-            "lien": "https://www.zdnet.fr/actualites/google-vous-permet-de-mettre-en-ligne-un-selfie-video-pour-recuperer-votre-compte-mais-est-ce-vraiment-une-bonne-idee-499956.htm#xtor=RSS-1",
-            "date": "14/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/dsc09349.jpg"
-        },
-        {
-            "titre": "Pour 6 000 pros de l'IT, la principale crainte liée à l'IA n'est pas de perdre leur emploi, mais d'avoir plus de travail pour le même salaire",
-            "lien": "https://www.zdnet.fr/actualites/pour-6-000-pros-de-lit-la-principale-crainte-liee-a-lia-nest-pas-de-perdre-leur-emploi-mais-davoir-plus-de-travail-pour-le-meme-salaire-499953.htm#xtor=RSS-1",
-            "date": "14/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/gettyimages-2220248115.jpg"
+            "titre": "Apple met en garde ses utilisateurs contre de nouvelles attaques de logiciels espions : que faire si vous en êtes la cible ?",
+            "lien": "https://www.zdnet.fr/actualites/apple-met-en-garde-ses-utilisateurs-contre-de-nouvelles-attaques-de-logiciels-espions-que-faire-si-vous-en-etes-la-cible-500040.htm#xtor=RSS-1",
+            "date": "17/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/enable-lockdown-mode-on-an-iphone.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,115 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-50602 - Planet9 Incorrect Permission Assignment Vulnerability Information",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-50602",
+            "titre": "CVE-2026-75094 - COMFAST CF-N1-S CGI mbox-config sub_44B438 os command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-75094",
+            "date": "18/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-9816 - Insufficient server-side validation of board member role fields permits privilege escalation",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-9816",
             "date": "17/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-19961 - Edimax EW-7478APC formWlSiteSurvey buffer overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19961",
-            "date": "16/08/2026",
+            "titre": "CVE-2026-71424 - Onyx: Cross-user OAuth-token leak via /api/mcp/servers* for per-user MCP servers",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71424",
+            "date": "17/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-19959 - Edimax EW-7478APC formWanTcpipSetup stack-based overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19959",
-            "date": "16/08/2026",
+            "titre": "CVE-2026-64849 - MLflow: Unauthenticated full-read SSRF in webhook delivery: _validate_webhook_url bypassed via unvalidated HTTP redirects (and DNS rebinding)",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-64849",
+            "date": "17/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-74791 - Scriban before 7.0.0 Authorization Bypass via Stale Include Cache",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-74791",
-            "date": "16/08/2026",
+            "titre": "CVE-2026-56677 - 9Router: Authenticated Server-Side Request Forgery (SSRF) via OIDC Provider Test Endpoint",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-56677",
+            "date": "17/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-74790 - Scriban before 7.0.0 MemberFilter Bypass via TemplateContext Cache",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-74790",
-            "date": "16/08/2026",
+            "titre": "CVE-2026-45790 - Dokploy: Invitation Role Escalation Allows Organization Takeover",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-45790",
+            "date": "17/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-74784 - Scriban before 7.2.0 Denial of Service via array.insert_at",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-74784",
-            "date": "16/08/2026",
+            "titre": "CVE-2026-75481 - SkyPilot Authentication Bypass via Service Account Role Escalation",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-75481",
+            "date": "17/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-73061 - Scriban before 7.2.2 Arbitrary Property Write via TypedObjectAccessor",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73061",
-            "date": "16/08/2026",
+            "titre": "CVE-2026-75110 - MemOS Authentication Bypass via Unset INTERNAL_SERVICE_SECRET",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-75110",
+            "date": "17/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-73056 - SiYuan kernel before 3.7.4 Unthrottled Brute-Force via API Token",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-73056",
-            "date": "16/08/2026",
+            "titre": "CVE-2026-75106 - OpnForm Editable Submission Secret Derivation via Empty Hashids Salt",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-75106",
+            "date": "17/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-74251 - Joomla Extension - phoca.cz -  Unauthenticated SQL injection via attribute filter in Phoca Cart 5.0.0-6.1.6",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-74251",
-            "date": "16/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2024-13784 - Contact Form, Survey, Quiz & Popup Form Builder – ARForms <= 1.8.5 - Unauthenticated PHP Object Injection",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2024-13784",
-            "date": "16/08/2026",
+            "titre": "CVE-2026-75103 - Crawlab Missing Authorization on Password Change Endpoint Allows Account Takeover",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-75103",
+            "date": "17/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Hacker claims 3.6 million Azure account records stolen from major companies",
+            "lien": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Pokémon Center data breach exposes customer info, cancels some orders",
+            "lien": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Microsoft confirms GitHub is down worldwide",
+            "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Certighost and the Privilege Hiding in Your Certificate Authority",
+            "lien": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Windows Server 2022 reaches end of mainstream support in 60 days",
+            "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Philips and GE investigating Clop ransomware data theft claims",
+            "lien": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "French tax authority data breach affects 678,000 individuals",
+            "lien": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Microsoft working on Defender patch for ShieldBreak zero-day",
+            "lien": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+            "date": "17/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "SafePal data breach impacts 39,798 customers, stolen info for sale",
             "lien": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
@@ -444,54 +492,6 @@
             "titre": "Anthropic confirms Claude is down in major outage affecting multiple services",
             "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
             "date": "16/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Large-scale DDoS attacks disrupted Threema secure messaging service",
-            "lien": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
-            "date": "16/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-            "lien": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-            "date": "16/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-            "lien": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-            "date": "15/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "How Anthropic plans to watermark Claude's AI-generated text",
-            "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-            "date": "14/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-            "lien": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-            "date": "14/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-            "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-            "date": "14/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-            "lien": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-            "date": "14/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-            "lien": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-            "date": "14/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
