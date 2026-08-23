@@ -19,7 +19,7 @@
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         },
         {
-            "titre": "Entra ID : une faille critique a été exploitée, mais vous n’avez rien à patcher",
+            "titre": "Entra ID : une faille critique a été patchée, mais vous n’avez rien à faire",
             "lien": "https://www.it-connect.fr/entra-id-cve-2026-69836-faille-cvss-10-exploitee/",
             "date": "21/08/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
@@ -62,6 +62,12 @@
         }
     ],
     "Journal du Hacker": [
+        {
+            "titre": "K3s ou Docker Compose : pourquoi je garde les deux dans mon homelab",
+            "lien": "https://cryptolab.re/posts/2026/k3s-kubernetes-docker-compose/",
+            "date": "22/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Veille #70 - 28 actus qu'il ne fallait pas rater cette semaine",
             "lien": "https://www.camilleroux.com/css-dos-cursor-spacex-delta-veille-70/",
@@ -114,12 +120,6 @@
             "titre": "L'histoire des noms de code de Fedora",
             "lien": "https://www.linuxtricks.fr/wiki/info-l-histoire-des-noms-de-code-de-fedora",
             "date": "18/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Debian a 33 ans : pour moi, tout a commencé là",
-            "lien": "https://jatniel.dev/fr/bytes/debian-Linux-33-ans",
-            "date": "16/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
@@ -249,6 +249,18 @@
     ],
     "ZDNET": [
         {
+            "titre": "Le nouvel outil de récupération de Windows 11 de Microsoft est le « bouton Annuler » par excellence : comment l'activer ?",
+            "lien": "https://www.zdnet.fr/pratique/le-nouvel-outil-de-recuperation-de-windows-11-de-microsoft-est-le-bouton-annuler-par-excellence-comment-lactiver-500323.htm#xtor=RSS-1",
+            "date": "22/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/gettyimages-172161417.webp"
+        },
+        {
+            "titre": "Test Marshall Stanmore IV : cette enceinte fonctionne uniquement en Bluetooth, mais elle offre un son tellement excellent que je peux lui pardonner l'absence de Wi-Fi",
+            "lien": "https://www.zdnet.fr/guide-achat/test-marshall-stanmore-iv-cette-enceinte-fonctionne-uniquement-en-bluetooth-mais-elle-offre-un-son-tellement-excellent-que-je-peux-lui-pardonner-labsence-de-wi-fi-500326.htm#xtor=RSS-1",
+            "date": "22/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/img-20260804-130103-scaled.jpg"
+        },
+        {
             "titre": "Après une semaine passée à porter la Pixel Watch 5, voici ce que j'aime le plus",
             "lien": "https://www.zdnet.fr/guide-achat/apres-une-semaine-passee-a-porter-la-pixel-watch-5-voici-ce-que-jaime-le-plus-500387.htm#xtor=RSS-1",
             "date": "22/08/2026",
@@ -295,18 +307,6 @@
             "lien": "https://www.zdnet.fr/actualites/zdnet-morning-21-08-2026-fuite-de-donnees-chez-sfr-test-du-google-pixel-11-pro-xl-google-discover-en-langage-naturel-500340.htm#xtor=RSS-1",
             "date": "21/08/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/10/zdnet_1280.jpg"
-        },
-        {
-            "titre": "Google vous permet désormais de personnaliser votre fil « Discover » en utilisant le langage naturel",
-            "lien": "https://www.zdnet.fr/actualites/google-vous-permet-desormais-de-personnaliser-votre-fil-discover-en-utilisant-le-langage-naturel-500337.htm#xtor=RSS-1",
-            "date": "21/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/preferredsourcesscreenshot-2026-08-20-111157.jpg"
-        },
-        {
-            "titre": "Procès Meta : la responsabilité algorithmique une nouvelle fois défiée en justice",
-            "lien": "https://www.zdnet.fr/actualites/proces-meta-la-responsabilite-algorithmique-une-nouvelle-fois-defiee-en-justice-500334.htm#xtor=RSS-1",
-            "date": "21/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/06/meta.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,79 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-19883 - WPeMatico RSS Feed Fetcher <= 2.8.24 - Authenticated (Subscriber+) Privilege Escalation via Arbitrary Option Update to wpematico_import_settings admin_action",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19883",
+            "titre": "CVE-2026-78050 - Comfast CF-N1-S Web Management mbox-config sub_41AD7C stack-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78050",
+            "date": "23/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-16149 - Security Hardener <= 2.4.4 - Authenticated (Subscriber+) Privilege Escalation via REST API '/wp/v2/users' permission_callback Overwrite",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-16149",
+            "date": "23/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-0551 - PPWP – Password Protect Pages <= 1.9.18 - Authenticated (Contributor+) PHP Object Injection via post_protection_roles",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-0551",
+            "date": "23/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-4703 - WS Form LITE <= 1.10.80 - Unauthenticated PHP Object Injection via Form Submission",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-4703",
             "date": "22/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-48106 - Arc Enterprise cluster replication accepts unauthenticated MsgReplicateSync messages, enabling cluster-wide data injection from any TLS-trusted peer",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-48106",
-            "date": "21/08/2026",
+            "titre": "CVE-2026-77992 - Joomla Extension - fabrikar.com - heredoc terminator breakout in the calc element in Fabrik < 4.7.2",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-77992",
+            "date": "22/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-48105 - Arc Enterprise cluster FSM applyRegisterFile accepts arbitrary file paths without validation, enabling cluster-wide path-traversal worm primitive",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-48105",
-            "date": "21/08/2026",
+            "titre": "CVE-2026-77027 - Joomla Extension - fabrikar.com - Unauthenticated stored XSS in Fabrik < 4.7.2",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-77027",
+            "date": "22/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-48050 - Arc: Unauthenticated access to Go debug pprof endpoints leaks runtime state and enables CPU-burn DoS",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-48050",
-            "date": "21/08/2026",
+            "titre": "CVE-2026-76607 - Joomla Extension - fabrikar.com - Missing ACL check in download element in Fabrik < 4.7.3",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-76607",
+            "date": "22/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-53530 - ratex-parser panics on `\\verb` with a multibyte delimiter (UTF-8 byte-boundary slice)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-53530",
-            "date": "21/08/2026",
+            "titre": "CVE-2026-76606 - Joomla Extension - fabrikar.com - Path Traversal via image element in Fabrik < 4.7.3",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-76606",
+            "date": "22/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-53528 - FileWiki has path traversal in RenameAsset via unsanitized oldFilename parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-53528",
-            "date": "21/08/2026",
+            "titre": "CVE-2026-76605 - Joomla Extension - fabrikar.com - Remote code execution via image element in Fabrik < 4.7.3",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-76605",
+            "date": "22/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-53527 - LeafWiki Vulnerable to Privilege Escalation via User Self-Service Update",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-53527",
-            "date": "21/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-49849 - xShop: Unrestricted File Upload in File Attachment Module in Admin panel leads to Arbitrary Code Execution",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-49849",
-            "date": "21/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-34741 - Combodo iTop: Authentication bypass in exec.php allows PHP file execution",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-34741",
-            "date": "21/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-33240 - Combodo iTop: Reflected XSS in foreign key search criteria",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-33240",
-            "date": "21/08/2026",
+            "titre": "CVE-2026-76604 - Joomla Extension - fabrikar.com - Unauthenticated remote code execution via PHP form element in Fabrik < 4.7.3",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-76604",
+            "date": "22/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Hackers infect Android car head units with proxy botnet malware",
+            "lien": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+            "date": "22/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+            "lien": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+            "date": "22/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
             "lien": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
@@ -471,7 +483,7 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+            "titre": "Microsoft patches max severity code execution, privilege escalation flaws",
             "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
             "date": "21/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
@@ -480,18 +492,6 @@
             "titre": "Hackers abuse FTP server banners to deliver new Windows malware",
             "lien": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
             "date": "21/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "SickKids data breach exposes employee and job applicant info",
-            "lien": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-            "date": "21/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Hackers poison arrayref Rust crate to push infostealer malware",
-            "lien": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-            "date": "20/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
