@@ -117,8 +117,8 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "L'histoire des noms de code de Fedora",
-            "lien": "https://www.linuxtricks.fr/wiki/info-l-histoire-des-noms-de-code-de-fedora",
+            "titre": "Exploitation de binaire : détourner le flot d'exécution",
+            "lien": "https://gerboise.fr/fr/blog/exploitation-de-binaire-d%C3%A9tourner-le-flot-dex%C3%A9cution/",
             "date": "18/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
@@ -249,6 +249,24 @@
     ],
     "ZDNET": [
         {
+            "titre": "Comment utiliser votre téléviseur comme écran d'ordinateur en 3 étapes simples (et sans rien acheter)",
+            "lien": "https://www.zdnet.fr/pratique/comment-utiliser-votre-televiseur-comme-ecran-dordinateur-en-3-etapes-simples-et-sans-rien-acheter-500315.htm#xtor=RSS-1",
+            "date": "23/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/mg-0245.webp"
+        },
+        {
+            "titre": "Les meilleurs écouteurs sans fil avec réduction de bruit (ANC) pour les pros en 2026",
+            "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/les-meilleurs-ecouteurs-sans-fil-avec-reduction-de-bruit-anc-pour-les-pros-en-2026-500374.htm#xtor=RSS-1",
+            "date": "23/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/selection_expert_2026_zdnet_une.png"
+        },
+        {
+            "titre": "Claude Code vs Codex : pourquoi j'utilise les deux et comment choisir l'un ou l'autre (si vous y êtes obligé)",
+            "lien": "https://www.zdnet.fr/pratique/claude-code-vs-codex-pourquoi-jutilise-les-deux-et-comment-choisir-lun-ou-lautre-si-vous-y-etes-oblige-500320.htm#xtor=RSS-1",
+            "date": "23/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/icons-use.webp"
+        },
+        {
             "titre": "Le nouvel outil de récupération de Windows 11 de Microsoft est le « bouton Annuler » par excellence : comment l'activer ?",
             "lien": "https://www.zdnet.fr/pratique/le-nouvel-outil-de-recuperation-de-windows-11-de-microsoft-est-le-bouton-annuler-par-excellence-comment-lactiver-500323.htm#xtor=RSS-1",
             "date": "22/08/2026",
@@ -289,24 +307,6 @@
             "lien": "https://www.zdnet.fr/actualites/pourquoi-le-remplacement-du-personnel-par-lia-se-retourne-contre-les-entreprises-et-5-facons-dont-les-dirigeants-avises-creent-une-veritable-valeur-ajoutee-500376.htm#xtor=RSS-1",
             "date": "21/08/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/purplepeople-gettyimages-2227030316.webp"
-        },
-        {
-            "titre": "Les meilleurs écouteurs sans fil pour les pros en 2026",
-            "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/les-meilleurs-ecouteurs-sans-fil-pour-les-pros-en-2026-500371.htm#xtor=RSS-1",
-            "date": "21/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/selection_expert_2026_zdnet_une.png"
-        },
-        {
-            "titre": "Équipements et datacenters peuvent-ils être plus durables ?",
-            "lien": "https://www.zdnet.fr/actualites/equipements-et-datacenters-peuvent-ils-etre-plus-durables-500342.htm#xtor=RSS-1",
-            "date": "21/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/Environnement20numerique20A.jpg"
-        },
-        {
-            "titre": "ZDNET Morning 21/08/2026 : Fuite de données chez SFR, Test du Google Pixel 11 Pro XL, Google Discover en langage naturel,...",
-            "lien": "https://www.zdnet.fr/actualites/zdnet-morning-21-08-2026-fuite-de-donnees-chez-sfr-test-du-google-pixel-11-pro-xl-google-discover-en-langage-naturel-500340.htm#xtor=RSS-1",
-            "date": "21/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/10/zdnet_1280.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,73 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-78050 - Comfast CF-N1-S Web Management mbox-config sub_41AD7C stack-based overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78050",
-            "date": "23/08/2026",
+            "titre": "CVE-2026-78213 - Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78213",
+            "date": "24/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-16149 - Security Hardener <= 2.4.4 - Authenticated (Subscriber+) Privilege Escalation via REST API '/wp/v2/users' permission_callback Overwrite",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-16149",
-            "date": "23/08/2026",
+            "titre": "CVE-2026-78212 - 4MOSAn Security Technology｜4MOSAn Management Center - Arbitrary File Read",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78212",
+            "date": "24/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-0551 - PPWP – Password Protect Pages <= 1.9.18 - Authenticated (Contributor+) PHP Object Injection via post_protection_roles",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-0551",
-            "date": "23/08/2026",
+            "titre": "CVE-2026-78211 - 4MOSAn Security Technology｜4MOSAn GCB Doctor - OS Command Injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78211",
+            "date": "24/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-4703 - WS Form LITE <= 1.10.80 - Unauthenticated PHP Object Injection via Form Submission",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-4703",
-            "date": "22/08/2026",
+            "titre": "CVE-2026-19200 - Velociraptor Analyst overwrites live built-in artifacts through verify()",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19200",
+            "date": "24/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-77992 - Joomla Extension - fabrikar.com - heredoc terminator breakout in the calc element in Fabrik < 4.7.2",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-77992",
-            "date": "22/08/2026",
+            "titre": "CVE-2026-78170 - UTT HiPER 1200GW formConfigFastDirectionW strcpy buffer overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78170",
+            "date": "24/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-77027 - Joomla Extension - fabrikar.com - Unauthenticated stored XSS in Fabrik < 4.7.2",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-77027",
-            "date": "22/08/2026",
+            "titre": "CVE-2026-78169 - UTT HiPER 1250GW HTTP Request aspRemoteApConfTempSend strcpy stack-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78169",
+            "date": "24/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-76607 - Joomla Extension - fabrikar.com - Missing ACL check in download element in Fabrik < 4.7.3",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-76607",
-            "date": "22/08/2026",
+            "titre": "CVE-2026-78168 - EFM ipTIME T24000M Session Validation httpcon_check_session_url improper authentication",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78168",
+            "date": "24/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-76606 - Joomla Extension - fabrikar.com - Path Traversal via image element in Fabrik < 4.7.3",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-76606",
-            "date": "22/08/2026",
+            "titre": "CVE-2026-78167 - EFM ipTIME T16000M Session Validation httpcon_check_session_url improper authentication",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78167",
+            "date": "24/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-76605 - Joomla Extension - fabrikar.com - Remote code execution via image element in Fabrik < 4.7.3",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-76605",
-            "date": "22/08/2026",
+            "titre": "CVE-2026-78209 - exceljs through 4.4.0 CSV Formula Injection via Unescaped Cell Values",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78209",
+            "date": "24/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-76604 - Joomla Extension - fabrikar.com - Unauthenticated remote code execution via PHP form element in Fabrik < 4.7.3",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-76604",
-            "date": "22/08/2026",
+            "titre": "CVE-2026-78207 - exceljs through 4.4.0 Prototype Pollution via deepMerge Reached From Note Serialization",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78207",
+            "date": "24/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+            "lien": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+            "date": "23/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Hackers infect Android car head units with proxy botnet malware",
             "lien": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
@@ -485,12 +491,6 @@
         {
             "titre": "Microsoft patches max severity code execution, privilege escalation flaws",
             "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-            "date": "21/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Hackers abuse FTP server banners to deliver new Windows malware",
-            "lien": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
             "date": "21/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
