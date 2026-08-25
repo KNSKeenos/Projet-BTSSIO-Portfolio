@@ -33,7 +33,11 @@ def generer_json_veille():
         "Sécurité Debian": "https://www.debian.org/security/dsa-long.fr.rdf", 
         "Blog Officiel Zabbix": "https://blog.zabbix.com/feed/",
         "CVE Feed": "https://cvefeed.io/rssfeed/severity/high.xml",
-        "Bleeping": "https://www.bleepingcomputer.com/feed/"
+        "Bleeping": "https://www.bleepingcomputer.com/feed/",
+        "LeMagIT": "https://www.lemagit.fr/rss/ContentSyndication.xml",
+        "L'informaticien": "https://www.linformaticien.com/?format=feed&type=rss",
+        "ChannelNews": "https://www.channelnews.fr/feed/",
+        "next.ink": "https://next.ink/feed/"
     }
     
     donnees_site_web = {}
