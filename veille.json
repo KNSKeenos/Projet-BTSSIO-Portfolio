@@ -1,6 +1,12 @@
 {
     "IT-Connect": [
         {
+            "titre": "Test Geekom A7 2026 Edition : un mini-PC compact avec AMD Ryzen 5 et 16 Go de DDR5",
+            "lien": "https://www.it-connect.fr/test-geekom-a7-2026-edition/",
+            "date": "30/08/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
             "titre": "Windows Autopilot : Microsoft inscrit l’appartenance de vos PC directement dans l’UEFI",
             "lien": "https://www.it-connect.fr/windows-autopilot-device-association-uefi-intune/",
             "date": "28/08/2026",
@@ -53,15 +59,15 @@
             "lien": "https://www.it-connect.fr/windows-11-permissions-camera-micro-localisation-par-application/",
             "date": "27/08/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Votre page de connexion Microsoft 365 pourrait changer d’allure le 26 octobre 2026",
-            "lien": "https://www.it-connect.fr/entra-id-retrait-proprietes-css-octobre-2026/",
-            "date": "27/08/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         }
     ],
     "Journal du Hacker": [
+        {
+            "titre": "Assembler et configurer une tablette tactile pour contrôler sa maison sous Home Assistant au doigt et à la voix",
+            "lien": "https://www.medshake.net/blog/a853/assembler-et-configurer-une-tablette-tactile-pour-controler-sa-maison-sous-home-assistant-au-doigt-et-a-la-voix/",
+            "date": "29/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Veille #71 - 28 actus qu'il ne fallait pas rater cette semaine",
             "lien": "https://www.camilleroux.com/mac-inference-claude-academy-crisp-veille-71/",
@@ -115,12 +121,6 @@
             "lien": "https://vincent.bernat.ch/fr/blog/2026-spanning-tree",
             "date": "24/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Liens intéressants Journal du hacker semaine #34",
-            "lien": "https://blog.journalduhacker.net/index.php?article601/liens-interessants-journal-du-hacker-semaine-34-2026",
-            "date": "24/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
@@ -165,24 +165,6 @@
             "lien": "https://korben.info/un-piratage-bien-genant-au-liechtenstein.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "24/08/2026",
             "image": "https://korben.info/un-piratage-bien-genant-au-liechtenstein/un-piratage-bien-genant-au-liechtenstein-1.jpg"
-        },
-        {
-            "titre": "Geekom retire enfin un pilote que Windows Defender signalait comme vérolé depuis 2024",
-            "lien": "https://korben.info/geekom-mini-pc-malware-verifier.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "20/08/2026",
-            "image": "https://korben.info/geekom-mini-pc-malware-verifier/geekom-mini-pc-malware-verifier-1.jpg"
-        },
-        {
-            "titre": "oMLX – Faites tourner vos agents IA en local sur votre Mac",
-            "lien": "https://korben.info/omlx-serveur-llm-local-apple-silicon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "20/08/2026",
-            "image": "https://korben.info/omlx-serveur-llm-local-apple-silicon/omlx-serveur-llm-local-apple-silicon-1.png"
-        },
-        {
-            "titre": "Surfshark lance une protection anti-scam SMS et enterre son moteur de recherche - La vie est faite de choix",
-            "lien": "https://korben.info/surfshark-protection-anti-scam-sms.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "20/08/2026",
-            "image": "https://korben.info/surfshark-protection-anti-scam-sms/surfshark-protection-anti-scam-sms-1.webp"
         }
     ],
     "CERT-FR": [
@@ -249,6 +231,30 @@
     ],
     "ZDNET": [
         {
+            "titre": "Test du Google Pixel 11 : pourquoi le modèle de base reste mon préféré, même cette année",
+            "lien": "https://www.zdnet.fr/guide-achat/test-du-google-pixel-11-pourquoi-le-modele-de-base-reste-mon-prefere-meme-cette-annee-500823.htm#xtor=RSS-1",
+            "date": "30/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/dsc00310-scaled.jpg"
+        },
+        {
+            "titre": "Le Fairphone 6+ prouve qu'un smartphone durable peut aussi être performant",
+            "lien": "https://www.zdnet.fr/guide-achat/le-fairphone-6-prouve-quun-smartphone-durable-peut-aussi-etre-performant-500815.htm#xtor=RSS-1",
+            "date": "30/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/fairphone6.jpg"
+        },
+        {
+            "titre": "Les 6 distributions Linux sans IA que je recommande le plus – et pourquoi elles devraient le rester",
+            "lien": "https://www.zdnet.fr/pratique/les-6-distributions-linux-sans-ia-que-je-recommande-le-plus-et-pourquoi-elles-devraient-le-rester-500814.htm#xtor=RSS-1",
+            "date": "29/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/noai.webp"
+        },
+        {
+            "titre": "Floccus : l'outil gratuit qui synchronise enfin vos favoris entre tous vos navigateurs",
+            "lien": "https://www.zdnet.fr/pratique/floccus-loutil-gratuit-qui-synchronise-enfin-vos-favoris-entre-tous-vos-navigateurs-500742.htm#xtor=RSS-1",
+            "date": "29/08/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/synchro-favoris_une.jpg"
+        },
+        {
             "titre": "Sideloading : comment installer manuellement des applications Android en 2026 (et ce qui a changé)",
             "lien": "https://www.zdnet.fr/guide-achat/sideloading-comment-installer-manuellement-des-applications-android-en-2026-et-ce-qui-a-change-500820.htm#xtor=RSS-1",
             "date": "29/08/2026",
@@ -283,30 +289,6 @@
             "lien": "https://www.zdnet.fr/pratique/les-5-meilleures-alternatives-linux-a-windows-en-2026-autres-que-mint-500808.htm#xtor=RSS-1",
             "date": "28/08/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/zorinhero.webp"
-        },
-        {
-            "titre": "Quel est le meilleur moniteur PC à moins de 200 € en 2026 ?",
-            "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/quel-est-le-meilleur-moniteur-pc-a-moins-de-200-e-en-2026-500802.htm#xtor=RSS-1",
-            "date": "28/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/selection_expert_2026_zdnet_une.png"
-        },
-        {
-            "titre": "Sur la sécurité de la Prod IT, Crédit Agricole renforce ses compétences",
-            "lien": "https://www.zdnet.fr/actualites/sur-la-securite-de-la-prod-it-credit-agricole-renforce-ses-competences-500775.htm#xtor=RSS-1",
-            "date": "28/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/le-groupe-credit-agricole.jpg"
-        },
-        {
-            "titre": "La nouvelle version de la commande vocale de Sonos laisse entrevoir un avenir pour la maison connectée",
-            "lien": "https://www.zdnet.fr/actualites/la-nouvelle-version-de-la-commande-vocale-de-sonos-laisse-entrevoir-un-avenir-pour-la-maison-connectee-500779.htm#xtor=RSS-1",
-            "date": "28/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/ace-2.jpg"
-        },
-        {
-            "titre": "Les premiers écouteurs « IA » de Plaud sont arrivés : voici ce qu'ils peuvent faire",
-            "lien": "https://www.zdnet.fr/actualites/les-premiers-ecouteurs-ia-de-plaud-sont-arrives-voici-ce-quils-peuvent-faire-500774.htm#xtor=RSS-1",
-            "date": "28/08/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/earbuds-2.webp"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +355,79 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-55848 - mapfish-print: XXE on MapFish Print allows reading arbitrary files of certain types",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55848",
-            "date": "28/08/2026",
+            "titre": "CVE-2026-15980 - MyHome Core <= 4.4.5 - Authentication Bypass to Account Takeover via Activation Token",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15980",
+            "date": "30/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-55764 - Klever-Go: SFT add-quantity `int64` overflow bypasses a finite per-nonce MaxSupply",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55764",
-            "date": "28/08/2026",
+            "titre": "CVE-2026-15369 - Custom User Registration Fields for WooCommerce <= 2.2.3 - Unauthenticated Privilege Escalation via 'afreg_select_user_role' Parameter in Store API Checkout",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-15369",
+            "date": "29/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-81532 - BI Connector ODBC Driver Improper Bounds Checking on Cursor Name Leading to Memory Corruption",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-81532",
-            "date": "28/08/2026",
+            "titre": "CVE-2026-82475 - iFlytek astron-agent through 1.1.1 Workflow Hijacking via Missing Ownership Check",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-82475",
+            "date": "29/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-75118 - http_gdpr_decrypt Pre-Authentication Stack-Based Buffer Overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-75118",
-            "date": "28/08/2026",
+            "titre": "CVE-2026-82473 - KubeEdge CloudCore through 1.23.1 Missing Authentication on Node Task Endpoints",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-82473",
+            "date": "29/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-55763 - Klever-Go: Percentage-transfer royalty skips the source debit at exactly-100% splits",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-55763",
-            "date": "28/08/2026",
+            "titre": "CVE-2026-82466 - Rodauth before 2.46.0 Authentication Bypass via webauthn_login",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-82466",
+            "date": "29/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-3627 - Multiple Vulnerabilities in IBM Concert Software",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-3627",
-            "date": "28/08/2026",
+            "titre": "CVE-2026-82463 - pac4j-core before 6.5.6 Authorization Bypass via Reversed Profile Type Check",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-82463",
+            "date": "29/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-19295 - Langflow is affected by multiple remote code execution vulnerabilities due to insufficient code-execution policy enforcement",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19295",
-            "date": "28/08/2026",
+            "titre": "CVE-2026-82461 - pac4j-oidc before 6.5.6 Privilege Escalation via Unverified Keycloak Access Token",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-82461",
+            "date": "29/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-19286 - Langflow is affected by multiple remote code execution vulnerabilities due to insufficient code-execution policy enforcement",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19286",
-            "date": "28/08/2026",
+            "titre": "CVE-2026-82460 - Cloud Commander before 19.20.2 Directory Traversal via REST and Markdown",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-82460",
+            "date": "29/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-18904 - Langflow is affected by multiple authentication bypass, path traversal, authorization, and server-side request forgery vulnerabilities",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-18904",
-            "date": "28/08/2026",
+            "titre": "CVE-2026-82481 - cohttp Directory Traversal Vulnerability",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-82481",
+            "date": "29/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-18891 - Langflow is affected by multiple authentication bypass, path traversal, authorization, and server-side request forgery vulnerabilities",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-18891",
-            "date": "28/08/2026",
+            "titre": "CVE-2026-82456 - argocd-mcp 0.8.0 Authentication Bypass via Unauthenticated HTTP",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-82456",
+            "date": "29/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Anthropic is cutting Claude Code's current weekly limits by 17%",
+            "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+            "date": "29/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Brave browser adds email aliases to help users evade tracking",
+            "lien": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+            "date": "29/08/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "McKesson discloses breach after ShinyHunters claims patient data theft",
             "lien": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
@@ -480,18 +474,6 @@
             "titre": "ServiceNow warns of three max severity security vulnerabilities",
             "lien": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
             "date": "28/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Windows 11 KB5120998 update released with 35 changes and fixes",
-            "lien": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
-            "date": "28/08/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-            "lien": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-            "date": "27/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
@@ -683,6 +665,12 @@
     ],
     "next.ink": [
         {
+            "titre": "Et si vous essayiez de casser notre message chiffré inviolable… hein Flock ?",
+            "lien": "https://next.ink/249742/et-si-vous-essayiez-de-casser-notre-message-chiffre-inviolable-hein-flock/",
+            "date": "29/08/2026",
+            "image": "https://next.ink/wp-content/uploads/2026/07/Minijeux6.webp"
+        },
+        {
             "titre": "Avant son lancement officiel, DLSS 5 apparaît dans la nature",
             "lien": "https://next.ink/253648/avant-son-lancement-officiel-dlss-5-apparait-dans-la-nature/",
             "date": "28/08/2026",
@@ -735,12 +723,6 @@
             "lien": "https://next.ink/brief-article/bluesky-inaugure-une-option-pour-diminuer-la-visibilite-de-ses-posts-dans-lalgo-de-decouverte/",
             "date": "28/08/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Mémoire : Google impose de nouvelles règles aux apps Android trop gourmandes",
-            "lien": "https://next.ink/253490/memoire-google-impose-de-nouvelles-regles-aux-apps-android-trop-gourmandes/",
-            "date": "28/08/2026",
-            "image": "https://next.ink/wp-content/uploads/2024/04/SamsungStethoscope.png"
         }
     ]
 }
