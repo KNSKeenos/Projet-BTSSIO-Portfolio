@@ -63,14 +63,14 @@
     ],
     "Journal du Hacker": [
         {
-            "titre": "Three.js, WebGPU et IA : où en est la 3D sur le web ?",
-            "lien": "https://www.humancoders.com/podcast/three-js-webgpu-et-ia-ou-en-est-la-3d-sur-le-web-faq-3",
+            "titre": "Usurpation d'identité : que vérifier après les fuites de données de l'État ?",
+            "lien": "https://www.it-connect.fr/usurpation-identite-verifications-fuites-donnees-etat/",
             "date": "04/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Usurpation d'identité : que vérifier après les fuites de données de l'État ?",
-            "lien": "https://www.it-connect.fr/usurpation-identite-verifications-fuites-donnees-etat/",
+            "titre": "Three.js, WebGPU et IA : où en est la 3D sur le web ?",
+            "lien": "https://www.humancoders.com/podcast/three-js-webgpu-et-ia-ou-en-est-la-3d-sur-le-web-faq-3",
             "date": "04/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
@@ -249,6 +249,36 @@
     ],
     "ZDNET": [
         {
+            "titre": "Les 16 paramètres d'Apple Messages que je modifie sur chaque iPhone – et pourquoi",
+            "lien": "https://www.zdnet.fr/pratique/les-16-parametres-dapple-messages-que-je-modifie-sur-chaque-iphone-et-pourquoi-502818.htm#xtor=RSS-1",
+            "date": "06/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/16-apple-messages-settings-i-always-change-on-every-new-iphone-and-why.webp"
+        },
+        {
+            "titre": "Dell XPS 13 : le PC Windows abordable qui tient tête au MacBook Neo",
+            "lien": "https://www.zdnet.fr/guide-achat/dell-xps-13-le-pc-windows-abordable-qui-tient-tete-au-macbook-neo-502762.htm#xtor=RSS-1",
+            "date": "06/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/dell-xps-13_une.jpg"
+        },
+        {
+            "titre": "J'ai réussi à donner à Linux l'apparence de Windows 11 gratuitement, grâce à quelques modifications simples apportées à Zorin OS",
+            "lien": "https://www.zdnet.fr/pratique/jai-reussi-a-donner-a-linux-lapparence-de-windows-11-gratuitement-grace-a-quelques-modifications-simples-apportees-a-zorin-os-502809.htm#xtor=RSS-1",
+            "date": "05/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/zorin11herolaptop.webp"
+        },
+        {
+            "titre": "Améliorez la précision des couleurs de votre télé grâce à ces quelques réglages simples",
+            "lien": "https://www.zdnet.fr/pratique/ameliorez-la-precision-des-couleurs-de-votre-tele-grace-a-ces-quelques-reglages-simples-501160.htm#xtor=RSS-1",
+            "date": "05/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/tv.jpg"
+        },
+        {
+            "titre": "Les 13 paramètres de Google Photos que je modifie systématiquement sur chaque nouvel appareil – et pourquoi",
+            "lien": "https://www.zdnet.fr/pratique/les-13-parametres-de-google-photos-que-je-modifie-systematiquement-sur-chaque-nouvel-appareil-et-pourquoi-502806.htm#xtor=RSS-1",
+            "date": "05/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/33_9202b2.webp"
+        },
+        {
             "titre": "Le raccourci iMessage que la plupart des utilisateurs d'iPhone ignorent encore",
             "lien": "https://www.zdnet.fr/pratique/le-raccourci-imessage-que-la-plupart-des-utilisateurs-diphone-ignorent-encore-501127.htm#xtor=RSS-1",
             "date": "05/09/2026",
@@ -277,36 +307,6 @@
             "lien": "https://www.zdnet.fr/actualites/ia-en-entreprise-une-adoption-massive-en-france-mais-des-gains-de-productivite-qui-stagnent-502829.htm#xtor=RSS-1",
             "date": "04/09/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/03/ia.jpg"
-        },
-        {
-            "titre": "Souveraineté IA : l'État accélère avec Mistral AI mais met en garde contre le piège du champion unique",
-            "lien": "https://www.zdnet.fr/actualites/souverainete-ia-letat-accelere-avec-mistral-ai-mais-met-en-garde-contre-le-piege-du-champion-unique-502827.htm#xtor=RSS-1",
-            "date": "04/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/01/mistral-ai-small-3.jpg"
-        },
-        {
-            "titre": "GPT-6 Astra : OpenAI libère une puissance agentique inédite sous haute surveillance cybersécurité",
-            "lien": "https://www.zdnet.fr/actualites/gpt-6-astra-openai-libere-une-puissance-agentique-inedite-sous-haute-surveillance-cybersecurite-502803.htm#xtor=RSS-1",
-            "date": "04/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/05/openai-is-offering-up-to-250000-for-new-archaeological-discoveries-in-the-amazon-rainforest.webp"
-        },
-        {
-            "titre": "Nvidia met la main sur Hugging Face : les déclarations choc de Jensen Huang et Clément Delangue",
-            "lien": "https://www.zdnet.fr/actualites/nvidia-met-la-main-sur-hugging-face-les-declarations-choc-de-jensen-huang-et-clement-delangue-502801.htm#xtor=RSS-1",
-            "date": "04/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/03/nvidia.jpg"
-        },
-        {
-            "titre": "Adobe : Anil Chakravarthy nommé CEO pour relever le défi du ROI de l'IA générative",
-            "lien": "https://www.zdnet.fr/actualites/adobe-anil-chakravarthy-nomme-ceo-pour-relever-le-defi-du-roi-de-lia-generative-502798.htm#xtor=RSS-1",
-            "date": "04/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/ceo_adobe.jpg"
-        },
-        {
-            "titre": "Nvidia Pair promet de débloquer les workflows IA multi-agents en local",
-            "lien": "https://www.zdnet.fr/actualites/nvidia-pair-promet-de-debloquer-les-workflows-ia-multi-agents-en-local-502795.htm#xtor=RSS-1",
-            "date": "04/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/nvidia8pair.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,79 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-86145 - PCRE2 Out-of-Bounds Write Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-86145",
-            "date": "05/09/2026",
+            "titre": "CVE-2026-86167 - Tenda HG10 Boa formgponConf os command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-86167",
+            "date": "06/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-83627 - Hummingbird – Speed Optimization, Caching, Minify, Compress & CDN <= 3.21.0 - Unauthenticated Remote Code Execution via Cookie Name in Page Cache Debug Log",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-83627",
-            "date": "05/09/2026",
+            "titre": "CVE-2026-86166 - Tenda HG10 Boa Web Server formWanRedirect buffer overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-86166",
+            "date": "06/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13447 - MStore API <= 4.20.0 - Unauthenticated Authentication Bypass via 'id_token' Parameter JWT Forgery",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13447",
-            "date": "05/09/2026",
+            "titre": "CVE-2026-86165 - Tenda HG10 formURL buffer overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-86165",
+            "date": "06/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-86140 - libxml2 Stack-Based Buffer Overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-86140",
-            "date": "05/09/2026",
+            "titre": "CVE-2026-86218 - pre-authentication remote code execution",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-86218",
+            "date": "06/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-52777 - YesWiki: Authenticated PHP Object Injection in BazarImportAction via unserialize",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-52777",
-            "date": "05/09/2026",
+            "titre": "CVE-2026-75816 - Frontend Admin by DynamiApps <= 3.29.12 - Unauthenticated Account Takeover via '_acf_objects' Object Identifier",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-75816",
+            "date": "06/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-52775 - YesWiki Authenticated SQL Injection in ReactionManager",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-52775",
-            "date": "05/09/2026",
+            "titre": "CVE-2026-16310 - MemberDash <= 1.8.5 - Unauthenticated Account Takeover via Insecure Direct Object Reference via 'id' Parameter",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-16310",
+            "date": "06/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-52771 - YesWiki: Second-Order SQL Injection in Page Delete API via Unescaped Page Tag (`ApiController::deletePage`)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-52771",
-            "date": "05/09/2026",
+            "titre": "CVE-2026-86153 - Tenda CP3 Redirect.cpp SetRedirectEnable privileges management",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-86153",
+            "date": "06/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-52769 - YesWiki: Unauthenticated Server-Side Request Forgery via ActivityPub `Signature.keyId`",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-52769",
-            "date": "05/09/2026",
+            "titre": "CVE-2026-86152 - Tenda CP3 Kylin AutoAddWifi.cpp ThreadProc os command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-86152",
+            "date": "06/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-52767 - YesWiki: Unauthenticated ActivityPub Signature-Verification Bypass via `!openssl_verify(...)` accepting `int(-1)`",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-52767",
-            "date": "05/09/2026",
+            "titre": "CVE-2026-86151 - Tenda CP3 Network Configuration Management system.c sub_2F77E8 os command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-86151",
+            "date": "06/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-52766 - YesWiki: Unauthenticated arbitrary page deletion via `{{erasespamedcomments}}` action",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-52766",
+            "titre": "CVE-2026-86149 - Tenda CP3 NetCheckPing.cpp os command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-86149",
             "date": "05/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+            "lien": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+            "date": "05/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+            "lien": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+            "date": "05/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "IDScan sued over alleged data breach affecting 153 million drivers",
             "lien": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
@@ -479,18 +491,6 @@
         {
             "titre": "French hospital fined €500,000 after breach exposes data of 727,000",
             "lien": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-            "date": "03/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Coder's registry infrastructure compromised to push malicious modules",
-            "lien": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-            "date": "03/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "HPE patches critical ArubaOS-CX remote code execution flaw",
-            "lien": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
             "date": "03/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
@@ -639,6 +639,12 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
+            "titre": "Septeo acquiert Lexbase",
+            "lien": "https://www.channelnews.fr/septeo-acquiert-lexbase-158687",
+            "date": "04/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Trimestriels de Dell et HPE : l’IA alimente un nouveau cycle d’investissement majeur dans les infrastructures IT",
             "lien": "https://www.channelnews.fr/trimestriels-de-dell-et-hpe-lia-alimente-un-nouveau-cycle-dinvestissement-majeur-dans-les-infrastructures-it-158648",
             "date": "03/09/2026",
@@ -673,15 +679,15 @@
             "lien": "https://www.channelnews.fr/eunice-wang-katun-remporte-le-prix-2026-du-women-in-supply-chain-forum-158585",
             "date": "03/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Saaswedo et Software Contract Solutions s’allient pour offrir une optimisation de bout en bout des dépenses IT des entreprises.",
-            "lien": "https://www.channelnews.fr/saaswedo-et-software-contract-solutions-sallient-pour-offrir-une-optimisation-de-bout-en-bout-des-depenses-it-des-entreprises-158587",
-            "date": "03/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "next.ink": [
+        {
+            "titre": "Tu te mets combien, version Next ! Avez-vous les réponses aux 10 questions ?",
+            "lien": "https://next.ink/254912/tu-te-mets-combien-version-next-avez-vous-les-reponses-aux-10-questions/",
+            "date": "05/09/2026",
+            "image": "https://next.ink/wp-content/uploads/2026/07/Minijeux6.webp"
+        },
         {
             "titre": "☕️ Piratage de la DGFiP : deux suspects interpellés, l’enquête se poursuit",
             "lien": "https://next.ink/brief-article/piratage-de-la-dgfip-deux-suspects-interpelles-lenquete-se-poursuit/",
@@ -735,12 +741,6 @@
             "lien": "https://next.ink/brief-article/claude-chatgpt-gemini-et-grok-sont-simultanement-tombes-en-panne-spacexai-sexcuse/",
             "date": "04/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "NVIDIA : les premiers PC Windows à « superpuce » RTX Spark arrivent en octobre",
-            "lien": "https://next.ink/254596/nvidia-les-premiers-pc-windows-a-superpuce-rtx-spark-arrivent-en-octobre/",
-            "date": "04/09/2026",
-            "image": "https://next.ink/wp-content/uploads/2026/09/nvidia-rtx-spark.jpg"
         }
     ]
 }
