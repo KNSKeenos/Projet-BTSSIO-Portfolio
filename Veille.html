@@ -179,7 +179,40 @@
     </nav>
 <div class="container">
     <h1>Veille Informatique</h1>
-    
+        <!-- ============================== -->
+        <!-- PRÉSENTATION DE LA DÉMARCHE    -->
+        <!-- ============================== -->
+        <div style="margin-bottom: 4rem;">
+            
+            <div class="grid">
+                
+                <!-- Carte 1 : Définition -->
+                <div class="card">
+                    <h3 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 0.5rem; margin-top: 0;">📖 Qu'est-ce que la Veille ?</h3>
+                    <p>La veille informationnelle et technologique est un processus continu de surveillance, de collecte et d'analyse d'informations ciblées. Elle permet d'anticiper les évolutions technologiques, de repérer les innovations matérielles et logicielles, et d'identifier de manière proactive les nouvelles menaces de sécurité.</p>
+                </div>
+
+                <!-- Carte 2 : Intérêt -->
+                <div class="card">
+                    <h3 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 0.5rem; margin-top: 0;"> L'intérêt de ma démarche</h3>
+                    <p>Dans le domaine de l'administration systèmes et réseaux, l'environnement technique évolue quotidiennement. Cette veille m'est indispensable pour rester informé des <strong>nouvelles vulnérabilités (failles CVE)</strong>, des mises à jour des OS, et des évolutions des architectures (Virtualisation, Sauvegarde, Conteneurisation) afin de garantir un Maintien en Condition Opérationnelle (MCO) optimal.</p>
+                </div>
+
+                <!-- Carte 3 : Méthodologie & Technique -->
+                <div class="card">
+                    <h3 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 0.5rem; margin-top: 0;">⚙️ Ma Méthodologie (Automatisation)</h3>
+                    <p>Pour optimiser ma recherche d'informations, j'ai développé une solution d'agrégation automatisée :</p>
+                    <ul style="padding-left: 1.2rem; color: #c9d1d9;">
+                        <li style="margin-bottom: 0.5rem;"><strong>Sources :</strong> Récupération des flux RSS de sites spécialisés dans l'IT.</li>
+                        <li style="margin-bottom: 0.5rem;"><strong>Traitement (Python) :</strong> Utilisation d'un script métier exploitant la bibliothèque <code>feedparser</code> pour analyser, trier et parser les données XML vers un format exploitable (JSON).</li>
+                        <li><strong>CI/CD :</strong> Exécution planifiée du script via des workflows <strong>GitHub Actions</strong> pour mettre à jour cette page de manière totalement autonome.</li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- C'est ici en dessous que tu peux laisser le code qui affiche tes articles générés par ton script Python -->
     <div class="filtre-container">
         <select id="menu-filtre">
             <option value="Toutes">Afficher toutes les sources</option>
