@@ -1,6 +1,18 @@
 {
     "IT-Connect": [
         {
+            "titre": "Comprendre le licensing Microsoft : contrats, familles et canaux d’achats",
+            "lien": "https://www.it-connect.fr/comprendre-le-licensing-microsoft-contrats-familles-et-canaux-achats/",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
+            "titre": "Brevo : des scripts ClickFix injectés sur les sites de ses clients, avec une backdoor pour WordPress",
+            "lien": "https://www.it-connect.fr/brevo-attaque-supply-chain-clickfix-wordpress/",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
             "titre": "TrueNAS lance son plugin de stockage officiel pour Proxmox VE",
             "lien": "https://www.it-connect.fr/truenas-plugin-stockage-proxmox-ve/",
             "date": "18/09/2026",
@@ -47,21 +59,27 @@
             "lien": "https://www.it-connect.fr/test-bluetti-balco-260-le-kit-solaire-de-balcon-avec-batterie/",
             "date": "16/09/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "iOS 27 et macOS Golden Gate 27 : Apple corrige plus de 200 failles, dont 20 dans le noyau d’iOS",
-            "lien": "https://www.it-connect.fr/apple-ios-27-macos-golden-gate-27-plus-de-200-failles-corrigees/",
-            "date": "16/09/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Nintendo Switch : une faille permet d’exécuter du code via le code QR affiché à l’écran",
-            "lien": "https://www.it-connect.fr/nintendo-switch-faille-code-qr-cve-2026-82079/",
-            "date": "16/09/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         }
     ],
     "Journal du Hacker": [
+        {
+            "titre": "Android se referme : 12 testeurs nécessaires, et une vérification des devs",
+            "lien": "https://rvier.fr/posts/android-se-referme-FR.html",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Veille #74 - 33 actus qu'il ne fallait pas rater cette semaine",
+            "lien": "https://www.camilleroux.com/papra-mistral-firefox-rickub-veille-74/",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "L'IA demande elle-même une pause, la Maison-Blanche dit non — Quoi de neuf les devs? #189",
+            "lien": "https://go.itanea.fr/nl189",
+            "date": "17/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Hermes : simple hype ou vraie révolution ?",
             "lien": "https://www.damyr.fr/p/hermes-simple-hype-ou-vraie-r%C3%A9volution/",
@@ -69,14 +87,14 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "C'est quoi une bonne PR ?",
-            "lien": "https://www.youtube.com/watch?v=x9hVHtaAknk",
+            "titre": "Transpiler SQL",
+            "lien": "https://bersace.cae.li/posts/transpiler-sql/",
             "date": "17/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Transpiler SQL",
-            "lien": "https://bersace.cae.li/posts/transpiler-sql/",
+            "titre": "C'est quoi une bonne PR ?",
+            "lien": "https://www.youtube.com/watch?v=x9hVHtaAknk",
             "date": "17/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
@@ -103,27 +121,21 @@
             "lien": "https://thibaud.dev/fr/blog/pourquoi-jai-lache-le-management-pour-redevenir-dev/",
             "date": "16/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Étendre un blog Hugo jusqu'au protocole Gemini",
-            "lien": "https://olivier.dossmann.net/2026/09/etendre-blog-hugo-protocole-gemini/",
-            "date": "15/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Mass Effect 2, obsolescence, et réflexions sur la sécurité des outils de code agentiques",
-            "lien": "https://blog.flozz.fr/2026/09/15/journal-de-bord-8-mass-effect-2-obsolescence-et-reflexions-sur-la-securite-des-outils-de-code-agentiques/",
-            "date": "15/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "OpenRGB 1.0 : cet outil open source pilote vos périphériques RGB",
-            "lien": "https://www.it-connect.fr/openrgb-1-0-nouveautes-windows-linux-macos/",
-            "date": "15/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
+        {
+            "titre": "Comment mesurer et dégonfler l'index de recherche de Windows",
+            "lien": "https://korben.info/windows-search-indexation-etendue-ssd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "18/09/2026",
+            "image": "https://korben.info/windows-search-indexation-etendue-ssd/windows-search-indexation-etendue-ssd-1.png"
+        },
+        {
+            "titre": "Calibre lance le livre dont vous êtes le héros, généré par IA",
+            "lien": "https://korben.info/calibre-9-15-jeu-aventure-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "18/09/2026",
+            "image": "https://korben.info/calibre-9-15-jeu-aventure-ia/calibre-9-15-jeu-aventure-ia-1.png"
+        },
         {
             "titre": "Linux sur PS5 Pro n'arrivera pas tout de suite",
             "lien": "https://korben.info/ps5-linux-developpeur-principal-abandonne.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -171,18 +183,6 @@
             "lien": "https://korben.info/shuffle-drummer-groovebox-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "16/09/2026",
             "image": "https://korben.info/shuffle-drummer-groovebox-navigateur/shuffle-drummer-groovebox-navigateur-1.png"
-        },
-        {
-            "titre": "Fuse-archive - Vos ZIP montés en dossiers ordinaires",
-            "lien": "https://korben.info/mount-archive-monter-archives-comme-un-dossier.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "16/09/2026",
-            "image": "https://korben.info/mount-archive-monter-archives-comme-un-dossier/mount-archive-monter-archives-comme-un-dossier-1.png"
-        },
-        {
-            "titre": "La Forge - Le GitLab public des profs codeurs",
-            "lien": "https://korben.info/forge-apps-education-enseignants-code.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "16/09/2026",
-            "image": "https://korben.info/forge-apps-education-enseignants-code/forge-apps-education-enseignants-code-1.png"
         }
     ],
     "CERT-FR": [
@@ -249,6 +249,54 @@
     ],
     "ZDNET": [
         {
+            "titre": "Téléviseur OLED ou écran OLED : lequel est le mieux adapté aux créatifs, aux gamers ou aux utilisateurs expérimentés ?",
+            "lien": "https://www.zdnet.fr/pratique/televiseur-oled-ou-ecran-oled-lequel-est-le-mieux-adapte-aux-creatifs-aux-gamers-ou-aux-utilisateurs-experimentes-503653.htm#xtor=RSS-1",
+            "date": "19/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/oled-tv-vs.-oled-monitor.jpg"
+        },
+        {
+            "titre": "OpenAI piraté grâce à Opus 5 d'Anthropic",
+            "lien": "https://www.zdnet.fr/actualites/openai-pirate-grace-a-opus-5-danthropic-503834.htm#xtor=RSS-1",
+            "date": "18/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/08/openai.jpg"
+        },
+        {
+            "titre": "Défense : Thales lance HexaForce, l'alternative souveraine et dopée à l'IA face à Palantir",
+            "lien": "https://www.zdnet.fr/actualites/defense-thales-lance-hexaforce-lalternative-souveraine-et-dopee-a-lia-face-a-palantir-503822.htm#xtor=RSS-1",
+            "date": "18/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/hexaforce-22cthales.jpg"
+        },
+        {
+            "titre": "La nouvelle version des projets de Claude Code intègre l'orchestration par IA, mais seulement dans le cloud",
+            "lien": "https://www.zdnet.fr/actualites/la-nouvelle-version-des-projets-de-claude-code-integre-lorchestration-par-ia-mais-seulement-dans-le-cloud-503796.htm#xtor=RSS-1",
+            "date": "18/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/claude-projects-bg.webp"
+        },
+        {
+            "titre": "Mais comment Apple peut donc vous vendre un « iPhone Duo » à 2 340 euros qui n'est pas au top des performances ?",
+            "lien": "https://www.zdnet.fr/actualites/mais-comment-apple-peut-donc-vous-vendre-un-iphone-duo-a-2-340-euros-qui-nest-pas-au-top-des-performances-503789.htm#xtor=RSS-1",
+            "date": "18/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/zdnet-aaad-0917-iphonex.webp"
+        },
+        {
+            "titre": "Bose revient avec de nouveaux écouteurs ouverts (et une version revisitée d'un grand classique)",
+            "lien": "https://www.zdnet.fr/actualites/bose-revient-avec-de-nouveaux-ecouteurs-ouverts-et-une-version-revisitee-dun-grand-classique-503782.htm#xtor=RSS-1",
+            "date": "18/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/open_2a00ae.webp"
+        },
+        {
+            "titre": "Numspot ajoute de l’IA souveraine managée avec Mistral AI",
+            "lien": "https://www.zdnet.fr/actualites/numspot-ajoute-de-lia-souveraine-managee-avec-mistral-ai-503763.htm#xtor=RSS-1",
+            "date": "18/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/11/numspot-211124.jpg"
+        },
+        {
+            "titre": "Revolut, dernier exemple de ces manœuvres malveillantes qui précèdent des rapts crypto",
+            "lien": "https://www.zdnet.fr/actualites/revolut-dernier-exemple-de-ces-manoeuvres-malveillantes-qui-precedent-des-rapts-crypto-503750.htm#xtor=RSS-1",
+            "date": "18/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/06/kanchanara-9pcv2mb65y8-unsplash-scaled-e1750744060173.jpg"
+        },
+        {
             "titre": "ZDNET Morning 18/09/2026 : Quand l'IA cache ses erreurs, Déploiement facturation électronique, Innovation cyber Chrome,...",
             "lien": "https://www.zdnet.fr/actualites/zdnet-morning-18-09-2026-quand-lia-cache-ses-erreurs-deploiement-facturation-electronique-innovation-cyber-chrome-503770.htm#xtor=RSS-1",
             "date": "18/09/2026",
@@ -259,54 +307,6 @@
             "lien": "https://www.zdnet.fr/actualites/galaxy-s27-ultra-samsung-pourrait-revoir-en-profondeur-la-photo-de-son-prochain-flagship-503756.htm#xtor=RSS-1",
             "date": "18/09/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/02/samsung-galaxy-s26-ultra-vs.-s26-plus-vs.-s26-comparaison.jpg"
-        },
-        {
-            "titre": "L’ONU ouvre ses statistiques officielles aux agents d’IA, avec l’aide de Google",
-            "lien": "https://www.zdnet.fr/actualites/lonu-ouvre-ses-statistiques-officielles-aux-agents-dia-avec-laide-de-google-503760.htm#xtor=RSS-1",
-            "date": "18/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/onu-data-system.jpg"
-        },
-        {
-            "titre": "ZD Tech : Finis les tickets de parking, ce système redoutable testé par Lidl distribue automatiquement des amendes de 35 euros",
-            "lien": "https://www.zdnet.fr/actualites/zd-tech-finis-les-tickets-de-parking-ce-systeme-redoutable-teste-par-lidl-distribue-automatiquement-des-amendes-de-35-euros-502833.htm#xtor=RSS-1",
-            "date": "18/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/09/zdnet-podcast-bo.jpg"
-        },
-        {
-            "titre": "Des IA d’OpenAI ont appris à cacher leurs erreurs à leurs successeurs",
-            "lien": "https://www.zdnet.fr/actualites/des-ia-dopenai-ont-appris-a-cacher-leurs-erreurs-a-leurs-successeurs-503754.htm#xtor=RSS-1",
-            "date": "18/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/08/openai-1.jpg"
-        },
-        {
-            "titre": "Énergie pratique : ne branchez pas ces appareils sur votre centrale électrique",
-            "lien": "https://www.zdnet.fr/pratique/energie-pratique-ne-branchez-pas-ces-appareils-sur-votre-centrale-electrique-503726.htm#xtor=RSS-1",
-            "date": "18/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/branchez-pas-ces-appareils-sur-centrale-electrique-scaled.jpg"
-        },
-        {
-            "titre": "Facturation électronique : succès foudroyant sur le terrain malgré la tempête politique assure le ministre des Comptes publics",
-            "lien": "https://www.zdnet.fr/actualites/facturation-electronique-succes-foudroyant-sur-le-terrain-malgre-la-tempete-politique-assure-le-ministre-des-comptes-publics-503747.htm#xtor=RSS-1",
-            "date": "17/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/08/maileva.jpg"
-        },
-        {
-            "titre": "Apple iPhone 18 Pro Max vs. Samsung Galaxy S26 Ultra : les deux coûtent très cher, mais l'un est plus séduisant",
-            "lien": "https://www.zdnet.fr/smartphone/apple-iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-les-deux-coutent-tres-cher-mais-lun-est-plus-seduisant-503715.htm#xtor=RSS-1",
-            "date": "17/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/apple-iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-compar.jpg"
-        },
-        {
-            "titre": "Quels sont les meilleurs SSD M.2 NVMe pour les pros en 2026 ?",
-            "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/quels-sont-les-meilleurs-ssd-m-2-nvme-pour-les-pros-en-2026-503740.htm#xtor=RSS-1",
-            "date": "17/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/selection_expert_2026_zdnet_une.png"
-        },
-        {
-            "titre": "Patrick Jabelin, Directeur développement Klee Group : « Au-delà de l'inefficacité : les risques cachés du silotage des données »",
-            "lien": "https://www.zdnet.fr/tribune/patrick-jabelin-directeur-developpement-offres-klee-group-au-dela-de-linefficacite-les-risques-caches-du-silotage-des-donnees-503477.htm#xtor=RSS-1",
-            "date": "17/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/07/claudio-schwarz-fyeoxvyviyy-unsplash.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,109 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-40530 - Synology DiskStation Manager User API CRLF Injection",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-40530",
-            "date": "18/09/2026",
+            "titre": "CVE-2026-85658 - Paid Membership Plugin, Ecommerce, User Registration Form, Login Form, User Profile & Restrict Content <= 4.17.2 - Authenticated (Subscriber+) Arbitrary Shortcode Execution via 'eup_bio' Biography Field (Entity-Encoded Shortcode Bracket)",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-85658",
+            "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-6205 - Synology DiskStation Manager Upload API Arbitrary File Write Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-6205",
-            "date": "18/09/2026",
+            "titre": "CVE-2026-4327 - The Welcomizer <= 2.8.1 - Missing Authorization to Authenticated (Subscriber+) Remote Code Execution via 'twiz_custom_logic' Parameter",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-4327",
+            "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13673 - Synology DiskStation Manager LDAP API Improper Privilege Management Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13673",
-            "date": "18/09/2026",
+            "titre": "CVE-2026-93741 - Totolink A3002MU formWlWds buffer overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93741",
+            "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13639 - Synology DiskStation Manager Insufficient Entropy Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13639",
-            "date": "18/09/2026",
+            "titre": "CVE-2026-92807 - Save as PDF Plugin by PDFCrowd <= 4.6.1 - Authenticated (Contributor+) Arbitrary Function Invocation / Code Injection via 'pdf_created_callback' Shortcode Attribute",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-92807",
+            "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-13684 - Synology DiskStation Manager SCGI Improper Output Neutralization Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-13684",
-            "date": "18/09/2026",
+            "titre": "CVE-2026-92229 - Forminator Forms <= 1.57.2 - Unauthenticated Arbitrary Shortcode Execution via 'current_url' Parameter",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-92229",
+            "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-67102 - HCL BigFix Service Management is affected by multiple security vulnerabilities.",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-67102",
-            "date": "18/09/2026",
+            "titre": "CVE-2026-89274 - WP Recipe Maker <= 10.8.1 - Unauthenticated Arbitrary Shortcode Execution via Recipe Comment Content",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-89274",
+            "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-67101 - HCL BigFix Service Management is affected by multiple security vulnerabilities.",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-67101",
-            "date": "18/09/2026",
+            "titre": "CVE-2026-84434 - Gravity Forms <= 3.1.0.4 - Unauthenticated Arbitrary File Upload via Hidden File Upload Field",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-84434",
+            "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-67100 - HCL BigFix Service Management is affected by multiple security vulnerabilities.",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-67100",
-            "date": "18/09/2026",
+            "titre": "CVE-2026-93923 - SiYuan through 3.8.4 Stored XSS via Heading Style Attribute",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93923",
+            "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-12954 - Mapster WP Maps <= 1.23.0 - Authenticated (Subscriber+) Arbitrary User Meta Write via 'acf-photo-gallery-groups' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-12954",
-            "date": "18/09/2026",
+            "titre": "CVE-2026-93922 - SiYuan through 3.8.4 Stored XSS via notebook names",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93922",
+            "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-12384 - Broken Access Control in TECHIN2B Application",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-12384",
+            "titre": "CVE-2026-93740 - Totolink A3002MU formWlEncrypt buffer overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93740",
             "date": "18/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Gyazo server flaw exploited to steal 23.6 million user records",
+            "lien": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+            "lien": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Secure enterprise sharing with access reviews for Microsoft 365",
+            "lien": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Microsoft Teams will let admins block custom file extensions",
+            "lien": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Webinar: Which Google Workspace security controls actually matter?",
+            "lien": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+            "lien": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "New Check Point flaw lets hackers execute code with root privileges",
+            "lien": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Microsoft fixes broken copy and paste for Excel 2016 users",
             "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
@@ -451,51 +493,51 @@
             "lien": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
             "date": "17/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-            "lien": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-            "lien": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Windows 11 24H2 Home and Pro reach end of support in October",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "US takes down NightmareStresser DDoS-for-hire platform",
-            "lien": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-            "lien": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Microsoft shares workaround for Windows domain login issues",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Cisco warns of max severity ISE zero-day exploited in attacks",
-            "lien": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "LeMagIT": [
+        {
+            "titre": "Koa : Salesforce présente un modèle de raisonnement dédié à son CRM",
+            "lien": "https://www.lemagit.fr/actualites/366650720/Koa-Salesforce-presente-un-modele-de-raisonnement-dedie-a-son-CRM",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Stockage : choisir le bon protocole d’accès",
+            "lien": "https://www.lemagit.fr/conseil/Stockage-choisir-le-bon-protocole-dacces",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Comment SdV a migré 1 200 VM à chaud de VMware vers Proxmox",
+            "lien": "https://www.lemagit.fr/etude/Comment-SdV-a-migre-1-200-VM-a-chaud-de-VMware-vers-Proxmox",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Dreamforce 2026 : Salesforce déconstruit (encore) son modèle tarifaire au nom de l’IA agentique",
+            "lien": "https://www.lemagit.fr/actualites/366650715/Dreamforce-2026-Salesforce-deconstruit-encore-son-modele-tarifaire-au-nom-de-lIA-agentique",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "L’essor des agents IA implique une reconstruction de la gouvernance (BCG)",
+            "lien": "https://www.lemagit.fr/conseil/Lessor-des-agents-IA-implique-une-reconstruction-de-la-gouvernance-BCG",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "JPMorgan Chase : 5 % seulement des cas d’usage IA ont un impact « significatif »",
+            "lien": "https://www.lemagit.fr/actualites/366650773/JPMorgan-Chase-5-seulement-des-cas-dusage-IA-ont-un-impact-significatif",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Cyberhebdo du 18 septembre 2026 : une répartition géographique inhabituelle",
+            "lien": "https://www.lemagit.fr/actualites/366650654/Cyberhebdo-du-18-septembre-2026",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Dreamforce 2026 : les pontes du secteur le confirment, ralentir l’IA n’est pas au programme",
             "lien": "https://www.lemagit.fr/dessin/Dreamforce-2026-les-pontes-du-secteur-le-confirment-ralentir-lIA-nest-pas-au-programme",
@@ -513,51 +555,21 @@
             "lien": "https://www.lemagit.fr/actualites/366649866/IA-en-entreprise-la-France-en-tete-de-ladoption-hybride-en-retard-sur-la-gouvernance",
             "date": "17/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Dreamforce 2026 : les pontes du secteur le confirment, ralentir l’IA n’est pas au programme",
-            "lien": "https://www.lemagit.fr/actualites/366650371/Dreamforce-2026-les-pontes-du-secteur-le-confirment-ralentir-lIA-nest-pas-au-programme",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Dreamforce 2026 : Salesforce multiplie les « interfaces intelligentes »",
-            "lien": "https://www.lemagit.fr/actualites/366650326/Dreamforce-2026-Salesforce-multiplie-les-interfaces-intelligentes",
-            "date": "16/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Les coûts cachés de la dette technique dans les infrastructures",
-            "lien": "https://www.lemagit.fr/conseil/Les-couts-caches-de-la-dette-technique-dans-les-infrastructures",
-            "date": "16/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Splunk .conf26 : la surveillance des agents d’IA enfin disponible",
-            "lien": "https://www.lemagit.fr/actualites/366650466/Splunk-conf26-la-surveillance-des-agents-dIA-enfin-disponible",
-            "date": "16/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "UECC 2026 : bilan d’un été cyber « horrible » pour la France",
-            "lien": "https://www.lemagit.fr/actualites/366650435/UECC-2026-bilan-dun-ete-cyber-horrible",
-            "date": "16/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "En 2027, Oracle intégrera le chiffrement postquantique avec Java 8 et 11",
-            "lien": "https://www.lemagit.fr/actualites/366650477/En-2027-Oracle-integrera-le-chiffrement-postquantique-avec-Java-8-et-11",
-            "date": "15/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "PaaS IA souveraine : Numspot étend son partenariat avec Mistral AI",
-            "lien": "https://www.lemagit.fr/actualites/366650400/PaaS-IA-et-SecNumCloud-Numspot-etend-son-partenariat-avec-Mistral-AI",
-            "date": "15/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "L'informaticien": [
+        {
+            "titre": "Kipmi lance un bac à sable pour le test de son wallet",
+            "lien": "https://www.linformaticien.com/magazine/cybersecurite/65273-kipmi-lance-un-bac-a-sable-pour-le-test-de-son-wallet.html",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Le Palmarès de l’Informaticien a rendu son verdict !",
+            "lien": "https://www.linformaticien.com/65272-le-palmares-de-l-informaticien-a-rendu-son-verdict.html",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Forum TERATEC 2026 : quand HPC, IA, simulation et quantique passent à l’échelle industrielle",
             "lien": "https://www.linformaticien.com/magazine/info-partenaire/65271-forum-teratec-2026-quand-hpc-ia-simulation-et-quantique-passent-a-l-echelle-industrielle.html",
@@ -605,21 +617,21 @@
             "lien": "https://www.linformaticien.com/magazine/cloud/65263-atos-partenaire-cloud-souverain-de-sap.html",
             "date": "17/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Neo4J aide à détecter la fraude financière",
-            "lien": "https://www.linformaticien.com/magazine/logiciel/65262-neo4j-aide-a-detecter-la-fraude-financiere.html",
-            "date": "16/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Hackuity lève 19 M$",
-            "lien": "https://www.linformaticien.com/magazine/biz-it/957-levees-de-fonds/65261-hackuity-leve-19-m.html",
-            "date": "16/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "ChannelNews": [
+        {
+            "titre": "Salesforce lance une IA spécifique au CRM",
+            "lien": "https://www.channelnews.fr/salesforce-lance-une-ia-specifique-au-crm-158939",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Les effectifs taïwanais de Micron réclament une part de son CA stratosphérique",
+            "lien": "https://www.channelnews.fr/les-effectifs-taiwanais-de-micron-reclament-une-part-de-son-ca-stratospherique-158937",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Solutions 30 creuse ses pertes au premier semestre, pénalisé par son retrait des télécoms en France",
             "lien": "https://www.channelnews.fr/solutions-30-creuse-ses-pertes-au-premier-semestre-penalise-par-son-retrait-des-telecoms-en-france-158928",
@@ -667,21 +679,39 @@
             "lien": "https://www.channelnews.fr/smart-global-governance-fait-evoluer-son-identite-de-marque-pour-accompagner-une-nouvelle-etape-de-son-developpement-158870",
             "date": "17/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "NUMERYX associe leasing informatique et infogérance pour simplifier la gestion du parc IT",
-            "lien": "https://www.channelnews.fr/numeryx-associe-leasing-informatique-et-infogerance-pour-simplifier-la-gestion-du-parc-it-158872",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Données industrielles : pourquoi les collecter ne suffit plus",
-            "lien": "https://www.channelnews.fr/donnees-industrielles-pourquoi-les-collecter-ne-suffit-plus-158891",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "next.ink": [
+        {
+            "titre": "« Un vol d’une ampleur sans précédent » : les documents qui fragilisent OpenAI",
+            "lien": "https://next.ink/257017/un-vol-dune-ampleur-sans-precedent-les-documents-qui-fragilisent-openai/",
+            "date": "18/09/2026",
+            "image": "https://next.ink/wp-content/uploads/2025/01/Plagiat-presse-ia.webp"
+        },
+        {
+            "titre": "☕️ Lunettes connectées : le parquet de Paris ouvre une enquête pour harcèlement sexuel",
+            "lien": "https://next.ink/brief-article/lunettes-connectees-le-parquet-de-paris-ouvre-une-enquete-pour-harcelement-sexuel/",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "GrapheneOS déplore l’attitude de Google sur les correctifs de sécurité d’Android",
+            "lien": "https://next.ink/256965/grapheneos-deplore-lattitude-de-google-sur-les-correctifs-de-securite-dandroid/",
+            "date": "18/09/2026",
+            "image": "https://next.ink/wp-content/uploads/2026/08/pixel-11-google.jpg"
+        },
+        {
+            "titre": "☕️ Amazon met fin à la livraison gratuite des livres en consignes automatiques",
+            "lien": "https://next.ink/brief-article/amazon-met-fin-a-la-livraison-gratuite-des-livres-en-consignes-automatiques/",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Ablation, ablitération : c’est quoi cette technique pour « débrider » les IA génératives ?",
+            "lien": "https://next.ink/256777/ablation-abliteration-cest-quoi-cette-technique-pour-debrider-les-ia-generatives/",
+            "date": "18/09/2026",
+            "image": "https://next.ink/wp-content/uploads/2026/09/Ia-abliteration.webp"
+        },
         {
             "titre": "Un de nos serveurs a subi 800 000 attaques en six mois, on vous raconte",
             "lien": "https://next.ink/256946/un-de-nos-serveurs-a-subi-800-000-attaques-en-six-mois-on-vous-raconte/",
@@ -710,36 +740,6 @@
             "titre": "☕️ Google ouvre la porte de sa maison connectée aux agents IA",
             "lien": "https://next.ink/brief-article/google-ouvre-la-porte-de-sa-maison-connectee-aux-agents-ia/",
             "date": "18/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "☕️ Pour entraîner Grok, SpaceXAI voudrait racheter les données de startups en difficulté",
-            "lien": "https://next.ink/brief-article/pour-entrainer-grok-spacexai-voudrait-racheter-les-donnees-de-startups-en-difficulte/",
-            "date": "18/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Flockerie et jeux d’été : envie de gagner des cadeaux ? Participez à notre concours !",
-            "lien": "https://next.ink/256504/flockerie-et-jeux-dete-envie-de-gagner-des-cadeaux-participez-a-notre-concours/",
-            "date": "17/09/2026",
-            "image": "https://next.ink/wp-content/uploads/2026/09/Flockeries.webp"
-        },
-        {
-            "titre": "☕️ [MàJ] Pas de démantèlement pour Google dans la publicité en ligne",
-            "lien": "https://next.ink/brief-article/pas-de-demantelement-pour-google-dans-la-publicite-en-ligne/",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Réseaux sociaux, jeux, IA : ce que l’EU KIDS Act va changer pour les mineurs",
-            "lien": "https://next.ink/256899/reseaux-sociaux-jeux-ia-ce-que-leu-kids-act-va-changer-pour-les-mineurs/",
-            "date": "17/09/2026",
-            "image": "https://next.ink/wp-content/uploads/2026/06/Kids-numerique.webp"
-        },
-        {
-            "titre": "☕️ Jacqueline Bloch : médaille d’or du CNRS pour ses travaux sur les polaritons",
-            "lien": "https://next.ink/brief-article/jacqueline-bloch-medaille-dor-du-cnrs-pour-ses-travaux-sur-les-polaritons/",
-            "date": "17/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
