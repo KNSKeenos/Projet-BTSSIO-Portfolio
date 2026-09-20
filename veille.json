@@ -1,6 +1,12 @@
 {
     "IT-Connect": [
         {
+            "titre": "UGREEN Nexode Pro : deux chargeurs avec écran intelligent, dont un que j’ai pris en main",
+            "lien": "https://www.it-connect.fr/ugreen-nexode-pro-chargeurs-ecran-intelligent-160w-300w/",
+            "date": "19/09/2026",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
+        },
+        {
             "titre": "Comprendre le licensing Microsoft : contrats, familles et canaux d’achats",
             "lien": "https://www.it-connect.fr/comprendre-le-licensing-microsoft-contrats-familles-et-canaux-achats/",
             "date": "18/09/2026",
@@ -51,12 +57,6 @@
         {
             "titre": "HBO Max : le compte Reddit officiel piraté pour diffuser des malwares via des pubs ClickFix",
             "lien": "https://www.it-connect.fr/hbo-max-compte-reddit-pirate-clickfix-pasteswitch/",
-            "date": "16/09/2026",
-            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
-        },
-        {
-            "titre": "Test BLUETTI Balco 260 : le kit solaire de balcon avec batterie",
-            "lien": "https://www.it-connect.fr/test-bluetti-balco-260-le-kit-solaire-de-balcon-avec-batterie/",
             "date": "16/09/2026",
             "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400"
         }
@@ -249,6 +249,42 @@
     ],
     "ZDNET": [
         {
+            "titre": "J'ai testé les écouteurs haut de gamme de Sony et de Sennheiser : le choix est difficile, mais l'un des deux l'emporte",
+            "lien": "https://www.zdnet.fr/guide-achat/jai-teste-les-ecouteurs-haut-de-gamme-de-sony-et-de-sennheiser-le-choix-est-difficile-mais-lun-des-deux-lemporte-503805.htm#xtor=RSS-1",
+            "date": "20/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/xm6vsmom.webp"
+        },
+        {
+            "titre": "iPhone 18 Pro Max vs Pixel 11 Pro XL : les différences qui pourraient bien tester votre fidélité",
+            "lien": "https://www.zdnet.fr/guide-achat/iphone-18-pro-max-vs-pixel-11-pro-xl-les-differences-qui-pourraient-bien-tester-votre-fidelite-503771.htm#xtor=RSS-1",
+            "date": "20/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/iphone-18-pro-max-vs-pixel-11-pro-xl_une.jpg"
+        },
+        {
+            "titre": "Forge des communs numériques éducatifs: des ressources libres produites par les enseignants",
+            "lien": "https://www.zdnet.fr/blogs/l-esprit-libre/forge-des-communs-numeriques-educatifs-des-ressources-libres-produites-par-les-enseignants-503844.htm#xtor=RSS-1",
+            "date": "19/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/forge-des-communs-numeriques-educatifs.jpg"
+        },
+        {
+            "titre": "PocketPal AI : l'IA 100 % locale et gratuite qui protège vraiment votre vie privée sur mobile",
+            "lien": "https://www.zdnet.fr/pratique/pocketpal-ai-lia-100-locale-et-gratuite-qui-protege-vraiment-votre-vie-privee-sur-mobile-503675.htm#xtor=RSS-1",
+            "date": "19/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/ia-locale.jpg"
+        },
+        {
+            "titre": "pearOS, c'est le macOS de Linux, et sa dernière version est meilleure que jamais",
+            "lien": "https://www.zdnet.fr/guide-achat/pearos-cest-le-macos-de-linux-et-sa-derniere-version-est-meilleure-que-jamais-503816.htm#xtor=RSS-1",
+            "date": "19/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/pearoshero.webp"
+        },
+        {
+            "titre": "J'ai testé les deux modèles d'iPhone 18 Pro : voici ce qui les différencie vraiment",
+            "lien": "https://www.zdnet.fr/guide-achat/jai-teste-les-deux-modeles-diphone-18-pro-voici-ce-qui-les-differencie-vraiment-503819.htm#xtor=RSS-1",
+            "date": "19/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/dsc00614.webp"
+        },
+        {
             "titre": "Téléviseur OLED ou écran OLED : lequel est le mieux adapté aux créatifs, aux gamers ou aux utilisateurs expérimentés ?",
             "lien": "https://www.zdnet.fr/pratique/televiseur-oled-ou-ecran-oled-lequel-est-le-mieux-adapte-aux-creatifs-aux-gamers-ou-aux-utilisateurs-experimentes-503653.htm#xtor=RSS-1",
             "date": "19/09/2026",
@@ -271,42 +307,6 @@
             "lien": "https://www.zdnet.fr/actualites/la-nouvelle-version-des-projets-de-claude-code-integre-lorchestration-par-ia-mais-seulement-dans-le-cloud-503796.htm#xtor=RSS-1",
             "date": "18/09/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/claude-projects-bg.webp"
-        },
-        {
-            "titre": "Mais comment Apple peut donc vous vendre un « iPhone Duo » à 2 340 euros qui n'est pas au top des performances ?",
-            "lien": "https://www.zdnet.fr/actualites/mais-comment-apple-peut-donc-vous-vendre-un-iphone-duo-a-2-340-euros-qui-nest-pas-au-top-des-performances-503789.htm#xtor=RSS-1",
-            "date": "18/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/zdnet-aaad-0917-iphonex.webp"
-        },
-        {
-            "titre": "Bose revient avec de nouveaux écouteurs ouverts (et une version revisitée d'un grand classique)",
-            "lien": "https://www.zdnet.fr/actualites/bose-revient-avec-de-nouveaux-ecouteurs-ouverts-et-une-version-revisitee-dun-grand-classique-503782.htm#xtor=RSS-1",
-            "date": "18/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/open_2a00ae.webp"
-        },
-        {
-            "titre": "Numspot ajoute de l’IA souveraine managée avec Mistral AI",
-            "lien": "https://www.zdnet.fr/actualites/numspot-ajoute-de-lia-souveraine-managee-avec-mistral-ai-503763.htm#xtor=RSS-1",
-            "date": "18/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/11/numspot-211124.jpg"
-        },
-        {
-            "titre": "Revolut, dernier exemple de ces manœuvres malveillantes qui précèdent des rapts crypto",
-            "lien": "https://www.zdnet.fr/actualites/revolut-dernier-exemple-de-ces-manoeuvres-malveillantes-qui-precedent-des-rapts-crypto-503750.htm#xtor=RSS-1",
-            "date": "18/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/06/kanchanara-9pcv2mb65y8-unsplash-scaled-e1750744060173.jpg"
-        },
-        {
-            "titre": "ZDNET Morning 18/09/2026 : Quand l'IA cache ses erreurs, Déploiement facturation électronique, Innovation cyber Chrome,...",
-            "lien": "https://www.zdnet.fr/actualites/zdnet-morning-18-09-2026-quand-lia-cache-ses-erreurs-deploiement-facturation-electronique-innovation-cyber-chrome-503770.htm#xtor=RSS-1",
-            "date": "18/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/10/zdnet_1280.jpg"
-        },
-        {
-            "titre": "Galaxy S27 Ultra : Samsung pourrait revoir en profondeur la photo de son prochain flagship",
-            "lien": "https://www.zdnet.fr/actualites/galaxy-s27-ultra-samsung-pourrait-revoir-en-profondeur-la-photo-de-son-prochain-flagship-503756.htm#xtor=RSS-1",
-            "date": "18/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/02/samsung-galaxy-s26-ultra-vs.-s26-plus-vs.-s26-comparaison.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,91 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-85658 - Paid Membership Plugin, Ecommerce, User Registration Form, Login Form, User Profile & Restrict Content <= 4.17.2 - Authenticated (Subscriber+) Arbitrary Shortcode Execution via 'eup_bio' Biography Field (Entity-Encoded Shortcode Bracket)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-85658",
+            "titre": "CVE-2026-93962 - Kamailio CDP Diameter Receiver receiver.c shm_malloc heap-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93962",
+            "date": "20/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-86553 - A password reset vulnerability in ZTE SmartLife APP",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-86553",
+            "date": "20/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-94084 - Suricata Http2ThreadMultiBuf Use-After-Free",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-94084",
+            "date": "20/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-94083 - Suricata DoH2 Type Confusion Vulnerability",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-94083",
+            "date": "20/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-93958 - D-Link R95 DHMAPI ssi system os command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93958",
+            "date": "20/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-93993 - Mistral Vibe before 2.25.5 Remote Code Execution via git post-checkout",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93993",
             "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-4327 - The Welcomizer <= 2.8.1 - Missing Authorization to Authenticated (Subscriber+) Remote Code Execution via 'twiz_custom_logic' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-4327",
+            "titre": "CVE-2026-93992 - Gopeed through 2.0.0-beta.3 Arbitrary File Write via Path Traversal",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93992",
             "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-93741 - Totolink A3002MU formWlWds buffer overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93741",
+            "titre": "CVE-2026-93991 - Argo Workflows 4.1.0 through 4.1.3 Cross-Namespace Disclosure via Negated Selector",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93991",
             "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-92807 - Save as PDF Plugin by PDFCrowd <= 4.6.1 - Authenticated (Contributor+) Arbitrary Function Invocation / Code Injection via 'pdf_created_callback' Shortcode Attribute",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-92807",
+            "titre": "CVE-2026-93990 - Expat through 2.8.4 Malformed UTF-16 Acceptance via Unchecked Surrogate",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93990",
             "date": "19/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-92229 - Forminator Forms <= 1.57.2 - Unauthenticated Arbitrary Shortcode Execution via 'current_url' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-92229",
+            "titre": "CVE-2026-93985 - OpenPanel js-runtime JavaScript Template Sandbox Escape RCE",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93985",
             "date": "19/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-89274 - WP Recipe Maker <= 10.8.1 - Unauthenticated Arbitrary Shortcode Execution via Recipe Comment Content",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-89274",
-            "date": "19/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-84434 - Gravity Forms <= 3.1.0.4 - Unauthenticated Arbitrary File Upload via Hidden File Upload Field",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-84434",
-            "date": "19/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-93923 - SiYuan through 3.8.4 Stored XSS via Heading Style Attribute",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93923",
-            "date": "19/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-93922 - SiYuan through 3.8.4 Stored XSS via notebook names",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93922",
-            "date": "19/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-93740 - Totolink A3002MU formWlEncrypt buffer overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93740",
-            "date": "18/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "BragJack attacks hijack AI browser agents through malicious extensions",
+            "lien": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+            "date": "19/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+            "lien": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+            "date": "19/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+            "lien": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+            "date": "19/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Viral AI actress' hotline face-scans every caller, watches their mood",
+            "lien": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
+            "date": "19/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Gyazo server flaw exploited to steal 23.6 million user records",
             "lien": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
@@ -468,30 +492,6 @@
             "titre": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
             "lien": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
             "date": "18/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "New Check Point flaw lets hackers execute code with root privileges",
-            "lien": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-            "date": "18/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Microsoft fixes broken copy and paste for Excel 2016 users",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-            "date": "18/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "New RatHat Android malware uses AI to automate device control",
-            "lien": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "OpenAI details more cases of AI agents taking unauthorized actions",
-            "lien": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-            "date": "17/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
@@ -627,6 +627,12 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
+            "titre": "Cycloid devient le portail d’accès au cloud souverain de la Commission européenne",
+            "lien": "https://www.channelnews.fr/cycloid-devient-le-portail-dacces-au-cloud-souverain-de-la-commission-europeenne-158943",
+            "date": "18/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Les effectifs taïwanais de Micron réclament une part de son CA stratosphérique",
             "lien": "https://www.channelnews.fr/les-effectifs-taiwanais-de-micron-reclament-une-part-de-son-ca-stratospherique-158937",
             "date": "18/09/2026",
@@ -673,15 +679,15 @@
             "lien": "https://www.channelnews.fr/le-maintien-en-conditions-operationnelles-la-face-cachee-de-la-performance-des-datacenters-158851",
             "date": "17/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Smart Global Governance fait évoluer son identité de marque pour accompagner une nouvelle étape de son développement",
-            "lien": "https://www.channelnews.fr/smart-global-governance-fait-evoluer-son-identite-de-marque-pour-accompagner-une-nouvelle-etape-de-son-developpement-158870",
-            "date": "17/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "next.ink": [
+        {
+            "titre": "Flock : sur écoute",
+            "lien": "https://next.ink/257050/flock-sur-ecoute/",
+            "date": "19/09/2026",
+            "image": "https://next.ink/wp-content/uploads/2026/09/Surecoute_titre.webp"
+        },
         {
             "titre": "« Un vol d’une ampleur sans précédent » : les documents qui fragilisent OpenAI",
             "lien": "https://next.ink/257017/un-vol-dune-ampleur-sans-precedent-les-documents-qui-fragilisent-openai/",
@@ -735,12 +741,6 @@
             "lien": "https://next.ink/256935/meta-ajoute-de-lia-dans-ses-abonnements-payants-avec-meta-one/",
             "date": "18/09/2026",
             "image": "https://next.ink/wp-content/uploads/2026/08/Addiction.webp"
-        },
-        {
-            "titre": "☕️ Google ouvre la porte de sa maison connectée aux agents IA",
-            "lien": "https://next.ink/brief-article/google-ouvre-la-porte-de-sa-maison-connectee-aux-agents-ia/",
-            "date": "18/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
 }
