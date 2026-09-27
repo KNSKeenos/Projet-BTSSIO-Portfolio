@@ -249,6 +249,30 @@
     ],
     "ZDNET": [
         {
+            "titre": "Résistant à l'eau, coussinets interchangeables : le Beats 360 réinvente le casque circum-aural",
+            "lien": "https://www.zdnet.fr/guide-achat/resistant-a-leau-coussinets-interchangeables-le-beats-360-reinvente-le-casque-circum-aural-504403.htm#xtor=RSS-1",
+            "date": "27/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/beats-360.jpg"
+        },
+        {
+            "titre": "Linux pratique : testez ces 5 distributions pour l'IA",
+            "lien": "https://www.zdnet.fr/guide-achat/linux-pratique-testez-ces-5-distributions-pour-lia-503802.htm#xtor=RSS-1",
+            "date": "26/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/linux-adapte-ia-pratique.jpg"
+        },
+        {
+            "titre": "Comment j'ai migré vers mon nouveau PC Windows en quelques minutes, grâce à cette appli gratuite",
+            "lien": "https://www.zdnet.fr/pratique/comment-jai-migre-vers-mon-nouveau-pc-windows-en-quelques-minutes-grace-a-cette-appli-gratuite-504465.htm#xtor=RSS-1",
+            "date": "26/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/pc-windows.jpg"
+        },
+        {
+            "titre": "Avis GoMoWorld 2026 : que vaut vraiment cette eSIM de voyage ? Notre avis complet",
+            "lien": "https://www.zdnet.fr/guide-achat/avis-gomoworld-2026-que-vaut-vraiment-cette-esim-de-voyage-notre-avis-complet-504474.htm#xtor=RSS-1",
+            "date": "26/09/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/gomoworld.jpg"
+        },
+        {
             "titre": "Prise en main Apple Watch Series 12 : une petite introduction dans le tout nouveau Système de suivi de santé",
             "lien": "https://www.zdnet.fr/guide-achat/prise-en-main-apple-watch-series-12-une-petite-introduction-dans-le-tout-nouveau-systeme-de-suivi-de-sante-503785.htm#xtor=RSS-1",
             "date": "26/09/2026",
@@ -283,30 +307,6 @@
             "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/quels-sont-les-meilleurs-smartphones-android-pour-les-pros-en-2026-504536.htm#xtor=RSS-1",
             "date": "25/09/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/selection_expert_2026_zdnet_une.png"
-        },
-        {
-            "titre": "Sébastien Reverdy, président de bconnex : « IT responsable : et si nous changions notre définition de la performance ? »",
-            "lien": "https://www.zdnet.fr/tribune/sebastien-reverdy-president-de-bconnex-it-responsable-et-si-nous-changions-notre-definition-de-la-performance-504435.htm#xtor=RSS-1",
-            "date": "25/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/sebastien-reverdy.jpg"
-        },
-        {
-            "titre": "IONOS Plus : une page métier en ligne sans mobiliser toute l'équipe web",
-            "lien": "https://www.zdnet.fr/publicite/ionos-plus-une-page-metier-en-ligne-sans-mobiliser-toute-lequipe-web-503838.htm#xtor=RSS-1",
-            "date": "25/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/4658.png"
-        },
-        {
-            "titre": "La souris Surface de Microsoft fait son retour, désormais dotée d'un retour haptique… et j'en ai vraiment besoin",
-            "lien": "https://www.zdnet.fr/actualites/la-souris-surface-de-microsoft-fait-son-retour-desormais-dotee-dun-retour-haptique-et-jen-ai-vraiment-besoin-504516.htm#xtor=RSS-1",
-            "date": "25/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/microsoft-surface-mouse.jpg"
-        },
-        {
-            "titre": "Un « kill switch » pour les agents IA : pourquoi Okta et d'autres y croient",
-            "lien": "https://www.zdnet.fr/actualites/un-kill-switch-pour-les-agents-ia-pourquoi-okta-et-dautres-y-croient-504512.htm#xtor=RSS-1",
-            "date": "25/09/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/09/stopswitch-gettyimages-851328230.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,97 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-18143 - Request a Quote for WooCommerce <= 2.9.2 - Unauthenticated Arbitrary File Upload via AJAX Popup Handler",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-18143",
-            "date": "26/09/2026",
+            "titre": "CVE-2026-100741 - Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') in hMailServer",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100741",
+            "date": "27/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-100599 - OpenClaw 2026.5.1 before 2026.7.1 Remote Code Execution via googlemeet.chrome",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100599",
-            "date": "26/09/2026",
+            "titre": "CVE-2026-100865 - Heym before 0.0.53 Multiple RCE and Authentication Bypass Vulnerabilities",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100865",
+            "date": "27/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-100597 - OpenClaw before 2026.7.1 Path Traversal via Filesystem Race",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100597",
-            "date": "26/09/2026",
+            "titre": "CVE-2026-100864 - heym before 0.0.91 Remote Code Execution via Expression Engine",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100864",
+            "date": "27/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-100596 - OpenClaw before 2026.7.1 Authorization Bypass via MCP Configuration",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100596",
-            "date": "26/09/2026",
+            "titre": "CVE-2026-100857 - AzuraCast before 0.23.4 Remote Code Execution via Liquidsoap string interpolation",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100857",
+            "date": "27/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-100589 - OpenClaw before 2026.7.1 Sandbox Bypass via Browser Node",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100589",
-            "date": "26/09/2026",
+            "titre": "CVE-2026-100856 - AzuraCast before 0.23.6 Code Injection via Remote Relay Password",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100856",
+            "date": "27/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-100588 - OpenClaw before 2026.7.1 Authentication Bypass via node.invoke",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100588",
-            "date": "26/09/2026",
+            "titre": "CVE-2026-100853 - AzuraCast before 0.23.8 On-Demand Download Endpoint Authorization Bypass",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100853",
+            "date": "27/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-100587 - OpenClaw before 2026.7.1 Authorization Bypass via Codex Install",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100587",
-            "date": "26/09/2026",
+            "titre": "CVE-2026-100852 - AzuraCast through 0.23.x Command Injection via Streamer Username",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100852",
+            "date": "27/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-100586 - OpenClaw Codex before 2026.7.1 Authorization Bypass via Bind",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100586",
-            "date": "26/09/2026",
+            "titre": "CVE-2026-100847 - AzuraCast before 0.23.8 DQL Injection via sortOrder",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100847",
+            "date": "27/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-100585 - OpenClaw before 2026.7.1 Authentication Bypass via MCP Channel",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100585",
-            "date": "26/09/2026",
+            "titre": "CVE-2026-100846 - MONAI before 1.5.2 Remote Code Execution via Pickle Deserialization",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100846",
+            "date": "27/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-100580 - OpenClaw before 2026.7.1 Remote Code Execution via cron tool",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100580",
-            "date": "26/09/2026",
+            "titre": "CVE-2026-100845 - MONAI before 1.6.0 Remote Code Execution via NumpyReader",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-100845",
+            "date": "27/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+            "lien": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+            "date": "26/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+            "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+            "date": "26/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Microsoft pauses KB5002907 update after Office license deactivations",
+            "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+            "date": "26/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+            "lien": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+            "date": "26/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+            "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+            "date": "26/09/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
             "lien": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
@@ -461,36 +491,6 @@
         {
             "titre": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
             "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-            "date": "25/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-            "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-            "date": "25/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-            "lien": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-            "date": "25/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Microsoft plans to deprecate Windows Deployment Services",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-            "date": "25/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-            "lien": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-            "date": "25/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Microsoft: Recent Windows updates cause desktop loading issues",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
             "date": "25/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
@@ -683,10 +683,16 @@
     ],
     "next.ink": [
         {
-            "titre": "Concours Next : encore deux jours pour participer et gagner des cadeaux !",
+            "titre": "Concours Next : dernier jour pour participer et gagner des cadeaux !",
             "lien": "https://next.ink/256504/flockerie-et-jeux-dete-envie-de-gagner-des-cadeaux-participez-a-notre-concours/",
-            "date": "25/09/2026",
+            "date": "27/09/2026",
             "image": "https://next.ink/wp-content/uploads/2026/09/Flockeries.webp"
+        },
+        {
+            "titre": "Flock : ablitération",
+            "lien": "https://next.ink/258484/flock-abliteration/",
+            "date": "26/09/2026",
+            "image": "https://next.ink/wp-content/uploads/2026/09/Abliteration.webp.webp"
         },
         {
             "titre": "Microsoft fusionne ses applications Copilot en une seule « app à tout faire »",
@@ -733,12 +739,6 @@
         {
             "titre": "☕️ Le gestionnaire de tâches TMOG s’élance sur Windows et Linux",
             "lien": "https://next.ink/brief-article/le-gestionnaire-de-taches-tmog-selance-sur-windows-et-linux/",
-            "date": "25/09/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "☕️ Ubuntu 26.10 : du retard pour la bêta et un « snapping » à la Windows 11",
-            "lien": "https://next.ink/brief-article/ubuntu-26-10-du-retard-pour-la-beta-et-un-snapping-a-la-windows-11/",
             "date": "25/09/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
