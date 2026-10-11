@@ -63,6 +63,24 @@
     ],
     "Journal du Hacker": [
         {
+            "titre": "Carbure : une application de gestion de budget gratuite, open source et auto-hébergée",
+            "lien": "https://www.geeek.org/carbure-gestion-budget-open-source/",
+            "date": "10/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Craquer un mot de passe avec John The Ripper",
+            "lien": "https://jurojin.net/craquer-un-mot-de-passe-avec-john-the-ripper/",
+            "date": "10/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Hugo : publier ses pages avec la forge Codeberg Pages",
+            "lien": "https://it-log.fr.eu.org/fr/web/hugo/hugo_codeberg_pages/",
+            "date": "10/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Veille #77 - 22 actus qu’il ne fallait pas rater cette semaine",
             "lien": "https://www.camilleroux.com/crafting-apps-claude-haiku-mistral-large-veille-77/",
             "date": "09/10/2026",
@@ -101,24 +119,6 @@
         {
             "titre": "Markdown est partout, et ça a commencé par un README",
             "lien": "https://jatniel.dev/fr/bytes/markdown-est-partout-et-ca-a-commence-par-un-readme",
-            "date": "06/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Codex, llama.cpp, Qwen3.8 : erreur 500 System message must be at the beginning",
-            "lien": "https://www.linuxtricks.fr/news/10-logiciels-libres/609-codex-llama-cpp-qwen3-8-erreur-500-system-message-must-be-at-the-beginning/",
-            "date": "06/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Où il sera question de Cover Thumbnailer et de dark patterns téléphoniques",
-            "lien": "https://blog.flozz.fr/2026/10/06/journal-de-bord-9-ou-il-sera-question-de-cover-thumbnailer-et-de-dark-patterns-telephoniques/",
-            "date": "06/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Lever l'anonymat en ligne : la fausse bonne idée",
-            "lien": "https://eventuallycoding.com/p/anonymat-sur-internet",
             "date": "06/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
@@ -249,6 +249,24 @@
     ],
     "ZDNET": [
         {
+            "titre": "Ray-Ban Meta Gen 3 ou Audio ? Comment je fais mon choix face à ce sentiment de « malaise » qui ne cesse de grandir",
+            "lien": "https://www.zdnet.fr/pratique/ray-ban-meta-gen-3-ou-audio-comment-je-fais-mon-choix-face-a-ce-sentiment-de-malaise-qui-ne-cesse-de-grandir-505520.htm#xtor=RSS-1",
+            "date": "11/10/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/dsc00926-scaled.webp"
+        },
+        {
+            "titre": "HDMI sans fil ou filaire : ce qu'il faut savoir pour configurer votre téléviseur",
+            "lien": "https://www.zdnet.fr/guide-achat/hdmi-filaire-ou-sans-fil-les-elements-a-prendre-en-compte-pour-linstallation-de-votre-televiseur-505412.htm#xtor=RSS-1",
+            "date": "11/10/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/hdmi.jpg"
+        },
+        {
+            "titre": "Test de l'Apple Mac Mini M5 Pro : une puissance impressionnante, pour les utilisateurs qui en ont besoin",
+            "lien": "https://www.zdnet.fr/guide-achat/test-de-lapple-mac-mini-m5-pro-une-puissance-impressionnante-pour-les-utilisateurs-qui-en-ont-besoin-505367.htm#xtor=RSS-1",
+            "date": "10/10/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/mac-mini-m5-pro.jpg"
+        },
+        {
             "titre": "5 améliorations cachées d'iOS 27 qui font toute la différence – et pourquoi je les adore",
             "lien": "https://www.zdnet.fr/pratique/5-ameliorations-cachees-dios-27-qui-font-toute-la-difference-et-pourquoi-je-les-adore-505514.htm#xtor=RSS-1",
             "date": "10/10/2026",
@@ -289,24 +307,6 @@
             "lien": "https://www.zdnet.fr/guide-achat/test-tdm-neo-le-casque-et-enceinte-2-en-1-merite-t-il-son-buzz-505396.htm#xtor=RSS-1",
             "date": "09/10/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/tdm.-neo-test.jpg"
-        },
-        {
-            "titre": "Comment les autorités s'efforcent de lutter contre le risque d'être licencié par l'IA aux Etat-Unis",
-            "lien": "https://www.zdnet.fr/actualites/comment-les-autorites-sefforcent-de-lutter-contre-le-risque-detre-licencie-par-lia-aux-etat-unis-505500.htm#xtor=RSS-1",
-            "date": "09/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/gettyimages-2160633261-scaled.webp"
-        },
-        {
-            "titre": "Quels sont les meilleurs smartphones haut de gamme pour les pros en 2026 ?",
-            "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/quels-sont-les-meilleurs-smartphones-haut-de-gamme-pour-les-pros-en-2026-505497.htm#xtor=RSS-1",
-            "date": "09/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/selection_expert_2026_zdnet_une.png"
-        },
-        {
-            "titre": "« Le modèle économique ne tient pas la route », affirme un ancien d'IBM : l'IA peut-elle soigner les problèmes des systèmes informatiques hérités ?",
-            "lien": "https://www.zdnet.fr/actualites/lia-peut-elle-soigner-les-problemes-des-systemes-informatiques-herites-le-modele-economique-ne-tient-pas-la-route-affirme-un-ancien-dibm-505491.htm#xtor=RSS-1",
-            "date": "09/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/gettyimages-2258315764.webp"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,85 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-93945 - WordPress Balance theme <= 1.12.0 - PHP Object Injection vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93945",
+            "titre": "CVE-2026-108540 - OpenSpug File Transfer transfer os command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-108540",
+            "date": "11/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-108522 - Studio-Saelix Sencho Login Endpoint login improper authentication",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-108522",
+            "date": "11/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-108708 - Wukong_HRM through commit 186115e Missing Authorization via EmployeeAspect and EmployeeUtil",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-108708",
+            "date": "11/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-108707 - Wukong_HRM through commit 186115e Authentication Bypass via ParamAspect",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-108707",
+            "date": "11/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-108657 - JeecgBoot through 3.9.5 Missing Authorization via /sys/tenant/passApply",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-108657",
             "date": "10/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-93944 - WordPress Camelia theme <= 1.2.15 - PHP Object Injection vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93944",
+            "titre": "CVE-2026-108628 - JeecgBoot through 3.9.5 Missing Authorization via saveDeptRolePermission Endpoint",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-108628",
             "date": "10/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-93943 - WordPress Convex theme <= 1.16.0 - PHP Object Injection vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93943",
+            "titre": "CVE-2026-81797 - WordPress Buzz Stone | Magazine & Viral Blog WordPress Theme theme <= 1.0.2 - PHP Object Injection vulnerability",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-81797",
             "date": "10/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-93942 - WordPress Dwell theme <= 1.16.0 - PHP Object Injection vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93942",
+            "titre": "CVE-2026-78535 - WordPress Photolia theme <= 1.0.3 - PHP Object Injection vulnerability",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78535",
             "date": "10/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-93941 - WordPress Edema theme <= 1.2.2.2 - PHP Object Injection vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93941",
+            "titre": "CVE-2026-78533 - WordPress Qwery theme <= 3.6.1 - PHP Object Injection vulnerability",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78533",
             "date": "10/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-93940 - WordPress Greeny theme <= 2.10.0 - PHP Object Injection vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93940",
-            "date": "10/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-93938 - WordPress Hogwords theme <= 1.2.7 - PHP Object Injection vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93938",
-            "date": "10/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-93937 - WordPress Hygia theme <= 1.21.0 - PHP Object Injection vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93937",
-            "date": "10/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-93936 - WordPress IPharm theme <= 1.2.4 - PHP Object Injection vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93936",
-            "date": "10/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-93935 - WordPress Let's Play theme <= 1.1.15 - PHP Object Injection vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-93935",
+            "titre": "CVE-2026-78531 - WordPress Jacqueline theme <= 2.22 - PHP Object Injection vulnerability",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78531",
             "date": "10/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+            "lien": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+            "date": "10/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+            "lien": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+            "date": "10/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+            "lien": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+            "date": "10/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
             "lien": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
@@ -473,24 +491,6 @@
         {
             "titre": "Man admits to running network of 15,000 money mules for cybercriminals",
             "lien": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-            "date": "09/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Microsoft: Outdated Windows devices will stop receiving security updates",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-            "date": "09/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-            "lien": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-            "date": "09/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-            "lien": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
             "date": "09/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
@@ -683,6 +683,12 @@
     ],
     "next.ink": [
         {
+            "titre": "Flock : Super Intelligence",
+            "lien": "https://next.ink/260975/flock-super-intelligence/",
+            "date": "10/10/2026",
+            "image": "https://next.ink/wp-content/uploads/2026/10/Bd-super-intelligence-titre.webp"
+        },
+        {
             "titre": "Le marché des PC dégringole de 20 % au troisième trimestre sur un an",
             "lien": "https://next.ink/260944/le-marche-des-pc-degringole-de-20-au-troisieme-trimestre-sur-un-an/",
             "date": "09/10/2026",
@@ -735,12 +741,6 @@
             "lien": "https://next.ink/260803/le-telephone-au-volant-peut-desormais-entrainer-une-suspension-du-permis-de-conduire/",
             "date": "09/10/2026",
             "image": "https://next.ink/wp-content/uploads/2024/12/image-12.png"
-        },
-        {
-            "titre": "Chiffrement : le projet de loi C-22 du Canada sous un feu nourri de critiques",
-            "lien": "https://next.ink/260790/chiffrement-le-projet-de-loi-c-22-du-canada-sous-un-feu-nourri-de-critiques/",
-            "date": "09/10/2026",
-            "image": "https://next.ink/wp-content/uploads/2025/07/Cadenas-ouvert2.webp"
         }
     ]
 }
