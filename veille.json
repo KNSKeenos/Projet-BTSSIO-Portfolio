@@ -125,6 +125,12 @@
     ],
     "Korben": [
         {
+            "titre": "Test du SSD NVMe 1 To Fanxiang dans mon NAS",
+            "lien": "https://korben.info/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "17/10/2026",
+            "image": "https://korben.info/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas-1.jpg"
+        },
+        {
             "titre": "HUB 404 - Le grand retour d'Hacking Social",
             "lien": "https://korben.info/hacking-social-hub404.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "16/10/2026",
@@ -177,12 +183,6 @@
             "lien": "https://korben.info/rea-reverse-engineering-agent-ia-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "14/10/2026",
             "image": "https://korben.info/rea-reverse-engineering-agent-ia-test/rea-reverse-engineering-agent-ia-test-1.png"
-        },
-        {
-            "titre": "Ported2Browser - +200 jeux dans le navigateur",
-            "lien": "https://korben.info/ported2browser.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "14/10/2026",
-            "image": "https://korben.info/ported2browser/ported2browser-1.jpg"
         }
     ],
     "CERT-FR": [
@@ -249,6 +249,24 @@
     ],
     "ZDNET": [
         {
+            "titre": "Apple Watch Ultra 4 ou Garmin Fenix 9 Pro : laquelle choisir pour l’aventure ?",
+            "lien": "https://www.zdnet.fr/guide-achat/apple-watch-ultra-4-ou-garmin-fenix-9-pro-laquelle-choisir-pour-laventure-505930.htm#xtor=RSS-1",
+            "date": "18/10/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/apple-watch-ultra-4-vs.-garmin-fenix-9-pro.jpg"
+        },
+        {
+            "titre": "Test des Ray-Ban Meta Audio : plus légères, plus endurantes, moins « creepy »",
+            "lien": "https://www.zdnet.fr/guide-achat/test-des-ray-ban-meta-audio-plus-legeres-plus-endurantes-moins-creepy-505859.htm#xtor=RSS-1",
+            "date": "17/10/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/ray-ban-meta-audio.jpg"
+        },
+        {
+            "titre": "J'ai essayé le clone gratuit de Microsoft Word,  et c'est désormais mon logiciel par défaut",
+            "lien": "https://www.zdnet.fr/pratique/jai-essaye-le-clone-gratuit-de-microsoft-word-et-cest-desormais-mon-logiciel-par-defaut-506000.htm#xtor=RSS-1",
+            "date": "17/10/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/weordcrafthero.jpg"
+        },
+        {
             "titre": "Comment améliorer la réduction de bruit de vos écouteurs : mes 3 astuces préférées",
             "lien": "https://www.zdnet.fr/pratique/comment-ameliorer-la-reduction-de-bruit-de-vos-ecouteurs-mes-3-astuces-preferees-505846.htm#xtor=RSS-1",
             "date": "17/10/2026",
@@ -289,24 +307,6 @@
             "lien": "https://www.zdnet.fr/actualites/risque-de-dispersion-et-de-decrochage-pour-lia-dans-la-culture-505962.htm#xtor=RSS-1",
             "date": "16/10/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/01/ia-et-regulations-entreprise.jpg"
-        },
-        {
-            "titre": "Prix multipliés par 30, clients captifs : la fronde s'organise contre l'éditeur PC Soft",
-            "lien": "https://www.zdnet.fr/actualites/prix-multiplies-par-30-clients-captifs-la-fronde-sorganise-contre-lediteur-pc-soft-505955.htm#xtor=RSS-1",
-            "date": "16/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/Justice20informatique-1.jpg"
-        },
-        {
-            "titre": "Nvidia lance Nemotron 3.5 Super VL, son modèle IA ouvert ultra-rapide",
-            "lien": "https://www.zdnet.fr/actualites/nvidia-lance-nemotron-3-5-super-vl-son-modele-ia-ouvert-ultra-rapide-505951.htm#xtor=RSS-1",
-            "date": "16/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/nemotron-3.5-super-vl-image-scaled.webp"
-        },
-        {
-            "titre": "ZDNET Morning 16/10/2026 : Orange monétise l'accès prioritaire à sa 5G, Les 5 priorités stratégiques IA des DAF, MAI-Base-2 : le nouveau géant de Microsoft,...",
-            "lien": "https://www.zdnet.fr/actualites/zdnet-morning-16-10-2026-orange-monetise-lacces-prioritaire-a-sa-5g-les-5-priorites-strategiques-ia-des-daf-mai-base-2-le-nouveau-geant-de-microsoft-505948.htm#xtor=RSS-1",
-            "date": "16/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/10/zdnet_1280.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,79 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-92798 - User Registration & Membership <= 5.2.8 - Authenticated (Subscriber+) Arbitrary Shortcode Execution via Referer Header via 'referrer_url' Smart Tag",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-92798",
+            "titre": "CVE-2026-111927 - Coder before 2.35.4 Credential Theft via Workspace Proxy Hostname Prefix Match",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111927",
             "date": "17/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-104736 - LearnPress <= 4.4.10 - Unauthenticated PHP Object Injection via 'checkout-email' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-104736",
+            "titre": "CVE-2026-111924 - Fleet before 4.83.0 Denial of Service via Unbounded Gzip Decompression",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111924",
             "date": "17/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-110653 - Appointment Booking Plugin <= 5.7.4 - Unauthenticated Authentication Bypass via Race Condition on OTP Attempts Counter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-110653",
+            "titre": "CVE-2026-111923 - Fleet before 4.89.0 Unauthenticated DoS via Apple MDM Enrollment Plist Parsing",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111923",
             "date": "17/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-111854 - Tektronix 3 Series MDO Path Traversal Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111854",
+            "titre": "CVE-2026-111911 - phpMyFAQ 4.0.0 before 4.1.9 Authentication Bypass via WebAuthn Credential Injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111911",
             "date": "17/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-111853 - Tektronix 3 Series MDO OS Command Injection Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111853",
+            "titre": "CVE-2026-111909 - phpMyFAQ before 4.1.9 Missing Authorization Allows Superadmin Deletion via deleteUser API",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111909",
             "date": "17/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-111823 - Mage OSS OAuth Authentication Bypass Vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111823",
+            "titre": "CVE-2026-111908 - phpMyFAQ 4.0.0 before 4.1.9 and 4.2.0-alpha before 4.2.0-beta BOLA in FAQ Update via REST API",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111908",
             "date": "17/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-96627 - Arcane: Delegated users:update permission allows admin account takeover via password reset (no privilege-hierarchy check)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-96627",
-            "date": "16/10/2026",
+            "titre": "CVE-2026-111901 - phpMyFAQ 4.2.0-alpha before 4.2.0-beta Unauthenticated DoS via API Pagination",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111901",
+            "date": "17/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-96626 - Arcane: Container-registry credential exfiltration via URL repoint + test to attacker host",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-96626",
-            "date": "16/10/2026",
+            "titre": "CVE-2026-111893 - phpMyFAQ 4.2.0-alpha before 4.2.0-beta Privilege Escalation via Group Category Restrictions API",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111893",
+            "date": "17/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-49410 - OpenHuman /auth/telegram CSRF allows attacker-controlled session implantation",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-49410",
-            "date": "16/10/2026",
+            "titre": "CVE-2026-111884 - phpMyFAQ before 4.1.9 and 4.2.0-alpha before 4.2.0-beta Missing Current-Password Step-Up on E-mail Change Enables Account Takeover",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111884",
+            "date": "17/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-96620 - Claude Agent SDK: Argument Injection via resume Option Allows Arbitrary Command Execution",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-96620",
-            "date": "16/10/2026",
+            "titre": "CVE-2026-111882 - phpMyFAQ 3.2.0-alpha before 4.1.9 and 4.2.0-alpha before 4.2.0-beta TOTP 2FA Bypass via SSO Callbacks",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-111882",
+            "date": "17/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+            "lien": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+            "date": "17/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+            "lien": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+            "date": "17/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Critical BlockStrap flaw lets hackers run code on Magento servers",
             "lien": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
@@ -479,18 +491,6 @@
         {
             "titre": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
             "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-            "date": "15/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Android gets AI defenses against messaging scams, fake calls",
-            "lien": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-            "date": "15/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-            "lien": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
             "date": "15/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
@@ -683,6 +683,12 @@
     ],
     "next.ink": [
         {
+            "titre": "Flock con fondu, flocon foutu",
+            "lien": "https://next.ink/262471/flock-givres/",
+            "date": "17/10/2026",
+            "image": "https://next.ink/wp-content/uploads/2026/10/Bd-givre-titre.webp"
+        },
+        {
             "titre": "☕️ Apple et NVIDIA ouvrent grand le chéquier pour la salle de bal de Donald Trump",
             "lien": "https://next.ink/brief-article/apple-et-nvidia-ouvrent-grand-le-chequier-pour-la-salle-de-bal-de-donald-trump/",
             "date": "16/10/2026",
@@ -735,12 +741,6 @@
             "lien": "https://next.ink/260026/vps-a-moins-de-5-e-par-mois-notre-comparatif-dune-dizaine-doffres-europeennes/",
             "date": "16/10/2026",
             "image": "https://next.ink/wp-content/uploads/2026/02/Vps-yorkhost.webp"
-        },
-        {
-            "titre": "Pour le patron des caméras Flock, la vie privée passe après la sécurité",
-            "lien": "https://next.ink/262147/pour-le-patron-des-cameras-flock-la-vie-privee-passe-apres-la-securite/",
-            "date": "16/10/2026",
-            "image": "https://next.ink/wp-content/uploads/2026/09/Camera-flock.webp"
         }
     ]
 }
