@@ -63,6 +63,12 @@
     ],
     "Journal du Hacker": [
         {
+            "titre": "Vos conteneurs Docker sont-ils vraiment à jour ?",
+            "lien": "https://badraxas.com/vos-conteneurs-docker-sont-ils-vraiment-a-jour/",
+            "date": "23/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Veille #79 - 34 actus qu’il ne fallait pas rater cette semaine",
             "lien": "https://www.camilleroux.com/stripe-openrouter-xtool-anti-slop-veille-79/",
             "date": "23/10/2026",
@@ -113,12 +119,6 @@
         {
             "titre": "Linux Essentials : la version 2.0 est en ligne",
             "lien": "https://www.microlinux.fr/blog/linux-essentials-v2/",
-            "date": "21/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "L'État pitoyable de l'informatique en 2026",
-            "lien": "https://richarddern.pages-perso.free.fr/informatique/blog/2026/10/21/l-etat-pitoyable-de-l-informatique-en-2026/",
             "date": "21/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
@@ -249,6 +249,18 @@
     ],
     "ZDNET": [
         {
+            "titre": "HDMI, DisplayPort, Thunderbolt : quelle connexion choisir pour vos écrans ?",
+            "lien": "https://www.zdnet.fr/pratique/hdmi-displayport-thunderbolt-quelle-connexion-choisir-pour-vos-ecrans-506295.htm#xtor=RSS-1",
+            "date": "25/10/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/hdmi-1.jpg"
+        },
+        {
+            "titre": "Défragmenter son disque : pourquoi ce réflexe d’hier est (presque) devenu inutile",
+            "lien": "https://www.zdnet.fr/pratique/defragmenter-son-disque-pourquoi-ce-reflexe-dhier-est-presque-devenu-inutile-506287.htm#xtor=RSS-1",
+            "date": "24/10/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/disque-dur.jpg"
+        },
+        {
             "titre": "Comment chiffrer vos courriels dans Gmail, Outlook et ailleurs : 6 étapes simples",
             "lien": "https://www.zdnet.fr/pratique/comment-chiffrer-vos-courriels-dans-gmail-outlook-et-ailleurs-6-etapes-simples-506271.htm#xtor=RSS-1",
             "date": "24/10/2026",
@@ -295,18 +307,6 @@
             "lien": "https://www.zdnet.fr/actualites/deforestation-google-deepmind-publie-une-carte-pour-distinguer-forets-naturelles-et-plantations-506362.htm#xtor=RSS-1",
             "date": "23/10/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/google-deepmind-forty-2020.jpg"
-        },
-        {
-            "titre": "ZD Tech : Achats en ligne : la croissance de l'e-commerce européen va-t-elle vous toucher ?",
-            "lien": "https://www.zdnet.fr/actualites/zd-tech-achats-en-ligne-la-croissance-de-le-commerce-europeen-va-t-elle-vous-toucher-506161.htm#xtor=RSS-1",
-            "date": "23/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/09/zdnet-podcast-bo.jpg"
-        },
-        {
-            "titre": "Santé : Microsoft fait collaborer des agents d’IA comme une équipe de médecins pour diagnostiquer",
-            "lien": "https://www.zdnet.fr/actualites/sante-microsoft-fait-collaborer-des-agents-dia-comme-une-equipe-de-medecins-pour-diagnostiquer-506360.htm#xtor=RSS-1",
-            "date": "23/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/01/ia-sante.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,73 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-115806 - Prime Mover <= 2.2.1 - Unauthenticated PHP Object Injection via Base64-Encoded Comment during Migration Search-and-Replace",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115806",
+            "titre": "CVE-2026-115995 - Unitree Robotics Unitree Go2 chat_go gpt_thread.py set_volume os command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115995",
             "date": "24/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-115931 - Arbitrary file read and backend crash through unrestricted provider method calls",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115931",
-            "date": "23/10/2026",
+            "titre": "CVE-2026-114820 - Vulnerability in the Oracle Java SE, Oracle GraalV",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-114820",
+            "date": "24/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-115938 - Low privilege condition filter escapes Twig sandbox, recovers \"securityKey\" and reaches RCE",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115938",
-            "date": "23/10/2026",
+            "titre": "CVE-2026-115933 - Forged signed tokens let any registered user take over other users and organizations",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115933",
+            "date": "24/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-115937 - Unauthenticated payment reuse allows unpaid orders to be marked as paid",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115937",
-            "date": "23/10/2026",
+            "titre": "CVE-2026-115557 - Distrust compromised intermediate certificates in ssl module",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115557",
+            "date": "24/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-115935 - Control panel only API response emulation replaces \"securityKey\" and reaches server RCE",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115935",
-            "date": "23/10/2026",
+            "titre": "CVE-2026-115932 - Path traversal in post media lets any registered user read server files",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115932",
+            "date": "24/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-115895 - Happy DOM: Incomplete fix for CVE-2026-33943: unsanitized import alias leads to host code execution",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115895",
-            "date": "23/10/2026",
+            "titre": "CVE-2026-116019 - Grav 2.0.15 before 2.2.13 Allowlist Bypass via Flex Form Override Directives",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-116019",
+            "date": "24/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-115893 - Wasmtime: Cranelift backend on aarch64 can jump to incorrect target on large Wasm `br_table` instruction",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115893",
-            "date": "23/10/2026",
+            "titre": "CVE-2026-116014 - open62541 1.5.0 before 1.5.7 Integer Overflow Heap Buffer Overflow via Custom DataType",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-116014",
+            "date": "24/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-115889 - Wasmtime: Bit-packing in Cranelift compiler causes silent overflow and miscompilation",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115889",
-            "date": "23/10/2026",
+            "titre": "CVE-2026-116011 - Crow before 1.3.4 Denial of Service via Deeply Nested JSON in crow::json::load()",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-116011",
+            "date": "24/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-58202 - OpenReception: Confirmation-email links built from the request Host enable pending-account takeover via `POST /api/auth/resend-confirmation`",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-58202",
-            "date": "23/10/2026",
+            "titre": "CVE-2026-116009 - Camaleon CMS before 2.9.3 Path Traversal RCE via Media crop_url Action",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-116009",
+            "date": "24/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-115775 - Twisted: Unauthenticated Remote Denial of Service in the Twisted words domish XML Element Stream via an Unbounded Element Tree",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115775",
-            "date": "23/10/2026",
+            "titre": "CVE-2026-110018 - aBlocks <= 2.17.0 - Authenticated (Contributor+) Privilege Escalation to 'roleSlug' Block Attribute",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-110018",
+            "date": "24/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+            "lien": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+            "date": "24/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
             "lien": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
@@ -485,12 +491,6 @@
         {
             "titre": "Capcom confirms data breach affecting 11.7 million accounts",
             "lien": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-            "date": "22/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-            "lien": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
             "date": "22/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
@@ -683,6 +683,12 @@
     ],
     "next.ink": [
         {
+            "titre": "Flock : the finish down nation",
+            "lien": "https://next.ink/263621/flock-the-finish-down-nation/",
+            "date": "24/10/2026",
+            "image": "https://next.ink/wp-content/uploads/2026/10/Finish-down-nation-titre.webp"
+        },
+        {
             "titre": "☕️ Le jeu vidéo français dans le rouge : Arkane et Don’t Nod en péril",
             "lien": "https://next.ink/brief-article/le-jeu-video-francais-dans-le-rouge-arkane-et-dont-nod-en-peril/",
             "date": "23/10/2026",
@@ -735,12 +741,6 @@
             "lien": "https://next.ink/brief-article/keepass-xc-2-8-va-proposer-le-remplissage-automatique-sur-les-sessions-wayland/",
             "date": "23/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Six failles dans le noyau Linux publiées « accidentellement » sur une liste publique",
-            "lien": "https://next.ink/263553/six-failles-dans-le-noyau-linux-publiees-accidentellement-sur-une-liste-publique/",
-            "date": "23/10/2026",
-            "image": "https://next.ink/wp-content/uploads/2024/10/Manchot.webp"
         }
     ]
 }
