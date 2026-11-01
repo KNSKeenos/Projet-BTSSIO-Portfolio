@@ -135,12 +135,6 @@
             "lien": "https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "22/10/2026",
             "image": "https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w/test-du-chargeur-ugreen-nexode-pro-300w-1.jpg"
-        },
-        {
-            "titre": "Votre VPN est-il prêt pour les menaces futures ? #sponso",
-            "lien": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "22/10/2026",
-            "image": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures/votre-vpn-est-il-pret-pour-les-menaces-futures-1.webp"
         }
     ],
     "CERT-FR": [
@@ -207,6 +201,42 @@
     ],
     "ZDNET": [
         {
+            "titre": "Comment utiliser deux PC sur un seul écran, quelle que soit la marque de vos appareils",
+            "lien": "https://www.zdnet.fr/pratique/comment-utiliser-deux-pc-sur-un-seul-ecran-quelle-que-soit-la-marque-de-vos-appareils-507022.htm#xtor=RSS-1",
+            "date": "01/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/mg_0461.webp"
+        },
+        {
+            "titre": "9 applications Windows gratuites dont je ne peux plus me passer au quotidien ni au travail",
+            "lien": "https://www.zdnet.fr/pratique/9-applications-windows-gratuites-dont-je-ne-peux-plus-me-passer-au-quotidien-ni-au-travail-506761.htm#xtor=RSS-1",
+            "date": "01/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/windows_applications.jpg"
+        },
+        {
+            "titre": "Libre et open source express: apocalypse de vulnérabilité, entreprises européennes, sortir des Gafam, boycott d’Omarchy",
+            "lien": "https://www.zdnet.fr/blogs/l-esprit-libre/libre-et-open-source-express-apocalypse-de-vulnerabilite-entreprises-europeennes-sortir-des-gafam-boycott-domarchy-507056.htm#xtor=RSS-1",
+            "date": "01/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/05/open-source_panneau.jpg"
+        },
+        {
+            "titre": "Le coût du SaaS explose! Bon et alors, on fait quoi ?",
+            "lien": "https://www.zdnet.fr/blogs/green-si/le-cout-du-saas-explose-bon-alors-on-fait-quoi-507036.htm#xtor=RSS-1",
+            "date": "31/10/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/cout-du-saas.jpg"
+        },
+        {
+            "titre": "Le Framework 12 est le PC idéal pour les passionnés de bricolage, et un vrai bonheur pour les utilisateurs de Linux",
+            "lien": "https://www.zdnet.fr/guide-achat/le-framework-12-est-le-pc-ideal-pour-les-passionnes-de-bricolage-et-un-vrai-bonheur-pour-les-utilisateurs-de-linux-507018.htm#xtor=RSS-1",
+            "date": "31/10/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/frameworkhero.webp"
+        },
+        {
+            "titre": "Le nouveau MX Keypad de Logitech est un bon assistant, à condition d’y consacrer du temps",
+            "lien": "https://www.zdnet.fr/guide-achat/le-nouveau-mx-keypad-de-logitech-est-un-bon-assistant-a-condition-dy-consacrer-du-temps-506753.htm#xtor=RSS-1",
+            "date": "31/10/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/logitech-mx-keypad.jpg"
+        },
+        {
             "titre": "Je porte des lunettes XR tous les jours pour aller au travail, pourquoi le dernier modèle de Xreal est mon choix numéro 1",
             "lien": "https://www.zdnet.fr/guide-achat/je-porte-des-lunettes-xr-tous-les-jours-pour-aller-au-travail-pourquoi-le-dernier-modele-de-xreal-est-mon-choix-numero-1-507015.htm#xtor=RSS-1",
             "date": "31/10/2026",
@@ -229,42 +259,6 @@
             "lien": "https://www.zdnet.fr/guide-achat/test-apple-iphone-duo-une-oeuvre-dart-en-cours-de-construction-506876.htm#xtor=RSS-1",
             "date": "30/10/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/apple-iphone-duo-test-scaled.jpeg"
-        },
-        {
-            "titre": "Bruno Buffenoir, KIPMI Digital Trust Continuity : Le « wallet augmenté » : le futur du KYC",
-            "lien": "https://www.zdnet.fr/tribune/bruno-buffenoir-directeur-general-kipmi-digital-trust-continuity-le-wallet-augmente-le-futur-du-kyc-506715.htm#xtor=RSS-1",
-            "date": "30/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/par-bruno-buffenoir.jpg"
-        },
-        {
-            "titre": "Quel est le meilleur smartphone avec prise casque mini-jack 3,5 mm pour les pros en 2026 ?",
-            "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/quel-est-le-meilleur-smartphone-avec-prise-casque-mini-jack-35-mm-pour-les-pros-en-2026-507011.htm#xtor=RSS-1",
-            "date": "30/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/selection_expert_2026_zdnet_une.png"
-        },
-        {
-            "titre": "Traceurs sur applications mobiles : la CNIL inflige 7 millions d'euros d'amende à Fnac Darty",
-            "lien": "https://www.zdnet.fr/actualites/traceurs-sur-applications-mobiles-la-cnil-inflige-7-millions-deuros-damende-a-fnac-darty-506924.htm#xtor=RSS-1",
-            "date": "30/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/gettyimages-926956182.jpg"
-        },
-        {
-            "titre": "L'assurtech Alan remporte le contrat santé de la Sécurité sociale pour 3 milliards d'euros",
-            "lien": "https://www.zdnet.fr/actualites/lassurtech-alan-remporte-le-contrat-sante-de-la-securite-sociale-pour-3-milliards-deuros-506922.htm#xtor=RSS-1",
-            "date": "30/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/04/data-professionels-discution-entreprise.webp"
-        },
-        {
-            "titre": "Piratage de la DGFiP : arrestation d'un second hacker",
-            "lien": "https://www.zdnet.fr/actualites/piratage-de-la-dgfip-arrestation-dun-second-hacker-506920.htm#xtor=RSS-1",
-            "date": "30/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/piratage20smartphone.jpg"
-        },
-        {
-            "titre": "Méfiez-vous des « sniffers » Bluetooth : comment vos gadgets préférés pourraient exposer vos données",
-            "lien": "https://www.zdnet.fr/actualites/mefiez-vous-des-sniffers-bluetooth-comment-vos-gadgets-preferes-pourraient-exposer-vos-donnees-506914.htm#xtor=RSS-1",
-            "date": "30/10/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/d0f1e60e-c985-49d0-8ed2-6b961dcd7db1.webp"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -331,67 +325,97 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-76010 - Photo Gallery, Sliders, Proofing and Themes – NextGEN Gallery <= 4.4.1 - Authenticated (Custom+) Remote Code Execution via XML-RPC 'meta_data' Mass Assignment and Path Traversal",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-76010",
+            "titre": "CVE-2026-120198 - WAVLINK WL-WN530BE1-A protocol.csp con_check_read_finish command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-120198",
+            "date": "01/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-120197 - WAVLINK WL-WN530HG4B wapi.cgi port_forward os command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-120197",
+            "date": "01/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-120196 - WAVLINK WN579X3-D wapi.cgi port_forward os command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-120196",
+            "date": "01/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-120195 - WAVLINK WL-WN579A3-A Initial Setup Wizard adm.cgi set_wzdgwMesh os command injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-120195",
+            "date": "01/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-120189 - D-Link DIR-505 TFTP Upload Filename tftpd mp_upload_file stack-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-120189",
+            "date": "01/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-120135 - Apache Thrift: Java TProtocolUtil.skip() does not limit the recursion depth by default",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-120135",
             "date": "31/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-118235 - SimpleForm <= 3.10.2 - Unauthenticated Arbitrary File Upload via Trailing-Dot Filename via Unknown File Key in simpleform_get_submit_data",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-118235",
+            "titre": "CVE-2026-118636 - Apache MINA: Unsafe Deserialization (CWE-502) in JavaNativeMessageDecoder",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-118636",
             "date": "31/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-117681 - Konflux-ci: ui proxy skips backend tls verification on non-openshift clusters, leaking a token that can impersonate anyone",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-117681",
+            "titre": "CVE-2026-120209 - AJ-Report through 1.7.1 Authentication Bypass leading to RCE via Share-Token",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-120209",
             "date": "31/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-116964 - Konflux-ci: remote code execution via eval() in manifest scripts",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-116964",
+            "titre": "CVE-2026-120205 - Thelia before 3.1.0 Stored XSS via Coupon Condition Customer Name",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-120205",
             "date": "31/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-116086 - Konflux-ci: jq filter injection in github workflow issue management",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-116086",
-            "date": "31/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-114217 - Konflux-ci: github token plaintext exposure in ci/cd scripts",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-114217",
-            "date": "31/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-103882 - Acadlix LMS <= 1.1.9 - Unauthenticated Arbitrary File Deletion via 'delete_file_data.file_path' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-103882",
-            "date": "31/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-120070 - User Frontend <= 4.3.13 - Authenticated (Subscriber+) Privilege Escalation via post_content Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-120070",
-            "date": "31/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-119096 - Uncanny Toolkit for LearnDash <= 3.8.2 - Unauthenticated Authentication Bypass via 'email' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-119096",
-            "date": "31/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-116512 - Project Manager <= 4.1.1 - Unauthenticated Remote Code Execution via 'id' Parameter Function Injection",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-116512",
+            "titre": "CVE-2026-120203 - ShowDoc 2.8.14 before 3.9.6 Code Injection via Mock Templates",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-120203",
             "date": "31/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Northflank security breach leads to abuse of customers' AI API keys",
+            "lien": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+            "date": "31/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "New Android SMS of Death exploit can remotely crash unpatched phones",
+            "lien": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+            "date": "31/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Reddit to lock content behind logins to fight scrapers",
+            "lien": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+            "date": "31/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+            "lien": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+            "date": "31/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+            "lien": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+            "date": "31/10/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
             "lien": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
@@ -420,36 +444,6 @@
             "titre": "CISA says max severity GitLab flaw now exploited in the wild",
             "lien": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
             "date": "30/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Microsoft finally fixes VPN issues caused by September updates",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-            "date": "30/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-            "lien": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-            "date": "30/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-            "lien": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-            "date": "30/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-            "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-            "date": "29/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Binance probes potential $5.8 billion crypto-theft hack",
-            "lien": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-            "date": "29/10/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
@@ -641,6 +635,12 @@
     ],
     "next.ink": [
         {
+            "titre": "Flock : Parcours SAW",
+            "lien": "https://next.ink/265059/flock-parcours-saw/",
+            "date": "31/10/2026",
+            "image": "https://next.ink/wp-content/uploads/2026/10/Parcourssaw-titre.webp"
+        },
+        {
             "titre": "Data centers : la souveraineté européenne grâce à des travailleurs immigrés surexploités",
             "lien": "https://next.ink/264947/data-centers-la-souverainete-europeenne-grace-a-des-travailleurs-immigres-surexploites/",
             "date": "30/10/2026",
@@ -693,12 +693,6 @@
             "lien": "https://next.ink/264781/lfi-sinspire-de-la-campagne-numerique-de-lula-au-risque-de-dependre-de-meta/",
             "date": "30/10/2026",
             "image": "https://next.ink/wp-content/uploads/2026/08/Election-got.webp"
-        },
-        {
-            "titre": "☕️ Tor Browser 16 se dote de noms de fenêtres génériques",
-            "lien": "https://next.ink/brief-article/tor-browser-16-se-dote-de-noms-de-fenetres-generiques/",
-            "date": "30/10/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
 }
