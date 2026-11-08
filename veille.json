@@ -63,6 +63,12 @@
     ],
     "Journal du Hacker": [
         {
+            "titre": "Mon serveur Debian se met à jour tout seul, et c'est tant mieux en ce moment",
+            "lien": "https://jordanchapuy.com/posts/2026/11/mise-a-jour-automatique-debian/",
+            "date": "07/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Veille 81 - 24 actus qu’il ne fallait pas rater cette semaine",
             "lien": "https://www.camilleroux.com/unslop-claude-code-reanimate-ssh-veille-81/",
             "date": "06/11/2026",
@@ -113,12 +119,6 @@
         {
             "titre": "Proxmox : Monter un dossier de l'hôte dans un conteneur LXC sans casser les snapshots",
             "lien": "https://blog.flozz.fr/2026/11/03/proxmox-monter-un-dossier-de-lhote-dans-un-conteneur-lxc-sans-casser-les-snapshots/",
-            "date": "03/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Refactorer son poste de travail : un guide ergonomique pour les développeuses et développeurs",
-            "lien": "https://blog.hoppr.tech/blogs/2026-10-21-refactorer-son-poste-de-travail-un-guide-ergonomique-pour-les-developpeuses-et-developpeurs",
             "date": "03/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
@@ -249,6 +249,36 @@
     ],
     "ZDNET": [
         {
+            "titre": "6 réglages par défaut du Pixel 11 que j'ai modifiés et qui ont fait une grande différence",
+            "lien": "https://www.zdnet.fr/pratique/6-reglages-par-defaut-du-pixel-11-que-jai-modifies-et-qui-ont-fait-une-grande-difference-507500.htm#xtor=RSS-1",
+            "date": "08/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/pxl_20261105_154231218-scaled.webp"
+        },
+        {
+            "titre": "Le SI enjeu de pouvoir : le politique, l'architecte et le commercial",
+            "lien": "https://www.zdnet.fr/blogs/green-si/le-si-enjeu-de-pouvoir-le-politique-larchitecte-et-le-commercial-507513.htm#xtor=RSS-1",
+            "date": "08/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/trois-acteurs-1.png"
+        },
+        {
+            "titre": "Les caméras thermiques haut de gamme valent-elles le coup ? J’ai testé un modèle à 350 euros avec mon iPhone pour le savoir",
+            "lien": "https://www.zdnet.fr/guide-achat/les-cameras-thermiques-haut-de-gamme-valent-elles-le-coup-jai-teste-un-modele-a-350-euros-avec-mon-iphone-pour-le-savoir-507338.htm#xtor=RSS-1",
+            "date": "08/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/rision-magic-pro.jpg"
+        },
+        {
+            "titre": "Test pratique du MacBook Pro à écran tactile : un écran OLED époustouflant, même si vous ne le touchez jamais",
+            "lien": "https://www.zdnet.fr/guide-achat/test-pratique-du-macbook-pro-a-ecran-tactile-un-ecran-oled-epoustouflant-meme-si-vous-ne-le-touchez-jamais-507496.htm#xtor=RSS-1",
+            "date": "07/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/macbook-pro-m5-max-pro-wallpaper-2-scaled.webp"
+        },
+        {
+            "titre": "J’ai essayé les dernières nouveautés de l’appli Sonos : ces 2 petites améliorations règlent de gros irritants",
+            "lien": "https://www.zdnet.fr/guide-achat/jai-essaye-les-dernieres-nouveautes-de-lappli-sonos-ces-2-petites-ameliorations-reglent-de-gros-irritants-507317.htm#xtor=RSS-1",
+            "date": "07/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/sonos.jpg"
+        },
+        {
             "titre": "3 façons dont le Bluetooth 7 améliore vos appareils au-delà de l'audio sans perte",
             "lien": "https://www.zdnet.fr/pratique/3-facons-dont-le-bluetooth-7-ameliore-vos-appareils-au-dela-de-laudio-sans-perte-507493.htm#xtor=RSS-1",
             "date": "07/11/2026",
@@ -277,36 +307,6 @@
             "lien": "https://www.zdnet.fr/actualites/gpt-6-astra-optimise-un-modele-open-source-sans-reentrainement-507507.htm#xtor=RSS-1",
             "date": "06/11/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/05/openai-is-offering-up-to-250000-for-new-archaeological-discoveries-in-the-amazon-rainforest.webp"
-        },
-        {
-            "titre": "Rejet du budget 2027 : l'exemption sur la facturation électronique annulée, le calendrier maintenu",
-            "lien": "https://www.zdnet.fr/actualites/rejet-du-budget-2027-lexemption-sur-la-facturation-electronique-annulee-le-calendrier-maintenu-507491.htm#xtor=RSS-1",
-            "date": "06/11/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/facture20electronique20illustration.jpeg"
-        },
-        {
-            "titre": "Tanguy Duthion, Avanoo et Alex Combessie, Giskard : « Quelles IA ont accès à nos données ? » : la question que tout RSSI redoute en comité de direction",
-            "lien": "https://www.zdnet.fr/tribune/tanguy-duthion-avanoo-et-alex-combessie-giskard-quelles-ia-ont-acces-a-nos-donnees-la-question-que-tout-rssi-redoute-en-comite-de-direction-507482.htm#xtor=RSS-1",
-            "date": "06/11/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/avanoo-giskard.png"
-        },
-        {
-            "titre": "Affaire Holograph : 3 condamnations et près de 2 millions d’euros à rembourser",
-            "lien": "https://www.zdnet.fr/actualites/affaire-holograph-3-condamnations-et-pres-de-2-millions-deuros-a-rembourser-507486.htm#xtor=RSS-1",
-            "date": "06/11/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/06/kanchanara-9pcv2mb65y8-unsplash-scaled-e1750744060173.jpg"
-        },
-        {
-            "titre": "Génération de code : Mistral rachète SkipLabs pour automatiser la vérification agentique",
-            "lien": "https://www.zdnet.fr/actualites/generation-de-code-mistral-rachete-skiplabs-pour-automatiser-la-verification-agentique-507478.htm#xtor=RSS-1",
-            "date": "06/11/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/01/mistral-ai-small-3.jpg"
-        },
-        {
-            "titre": "J'ai testé l'ordinateur portable RTX Spark de HP et j'ai cramé 50 millions de jetons d'IA, et cela ne m'a rien coûté",
-            "lien": "https://www.zdnet.fr/guide-achat/jai-teste-lordinateur-portable-rtx-spark-de-hp-et-jai-crame-50-millions-de-jetons-dia-et-cela-ne-ma-rien-coute-507474.htm#xtor=RSS-1",
-            "date": "06/11/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/image_19f2b4c6-fc08-4bd0-94a5-aae6c3a21789-scaled.jpeg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,79 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-123960 - TOTOLINK CA300-PoE cstecgi.cgi setWanConfig buffer overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123960",
-            "date": "07/11/2026",
+            "titre": "CVE-2026-114713 - UnrealIRCd IRCv3 Label Message Tag Command Injection",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-114713",
+            "date": "08/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-123959 - TOTOLINK CA300-PoE cstecgi.cgi setLanguageCfg buffer overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123959",
-            "date": "07/11/2026",
+            "titre": "CVE-2026-123616 - imgproxy 3.3.0 before 4.0.16 Memory Exhaustion DoS via ICO Loader",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123616",
+            "date": "08/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-121762 - WordPress PowerPress Podcasting plugin <= 11.18.0 - Cross Site Request Forgery (CSRF) vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-121762",
-            "date": "07/11/2026",
+            "titre": "CVE-2026-123615 - imgproxy before 4.0.17 Out-of-Bounds Write in ICO Loader",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123615",
+            "date": "08/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-103900 - WPJAM Basic <= 7.1 - Unauthenticated Privilege Escalation to 'data[args][role]' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-103900",
-            "date": "07/11/2026",
+            "titre": "CVE-2026-123614 - imgproxy 4.0.0 before 4.0.16 Heap Buffer Overflow via ICO Loader Integer Overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123614",
+            "date": "08/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-66669 - WordPress Superb Addons: Blocks, Patterns &amp; theme Designer plugin <= 4.2.4 - Cross Site Request Forgery (CSRF) vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-66669",
-            "date": "07/11/2026",
+            "titre": "CVE-2026-123608 - Hickory DNS hickory-proto 0.3.1 before 0.26.1 CPU Exhaustion via BinEncoder Name Compression",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123608",
+            "date": "08/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-123958 - TOTOLINK CA300-PoE cstecgi.cgi setLanConfig buffer overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123958",
-            "date": "07/11/2026",
+            "titre": "CVE-2026-123607 - Hickory DNS NSEC3 Closest-Encloser Proof Unbounded Loop Denial of Service",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123607",
+            "date": "08/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-123957 - TOTOLINK CA300-PoE cstecgi.cgi setIpQosRules buffer overflow",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123957",
-            "date": "07/11/2026",
+            "titre": "CVE-2026-123606 - Hickory-DNS Recursor 0.25.0-alpha.3 through 0.25.2 Glueless-NS Referral Amplification",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123606",
+            "date": "08/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-104738 - Advanced Form Integration <= 2.10.2 - Unauthenticated PHP Object Injection via $_POST Parameters",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-104738",
-            "date": "07/11/2026",
+            "titre": "CVE-2026-123605 - Hickory DNS through 0.25.0-alpha.3 DNSSEC Validation Bypass via RRSIG Signer's Name",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123605",
+            "date": "08/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-87112 - QA Assistants <= 5.3.0 - Unauthenticated PHP Object Injection to Remote Code Execution via 'raw_name' and 'dlevent_ver' Parameters",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-87112",
-            "date": "07/11/2026",
+            "titre": "CVE-2026-123604 - Hickory DNS 0.26.0-beta.1 before 0.26.2 Resource Exhaustion DoS via NameServerPool::try_send TC-Retry Loop",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123604",
+            "date": "08/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-19121 - Multiple Vulnerabilities in IBM API Connect",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-19121",
-            "date": "07/11/2026",
+            "titre": "CVE-2026-123602 - Hickory DNS Recursor Ghost Domain Attack via Child-Side NS RRset Caching",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123602",
+            "date": "08/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Hackers pull off $133 million French bank heist via service provider",
+            "lien": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+            "date": "07/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+            "lien": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+            "date": "07/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
             "lien": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
@@ -479,18 +491,6 @@
         {
             "titre": "Chainalysis says breach exposed credentials for all customers",
             "lien": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-            "date": "06/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-            "lien": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-            "date": "06/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "MetaMask says recent attack didn't affect wallet infrastructure",
-            "lien": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
             "date": "06/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
@@ -683,6 +683,12 @@
     ],
     "next.ink": [
         {
+            "titre": "Flock : sale temps pour les gros bros",
+            "lien": "https://next.ink/266278/flock-sale-temps-pour-les-gros-bros/",
+            "date": "07/11/2026",
+            "image": "https://next.ink/wp-content/uploads/2025/03/dediee_flock.webp"
+        },
+        {
             "titre": "L’Europe dédie une plateforme et 525 millions d’euros aux concepteurs de puces",
             "lien": "https://next.ink/266258/leurope-dedie-une-plateforme-et-525-millions-deuros-aux-concepteurs-de-puces/",
             "date": "06/11/2026",
@@ -735,12 +741,6 @@
             "lien": "https://next.ink/266066/une-faille-dans-alpine-linux-permet-de-se-connecter-avec-un-mot-de-passe-trop-long/",
             "date": "06/11/2026",
             "image": "https://next.ink/wp-content/uploads/2024/10/Manchot.webp"
-        },
-        {
-            "titre": "Tarte aux fraises, bière virtuelle, ASCII art : ce que cachent les security.txt du .fr",
-            "lien": "https://next.ink/266069/tarte-aux-fraises-biere-virtuelle-ascii-art-ce-que-cachent-les-security-txt-du-fr/",
-            "date": "06/11/2026",
-            "image": "https://next.ink/wp-content/uploads/2025/10/GenZ.webp"
         }
     ]
 }
