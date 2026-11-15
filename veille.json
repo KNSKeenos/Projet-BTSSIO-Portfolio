@@ -117,13 +117,25 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "Le frigo de l'EFS à 110 °C, Binance absorbe un vol de 6,34 milliards, Linux bridé à 780 MHz — Quoi de neuf les devs? #191",
-            "lien": "https://go.itanea.fr/nl191",
-            "date": "11/11/2026",
+            "titre": "Actualité Cybersécurité de la semaine du 09/11/2026",
+            "lien": "https://newsletter.erreur403.fr/p/erreur-403-101-la-france-attribue-l-iran-le-sabotage-des-frigos-et-faille-openssh-sshole-exploit-e",
+            "date": "12/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
+        {
+            "titre": "OpenAI lance Daybreak, des agents IA qui piratent vos applis pour les sécuriser",
+            "lien": "https://korben.info/openai-lance-daybreak-des-agents-ia-qui-piratent-vos-applis-pour-les-securiser.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "15/11/2026",
+            "image": "https://korben.info/openai-lance-daybreak-des-agents-ia-qui-piratent-vos-applis-pour-les-securiser/openai-lance-daybreak-des-agents-ia-qui-piratent-vos-applis-pour-les-securiser-1.webp"
+        },
+        {
+            "titre": "Vectors - Aiguilleur du ciel ze game !",
+            "lien": "https://korben.info/vectors-jeu-controle-aerien-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "15/11/2026",
+            "image": "https://korben.info/vectors-jeu-controle-aerien-navigateur/vectors-jeu-controle-aerien-navigateur-1.png"
+        },
         {
             "titre": "Stela - Le retour du Hackintosh ?",
             "lien": "https://korben.info/stela-macos-pc-x86-hackintosh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -171,18 +183,6 @@
             "lien": "https://korben.info/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "09/11/2026",
             "image": "https://korben.info/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel-1.jpg"
-        },
-        {
-            "titre": "NomadNet - Votre site et vos fichiers sur Reticulum",
-            "lien": "https://korben.info/reticulum-nomadnet-site-fichiers.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "09/11/2026",
-            "image": "https://korben.info/reticulum-nomadnet-site-fichiers/reticulum-nomadnet-site-fichiers-1.png"
-        },
-        {
-            "titre": "Chicago95 - Votre Xubuntu déguisé en Windows 95",
-            "lien": "https://korben.info/chicago95-xfce-windows-95.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "09/11/2026",
-            "image": "https://korben.info/chicago95-xfce-windows-95/chicago95-xfce-windows-95-1.png"
         }
     ],
     "CERT-FR": [
@@ -249,6 +249,18 @@
     ],
     "ZDNET": [
         {
+            "titre": "Coupure de courant : cette batterie de secours protège votre frigo sans enlaidir la cuisine",
+            "lien": "https://www.zdnet.fr/guide-achat/enfin-une-alimentation-de-secours-pour-mon-refrigerateur-qui-sintegre-parfaitement-dans-ma-cuisine-507771.htm#xtor=RSS-1",
+            "date": "15/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/bluetti-fridgepower.jpg"
+        },
+        {
+            "titre": "Kindle : les réglages d’espacement qui rendent la lecture plus confortable",
+            "lien": "https://www.zdnet.fr/pratique/cette-fonctionnalite-cachee-du-kindle-me-permet-de-lire-plus-vite-507727.htm#xtor=RSS-1",
+            "date": "14/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/kindle_une.jpg"
+        },
+        {
             "titre": "Le DAS de 256 To de LaCie est une véritable bête de course, mais je ne le recommande qu’à un seul type d’utilisateur",
             "lien": "https://www.zdnet.fr/guide-achat/le-das-de-256-to-de-lacie-est-une-veritable-bete-de-course-mais-je-ne-le-recommande-qua-un-seul-type-dutilisateur-507720.htm#xtor=RSS-1",
             "date": "14/11/2026",
@@ -295,18 +307,6 @@
             "lien": "https://www.zdnet.fr/actualites/google-lance-gemini-4-hydrogen-son-modele-rapide-pour-le-code-et-les-agents-dans-search-et-lapplication-gemini-507821.htm#xtor=RSS-1",
             "date": "13/11/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/gemini-4-hydrogen.jpg"
-        },
-        {
-            "titre": "ZD Tech : Marvell rachète Lumentum 115 milliards pour doper l'IA avec la lumière",
-            "lien": "https://www.zdnet.fr/actualites/zd-tech-marvell-rachete-lumentum-115-milliards-pour-doper-lia-avec-la-lumiere-507400.htm#xtor=RSS-1",
-            "date": "13/11/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/09/zdnet-podcast-bo.jpg"
-        },
-        {
-            "titre": "Nvidia sans Jensen Huang : ce qui attend Colette Kress, la directrice financière devenue PDG par intérim",
-            "lien": "https://www.zdnet.fr/actualites/nvidia-sans-jensen-huang-ce-qui-attend-colette-kress-la-directrice-financiere-devenue-pdg-par-interim-507816.htm#xtor=RSS-1",
-            "date": "13/11/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/colette-kress.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,79 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-129319 - create-ecdh: computeSecret does not validate that the peer public key is on the curve (invalid-curve attack)",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129319",
+            "titre": "CVE-2026-129445 - D-Link DIR-850L Console Login consolepwd hard-coded credentials",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129445",
+            "date": "15/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-129349 - Apache Shiro: DefaultLdapRealm accepts any password when authentication caching is enabled",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129349",
+            "date": "15/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-129444 - D-Link DSL-6740C FTP Daemon ftpd_conf.php hard-coded credentials",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129444",
+            "date": "15/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-129465 - Zr.Admin.NET commit af07ffc through eb9228a IDOR via /system/user/profile",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129465",
+            "date": "15/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-129464 - Zr.Admin.NET commit 0ee1ab8 through eb9228a Path Traversal via DownloadFile",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129464",
+            "date": "15/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-129354 - D-Link DIR-600L HNAP cgibin hnap_main stack-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129354",
+            "date": "15/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-129353 - D-Link DIR-600L authentication.cgi authenticationcgi_main stack-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129353",
+            "date": "15/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-129352 - TRENDnet TEW-657BRM upgrade_flash.cgi stack-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129352",
             "date": "14/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-126173 - AutomatorWP Pro Webhooks addon <= 1.4.4 - Missing Authorization to Unauthenticated Arbitrary User Password Reset / Account Takeover via Webhook with 'Is the user ID' Field",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-126173",
+            "titre": "CVE-2026-129351 - TRENDnet TEW-657BRM mini_httpd setup.cgi sprintf out-of-bounds write",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129351",
             "date": "14/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-71531 - PrestaShop Webservice API Authorization Bypass via id_shop Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71531",
-            "date": "13/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-71519 - PrestaShop Webservice API Broken Access Control via Customer Endpoint",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-71519",
-            "date": "13/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-91869 - IBM Security QRadar EDR Improper Restriction of Excessive Authentication Attempts",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-91869",
-            "date": "13/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-124021 - Control Web Panel < 1.30.6 Authorization Bypass via oauth_authorization_codes",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-124021",
-            "date": "13/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-124020 - Control Web Panel < 1.30.6 Host Header Password Reset Poisoning",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-124020",
-            "date": "13/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-115788 - IBM App Connect Operator and IBM App Connect Enterprise Certified Containers Operands Log Forging",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-115788",
-            "date": "13/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-110279 - IBM ContextForge MCP Gateway is affected by an improper authentication vulnerability",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-110279",
-            "date": "13/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2025-53697 - Johnson Controls iSTAR Use of Default Credentials",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2025-53697",
-            "date": "13/11/2026",
+            "titre": "CVE-2026-129261 - Kingston FURY CTRL RGB Control Software IOCTL NTIOLib_X64.sys exposed ioctl with insufficient access control",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129261",
+            "date": "14/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Cursor confirms security breach led to malicious Claude Code extension",
+            "lien": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+            "date": "14/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "US disrupts North Korean campaign behind $400 million crypto theft",
+            "lien": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+            "date": "14/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
             "lien": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
@@ -480,18 +492,6 @@
             "titre": "Police arrest 354 suspects in dark web cybercrime crackdown",
             "lien": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
             "date": "13/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-            "lien": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-            "date": "12/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-            "lien": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-            "date": "12/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
@@ -633,6 +633,12 @@
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
+            "titre": "Cybersécurité : la souveraineté devient un critère d’achat, mais le rattrapage européen reste lent",
+            "lien": "https://www.channelnews.fr/cybersecurite-la-souverainete-devient-un-critere-dachat-mais-le-rattrapage-europeen-reste-lent-160126",
+            "date": "13/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "mc2i annonce trois promotions stratégiques au sein de son comex",
             "lien": "https://www.channelnews.fr/mc2i-annonce-trois-promotions-strategiques-au-sein-de-son-comex-160106",
             "date": "12/11/2026",
@@ -673,17 +679,17 @@
             "lien": "https://www.channelnews.fr/cyberattaque-contre-credit-mutuel-arkea-une-partie-des-118-millions-deuros-recuperee-160084",
             "date": "10/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Anthropic vise finalement une valorisation de 1 400 milliards de dollars pour son introduction en Bourse",
-            "lien": "https://www.channelnews.fr/anthropic-vise-finalement-une-valorisation-de-1-400-milliards-de-dollars-pour-son-introduction-en-bourse-160090",
-            "date": "10/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "next.ink": [
         {
-            "titre": "Une alerte rarissime cloue tous les avions au sol aux États-Unis",
+            "titre": "Flock : bons baisers de Chine",
+            "lien": "https://next.ink/267610/flock-bons-baisers-de-chine/",
+            "date": "14/11/2026",
+            "image": "https://next.ink/wp-content/uploads/2026/11/Bbdc-title.webp"
+        },
+        {
+            "titre": "[MàJ] Une alerte rarissime a cloué tous les avions au sol aux États-Unis",
             "lien": "https://next.ink/267641/une-alerte-rarissime-cloue-tous-les-avions-au-sol-aux-etats-unis/",
             "date": "14/11/2026",
             "image": "https://next.ink/wp-content/uploads/2025/12/bug-avion.webp"
@@ -735,12 +741,6 @@
             "lien": "https://next.ink/260033/tuto-agents-ia-installer-le-harnais-pi-dev-ou-sa-version-dopee-aux-hormones-oh-my-pi/",
             "date": "13/11/2026",
             "image": "https://next.ink/wp-content/uploads/2025/03/Tuto-ia.webp"
-        },
-        {
-            "titre": "☕️ Vivaldi a sa version pour les entreprises, mais avec des limites",
-            "lien": "https://next.ink/brief-article/vivaldi-a-sa-version-pour-les-entreprises-mais-avec-des-limites/",
-            "date": "13/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ]
 }
