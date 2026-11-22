@@ -63,6 +63,18 @@
     ],
     "Journal du Hacker": [
         {
+            "titre": "Entre nomophobie et Smombies : Pourquoi est-il possible de devenir dépendant des smartphones et comment limiter la casse ?",
+            "lien": "https://tugaleres.com/2026/11/21/entre-nomophobie-et-smombies-pourquoi-est-il-possible-de-devenir-dependant-des-smartphones-et-comment-limiter-la-casse/",
+            "date": "21/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Publication de la mise à jour de Debian 13.8",
+            "lien": "https://www.debian.org/News/2026/20261121.fr",
+            "date": "21/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
             "titre": "Veille 83 - 33 actus qu’il ne fallait pas rater cette semaine",
             "lien": "https://www.camilleroux.com/olala-mini-ovh-nabaztag-kitesurf-veille-83/",
             "date": "20/11/2026",
@@ -109,21 +121,33 @@
             "lien": "https://cryptolab.re/posts/2026/nginx2root/",
             "date": "19/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Patcher les serveurs Linux avec Semaphore via Teleport",
-            "lien": "https://www.aukfood.fr/semaphore-ansible-teleport/",
-            "date": "18/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Sécurité : Google et Anthropic vont dévoiler les détails des failles après 30 jours",
-            "lien": "https://next.ink/268034/securite-google-et-anthropic-vont-devoiler-les-details-des-failles-apres-30-jours/",
-            "date": "18/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Korben": [
+        {
+            "titre": "Apple - Londres ne peut plus cacher son injonction sur iCloud",
+            "lien": "https://korben.info/apple-porte-derobee-icloud-royaume-uni.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "21/11/2026",
+            "image": "https://korben.info/apple-porte-derobee-icloud-royaume-uni/apple-porte-derobee-icloud-royaume-uni-1.png"
+        },
+        {
+            "titre": "Windows NT 4.0 sur un Raspberry Pi, c'est inutile donc indispensable",
+            "lien": "https://korben.info/pint-windows-nt-raspberry-pi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "21/11/2026",
+            "image": "https://korben.info/pint-windows-nt-raspberry-pi/pint-windows-nt-raspberry-pi-1.jpg"
+        },
+        {
+            "titre": "Plex lâche TheTVDB",
+            "lien": "https://korben.info/plex-abandonne-thetvdb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "21/11/2026",
+            "image": "https://korben.info/plex-abandonne-thetvdb/plex-abandonne-thetvdb-1.png"
+        },
+        {
+            "titre": "J'ai testé l'API d'ibou",
+            "lien": "https://korben.info/ibou-api-recherche-tuto.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+            "date": "21/11/2026",
+            "image": "https://korben.info/ibou-api-recherche-tuto/ibou-api-recherche-tuto-1.png"
+        },
         {
             "titre": "ARTEX, l'IA de piratage open source qui a figé la Commission européenne",
             "lien": "https://korben.info/artex-lia-de-piratage-open-source-qui-a-fige-la-commission-europeenne.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -159,30 +183,6 @@
             "lien": "https://korben.info/directx-12-windows-7-wddm2win7.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
             "date": "20/11/2026",
             "image": "https://korben.info/directx-12-windows-7-wddm2win7/directx-12-windows-7-wddm2win7-1.png"
-        },
-        {
-            "titre": "Windows 11 va bientôt noter le niveau de sécurité de votre PC",
-            "lien": "https://korben.info/windows-baseline-protection.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "19/11/2026",
-            "image": "https://korben.info/windows-baseline-protection/windows-baseline-protection-1.png"
-        },
-        {
-            "titre": "Test des devolo BE9300 et BE6500, le mesh WiFi 7 que j'installe chez tous mes potes",
-            "lien": "https://korben.info/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "19/11/2026",
-            "image": "https://korben.info/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes-1.jpg"
-        },
-        {
-            "titre": "Quelqu'un vit peut-être votre vie en ce moment. Comment ne plus perdre votre identité ? #sponso",
-            "lien": "https://korben.info/comment-ne-plus-perdre-votre-identite.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "19/11/2026",
-            "image": "https://korben.info/comment-ne-plus-perdre-votre-identite/comment-ne-plus-perdre-votre-identite-1.webp"
-        },
-        {
-            "titre": "Unreal Tournament 2004 est de retour !",
-            "lien": "https://korben.info/unreal-tournament-2004-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-            "date": "19/11/2026",
-            "image": "https://korben.info/unreal-tournament-2004-navigateur/unreal-tournament-2004-navigateur-1.png"
         }
     ],
     "CERT-FR": [
@@ -249,6 +249,36 @@
     ],
     "ZDNET": [
         {
+            "titre": "Mon top 3 des lanceurs Android minimalistes, et pourquoi ils sont meilleurs que celui par défaut",
+            "lien": "https://www.zdnet.fr/guide-achat/mon-top-3-des-lanceurs-android-minimalistes-et-pourquoi-ils-sont-meilleurs-que-celui-par-defaut-508363.htm#xtor=RSS-1",
+            "date": "22/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/minimalhero.jpg"
+        },
+        {
+            "titre": "J'ai regardé un film avec les nouvelles lunettes de réalité virtuelle de Meta",
+            "lien": "https://www.zdnet.fr/guide-achat/jai-regarde-un-film-avec-les-nouvelles-lunettes-de-realite-virtuelle-de-meta-508202.htm#xtor=RSS-1",
+            "date": "22/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/meta-glasses-vr.jpg"
+        },
+        {
+            "titre": "GitHub et Microsoft envoient des correctifs à six projets open source",
+            "lien": "https://www.zdnet.fr/blogs/l-esprit-libre/github-et-microsoft-envoient-des-correctifs-a-six-projets-open-source-508383.htm#xtor=RSS-1",
+            "date": "21/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/microsoft-mdash.jpg"
+        },
+        {
+            "titre": "Faux sites Internet et arnaques e-commerce : comment les repérer avant d’acheter ?",
+            "lien": "https://www.zdnet.fr/guide-achat/faux-sites-internet-et-arnaques-e-commerce-comment-les-reperer-avant-dacheter-506220.htm#xtor=RSS-1",
+            "date": "21/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/image1.png"
+        },
+        {
+            "titre": "Accélérer Chrome : économiseur de mémoire, préchargement, extensions, cache… les bons réflexes",
+            "lien": "https://www.zdnet.fr/guide-achat/google-chrome-est-lent-5-astuces-simples-pour-laccelerer-rapidement-508186.htm#xtor=RSS-1",
+            "date": "21/11/2026",
+            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/google-chrome_une.jpg"
+        },
+        {
             "titre": "Test du HP OmniBook 5 : mieux (et moins bien) que le MacBook Neo",
             "lien": "https://www.zdnet.fr/guide-achat/test-du-hp-omnibook-5-mieux-et-moins-bien-que-le-macbook-neo-508368.htm#xtor=RSS-1",
             "date": "21/11/2026",
@@ -277,36 +307,6 @@
             "lien": "https://www.zdnet.fr/pratique/android-pratique-lappli-essentials-vous-donne-acces-a-plus-de-30-fonctionnalites-supplementaires-508358.htm#xtor=RSS-1",
             "date": "20/11/2026",
             "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/essentials-appli-android-pratique.jpg"
-        },
-        {
-            "titre": "Test Treedix USB Cable Tester : le plein d’infos",
-            "lien": "https://www.zdnet.fr/guide-achat/test-treedix-usb-cable-tester-le-plein-dinfos-508260.htm#xtor=RSS-1",
-            "date": "20/11/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/treedix-usb-cable-tester-test.jpg"
-        },
-        {
-            "titre": "Enregistreurs IA Plaud à 20 % de remise jusqu’au 30 novembre : lequel choisir pour accompagner les réunions ?",
-            "lien": "https://www.zdnet.fr/publicite/enregistreurs-ia-plaud-a-20-de-remise-jusquau-30-novembre-lequel-choisir-pour-accompagner-les-reunions-508325.htm#xtor=RSS-1",
-            "date": "20/11/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/record_video-call.jpg"
-        },
-        {
-            "titre": "Daniel Crowe, NETSCOUT : quand l’excès de données paralyse l’IA",
-            "lien": "https://www.zdnet.fr/tribune/daniel-crowe-netscout-quand-lexces-de-donnees-paralyse-lia-508131.htm#xtor=RSS-1",
-            "date": "20/11/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/daniel-crowe_netscout.jpg"
-        },
-        {
-            "titre": "Le directeur national de la cybersécurité des Etats-Unis viré suite à une cascade de pannes numériques",
-            "lien": "https://www.zdnet.fr/actualites/le-directeur-national-de-la-cybersecurite-des-etats-unis-vire-suite-a-une-cascade-de-pannes-numeriques-508330.htm#xtor=RSS-1",
-            "date": "20/11/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/11/maison_blanche_1280.jpg"
-        },
-        {
-            "titre": "Artex frappe l'UE : l'exploitation d'une IA autonome paralyse le SIRH de la Commission européenne",
-            "lien": "https://www.zdnet.fr/actualites/artex-frappe-lue-lexploitation-dune-ia-autonome-paralyse-le-sirh-de-la-commission-europeenne-508320.htm#xtor=RSS-1",
-            "date": "20/11/2026",
-            "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/01/eu-flag-european-union-flag-idea-design-1587109922rna.jpg"
         }
     ],
     "Blog Officiel Zabbix": [
@@ -373,67 +373,91 @@
     ],
     "CVE Feed": [
         {
-            "titre": "CVE-2026-129811 - CoE PDO Mapping Size Exceeds Process Data Buffer Out-of-Bounds Write",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129811",
+            "titre": "CVE-2026-131701 - WordPress WP Media folder plugin <= 6.2.8 - SQL Injection vulnerability",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-131701",
+            "date": "22/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-131707 - WordPress ProfileGrid plugin <= 6.0.0.6 - PHP Object Injection vulnerability",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-131707",
+            "date": "22/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-131705 - WordPress ProfileGrid plugin <= 6.0.0.6 - SQL Injection vulnerability",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-131705",
+            "date": "22/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-134704 - OpenShot Video Editor through 4.1.1 Deserialization via Legacy Project Import",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-134704",
+            "date": "22/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-134694 - Gammapy through 2.1 Code Injection via WCSSHAPE FITS Header Card",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-134694",
+            "date": "22/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-134679 - WeddingShare through 1.8.2 Missing Authorization via MediaViewer GalleryItem",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-134679",
+            "date": "22/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-134654 - Mailflare before 48957fb Host Header Injection in Password Reset",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-134654",
+            "date": "22/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "CVE-2026-125294 - Nexter Blocks Pro <= 5.0.10 - Unauthenticated Privilege Escalation to Unicode Collation Confusion in 'tpgb_acf_key' Parameter",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-125294",
             "date": "21/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-129798 - CoE SDO Segmented Download Cumulative Out-of-Bounds Write",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129798",
+            "titre": "CVE-2026-133993 - D-Link DIR-600L GENA Subscription gena.cgi FUN_0040efb0 stack-based overflow",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-133993",
             "date": "21/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         },
         {
-            "titre": "CVE-2026-129797 - CoE SDO Segmented Download Missing State Guard",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129797",
-            "date": "21/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-129796 - CoE SDO Download Bounds Check Failures on Flexible-Length Objects",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129796",
-            "date": "21/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-129794 - EoE Fragment Reassembly Heap Out-of-Bounds Write",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129794",
-            "date": "21/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-129344 - Client-selected V1 serializer crashes shared broadcast dispatch on binary payloads",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129344",
-            "date": "21/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-128361 - Unsanitized presence key crashes Presence tracker",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-128361",
-            "date": "21/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-118049 - Tutor LMS <= 4.2.0 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Content Deletion via 'question_id' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-118049",
-            "date": "21/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-129220 - Everest Forms <= 3.6.4 - Authenticated (Custom+) Missing Authorization to Arbitrary Plugin Activation via 'moduleData' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-129220",
-            "date": "21/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "CVE-2026-123086 - PublishPress Revisions: Duplicate Posts, Submit, Approve and Schedule Content Changes <= 4.3.4 - Missing Authorization to Authenticated (Contributor+) Arbitrary Post Deletion via 'pp_revisions_deleted' Parameter",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-123086",
+            "titre": "CVE-2026-134461 - Web-Token jwt-framework before 3.4.10 DoS via Unbounded PBES2 p2c Iteration Count",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-134461",
             "date": "21/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
     "Bleeping": [
+        {
+            "titre": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+            "lien": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+            "date": "21/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+            "lien": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+            "date": "21/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+            "lien": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+            "date": "21/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+            "titre": "FBI reportedly hacked again, this time targeting nationwide police database",
+            "lien": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+            "date": "21/11/2026",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
         {
             "titre": "Bell Canada says 'agentic' hacker stole enterprise customer data",
             "lien": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
@@ -468,30 +492,6 @@
             "titre": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
             "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
             "date": "20/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-            "lien": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-            "date": "20/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Windows 11 KB5132057 update released with 28 changes and fixes",
-            "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-            "date": "20/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "VMware patches vCenter zero-day exploited in attacks since September",
-            "lien": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-            "date": "20/11/2026",
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
-        },
-        {
-            "titre": "Hackers steal data of 1.6 million SBC Medical Group customers",
-            "lien": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-            "date": "19/11/2026",
             "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
         }
     ],
